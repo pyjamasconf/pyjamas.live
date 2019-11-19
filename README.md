@@ -5,7 +5,7 @@
 1. clonar este repo: `git clone git@github.com:pyjamasconf/pyjamas.live.git`
 2. entrar no repo: `cd pyjamas.live`
 3. servir localmente: `./zola serve`
-4. acessar: (http://localhost:1111/)[http://localhost:1111/]
+4. acessar: [http://localhost:1111/](http://localhost:1111/)
 
 ## criando conteúdo:
 
