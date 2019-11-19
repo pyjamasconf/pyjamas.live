@@ -1,0 +1,16 @@
+[build]
+# caminho onde o site será gerado.
+publish = "public"
+
+# comando que irá gerar o site
+command = "zola build"
+
+[build.environment]
+# A versão do Zola para informar ao Netlify
+ZOLA_VERSION = "0.9.0"
+
+# Para possibilitar a geração de um site de preview para todo
+# Pull Request precisamos fazer a alteração da url base.
+
+[context.deploy-preview]
+command = "zola build --base-url $DEPLOY_PRIME_URL"
