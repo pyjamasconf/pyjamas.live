@@ -1,0 +1,28 @@
+{% extends "hyde/templates/index.html" %}
+
+{% block extra_head %}
+<script src="{{ get_url(path='/main.js') }}"></script>
+{% endblock extra_head %}
+
+{% block content %}
+
+    <div class="grade">
+    <!-- HTML TABLE built from talks.json goes here -->
+    </div>
+
+    <div class="posts">
+        <h2>Novidades</h2>
+        {% for page in section.pages | reverse %}
+          <div class="post">
+            <h1 class="post-title">
+              <a href="{{ page.permalink }}">
+                {{ page.title }}
+              </a>
+            </h1>
+            {% if page.date %}
+              <span class="post-date">{{ page.date | date(format="%Y-%m-%d") }}</span>
+            {% endif %}
+          </div>
+        {% endfor %}
+    </div>
+{% endblock content %}
