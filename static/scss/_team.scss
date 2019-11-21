@@ -1,0 +1,100 @@
+.team_area{
+    padding-top: 196px;
+    padding-bottom: 166px;
+    @media #{$mobile_device} {
+        padding-top: 40px;
+        padding-bottom: 10px;
+    }
+    @media #{$tablet_device} {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+   .section_title{
+
+   } 
+   span{
+       font-size: 14px;
+   }
+   h3{
+
+   }
+   .single_team {
+       margin-bottom: 30px;
+       .thumb{
+           position: relative;
+           width: 200px;
+           height: 200px;
+           background-size: cover;
+           background-position: center;
+           border-radius: 50%;
+           margin: auto;
+           z-index: 9;
+           overflow: hidden;
+           .author_links{
+            position: absolute;
+            left: 0;
+            right: 0;
+            margin: auto;
+            bottom: 36px;
+            @include transform(scaleX(0));
+            transition: .3s;
+               ul{
+                   li{
+                       display: inline-block;
+                       a{
+                        font-size: 15px;
+                        color: #d5ccc7;
+                        margin: 0 12px;
+                        &:hover{
+                            color: #fff;
+                        }
+                       }
+                   }
+               }
+           }
+           &::before {
+            position: absolute;
+            content: '';
+            background: #000;
+            width: 100%;
+            height: 100%;
+            left: 0;
+            border-radius: 50%;
+            opacity: .5;
+            @include transform(translateY(100px));
+            opacity: 0;
+            @include transition(.5s);
+        }
+       }
+       h3{
+        font-size: 26px;
+        color: #131313;
+        font-weight: 500;
+        margin-top: 45px;
+        margin-bottom: 17px;
+       }
+       p{
+        color: #808080;
+        font-weight: 400;
+        font-size: 16px;
+       }
+       &:hover{
+        .author_links{
+            @include transform(scaleX(1));
+        }
+        .thumb::before{
+            @include transform(translateY(0px));
+            opacity: .5;
+        }
+       }
+   }
+}
+.team_1{
+    background-image: url(../img/team/team1.png);
+}
+.team_2{
+    background-image: url(../img/team/team2.png);
+}
+.team_3{
+    background-image: url(../img/team/team3.png);
+}

@@ -1,0 +1,94 @@
+#accordion{
+    button{
+        font-size: 16px;
+        font-size: 24px;
+        font-family: $font1;
+        font-weight: 400;
+        color: #ff5e13;
+        @media #{$mobile_device} {
+            font-size: 14px;
+        }
+    }
+    .card{
+        margin-bottom: 15px;
+        border-radius: 0;
+        border: 0 !important;
+        .card-header {
+            background-color: transparent;
+            padding: 4px 14px;
+            border: 0 !important;
+            @media #{$mobile_device} {
+                padding: 4px 0;
+            }
+        }
+        .card-body{
+            font-size: 16px;
+            line-height: 28px;
+            color: #5c5c5c;
+            padding: 0px 30px 32px;
+            font-family: $font1;
+            line-height: 28px;
+        }
+        .collapse {
+            &.show{
+                background: #fff;
+                border-bottom: 1px solid transparent;
+            }
+        }
+    }
+    h5{
+        position: relative;
+        z-index: 1;
+        button.btn.btn-link{
+            &:after{
+                position: absolute;
+                content: "\e646";
+                top: 50%;
+                right: 0px;
+                height: auto;
+                font-family: 'themify';
+                color: #ff5e13;
+                font-size: 18px;
+                -webkit-transform: translateY(-50%);
+                -ms-transform: translateY(-50%);
+                    transform: translateY(-50%);
+            }
+            &:focus {
+                outline: none;
+                text-decoration: none;
+            }
+            color: #ff5e13;
+            @media #{$mobile_device} {
+                padding-left: 0;
+            }
+        }
+        button.btn.btn-link.collapsed{
+            &:after{
+                content: "\e61a";
+                color: #020c26;
+                font-size: 18px;
+            }
+            color: #020c26;
+            @media #{$mobile_device} {
+                padding-left: 0;
+            }
+        }
+
+    }
+    
+    .btn-link:hover {
+        color: #182028;
+        text-decoration: none;
+    }
+    .btn{
+        text-align: left !important;
+    }
+}
+.faq-area{
+    padding-top: 100px;
+    padding-bottom: 90px;
+    @media #{$mobile_device}{
+        padding-top: 60px;
+        padding-bottom: 30px;
+    }
+}

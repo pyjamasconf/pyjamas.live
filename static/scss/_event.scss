@@ -1,0 +1,110 @@
+.event_area{
+    position: relative;
+    padding-bottom: 120px;
+    @media #{$mobile_device} {
+       padding-bottom: 60px;
+       
+    }
+    &.plus_padding{
+        margin-top: 200px;
+        @media #{$mobile_device} {
+            margin-top: 60px;
+        }
+        @media #{$tablet_device} {
+            margin-top: 60px;
+        }
+    }
+    .vr_text{
+        font-size: 120px;
+        font-weight: 700;
+        color: #F3F3F3;
+        writing-mode: vertical-lr;
+        position: absolute;
+        left: 17%;
+        top: 10%;
+        @include transform(rotate(180deg));
+        @media #{$mid_device} {
+            left: 2%;
+        }
+    }
+    .double_line{
+        position: relative;;
+        z-index: 9;
+        padding-top: 100px;
+        padding-bottom: 20px;
+        margin-bottom: 100px;
+        @media #{$mobile_device}{
+            padding-top: 40px;
+            margin-bottom: 20px;
+        }
+        &::before{
+            position: absolute;
+            content: "";
+            width: 100%;
+            height: 10px;
+            @extend %gradient_2;
+            top: 0;
+            left: 0;
+        }
+        &::after{
+            position: absolute;
+            content: "";
+            width: 100%;
+            height: 10px;
+            @extend %gradient_2;
+            bottom: 0;
+            left: 0;
+        }
+    }
+    .date{
+        h3{
+            font-size: 26px;
+            font-weight: 500;
+            color: #FF0000;
+            @media #{$mobile_device}{
+                margin-bottom: 20px;
+            }
+            @media #{$tablet_device}{
+                margin-bottom: 30px;
+            }
+        }
+    }
+    .single_speaker{
+        margin-bottom: 63px;
+        @media #{$mobile_device} {
+            margin-bottom: 30px;
+        }
+        img{
+            float: left;
+            @media #{$mobile_device}{
+                float: none;
+            }
+        }
+        .speaker-name{
+            padding-left: 30px;
+            overflow: hidden;
+            @media #{$mobile_device}{
+                padding-left: 0;
+                margin-top: 20px;
+            }
+            .heading{
+                margin-bottom: 5px;
+                span{
+                    font-size: 26px;
+                    color: #1F1F1F;
+                    font-weight: 500;
+                }
+                .time{
+                    font-size: 16px;
+                    font-weight: 500;
+                    color: #1F1F1F;
+                }
+            }
+        }
+        p{
+            color: #707070;
+            font-size: 16px;
+            line-height: 28px;
+        }
+    }
+}

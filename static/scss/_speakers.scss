@@ -1,0 +1,105 @@
+.speakers_area{
+    padding-top: 100px;
+    position: relative;
+    padding-bottom: 105px;
+    &.inc_padd{
+        padding-top: 200px;
+        @media #{$mobile_device} {
+            padding-bottom: 0px;
+            padding-top: 50px;
+        }
+        @media #{$tablet_device} {
+            padding-bottom: 100px;
+            padding-top: 70px;
+        }
+    }
+    @media #{$mobile_device} {
+        padding-bottom: 0px;
+        padding-top: 50px;
+    }
+    .horizontal_text{
+        font-size: 120px;
+        font-weight: 700;
+        position: absolute;
+        right: 0;
+        top: 100px;
+        color: #F3F3F3;
+        @media #{$mid_device} {
+            font-size: 90px;
+        }
+    }
+    .single_speaker{
+        margin-bottom: 90px;
+        overflow: hidden;
+        .speaker_thumb{
+            position: relative;
+            overflow: hidden;
+            img{
+                width: 100%;
+            }
+            .hover_overlay{
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                left: 0;
+                bottom: 0;
+                background: rgba(255, 0, 0, .50);
+                @include transition(.3s);
+                @include transform(translateY(80%));
+                opacity: 0;
+                .social_icon{
+                    position: absolute;
+                    left: 0;
+                    right: 0;
+                    text-align: center;
+                    bottom: 40px;
+                    @include transition(.5s);
+                    
+                    a{
+                        width: 50px;
+                        height: 50px;
+                        @include transition(.3s);
+                        @include border-radius(50%);
+                        background: #fff;
+                        display: inline-block;
+                        line-height: 50px;
+                        font-size: 17px;
+                        color: #FF0000;
+                        margin: 0 7px;
+
+                        &:hover{
+                            @extend %gradient_1;
+                            color: #fff;
+                        }
+                    }
+                }
+            }
+        }
+        .speaker_name{
+            h3{
+                font-size: 26px;
+                font-weight: 600;
+                margin-top: 40px;
+                margin-bottom: 7px;
+            }
+            p{
+                margin-bottom: 0;
+                font-size: 16px;
+                color: #FF0000;
+                font-weight: 400;
+            }
+        }
+        &:hover{
+            .hover_overlay{
+                @include transform(translateY(0));
+                opacity: 1;
+            }
+            .speaker_thumb{
+                .social_icon{
+                    @include transform(scaleX(1));
+                }
+            }
+           
+        }
+    }
+}
