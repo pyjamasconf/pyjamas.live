@@ -1,0 +1,102 @@
+.boxed-btn {
+	background: #fff;
+	color: #131313;
+	display: inline-block;
+	padding: 18px 44px;
+	font-family: $font1;
+	font-size: 14px;
+    font-weight: 400;
+    border: 0;
+    border: 1px solid $btn_bg;
+    // width: 180px;
+    text-align: center;
+    color: $btn_bg !important;
+    text-transform: uppercase;
+    &:hover{
+        background: $btn_bg;
+        color: #fff !important;
+        border: 1px solid $btn_bg;
+    }
+    &:focus{
+        outline: none;
+    }
+    &.large-width{
+        width: 220px;
+    }
+}
+.boxed-btn-red {
+	background: #fff;
+	color: #FF0000;
+	display: inline-block;
+	padding: 16px 44px;
+	font-family: $font1;
+	font-size: 16px;
+    font-weight: 500;
+    border: 0;
+    border: 2px solid #FF0000;
+    // width: 180px;
+    text-align: center;
+    color: #FF0000 !important;
+    text-transform: capitalize;
+    &:hover{
+        background: #FF0000;
+        color: #fff !important;
+        border: 2px solid #FF0000;
+    }
+    &:focus{
+        outline: none;
+    }
+    &.large-width{
+        width: 220px;
+    }
+}
+.boxed-btn2 {
+	background: transparent;
+	color: #fff;
+	display: inline-block;
+	padding: 18px 24px;
+	font-family: $font1;
+	font-size: 14px;
+    font-weight: 400;
+    border: 0;
+    border: 1px solid #fff;
+    text-transform: uppercase;
+    &:hover{
+        background: #fff;
+        color: #131313 !important;
+    }
+    &:focus{
+        outline: none;
+    }
+}
+
+.boxed-btn-white {
+	background: transparent;
+	color: #fff;
+	display: inline-block;
+	padding: 16px 43px;
+	font-family: $font1;
+	font-size: 16px;
+    font-weight: 500;
+    border: 0;
+    border: 2px solid #fff;
+    // width: 180px;
+    text-align: center;
+    color: #fff !important;
+    text-transform: capitalize;
+    @media #{$mobile_device} {
+        padding: 14px 20px;
+        font-size: 15px;
+    }
+    &:hover{
+        background: #fff;
+        color: #000 !important;
+        border: 2px solid #fff;
+    }
+    &:focus{
+        outline: none;
+    }
+    &.large-width{
+        width: 220px;
+    }
+}

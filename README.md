@@ -4,19 +4,23 @@
 
 1. clonar este repo: `git clone git@github.com:pyjamasconf/pyjamas.live.git`
 2. entrar no repo: `cd pyjamas.live`
-3. inicializar os submodulos: `git submodule init`
-4. atualizar os submodulos: `git submodule update`
-5. servir localmente: `./zola serve`
-6. acessar: [http://localhost:1111/](http://localhost:1111/)
+3. servir localmente: `./zola serve`
+4. acessar: [http://localhost:1111/](http://localhost:1111/)
+
+
+## Editando templates
+
+- Tera: https://tera.netlify.com/docs/templates/#templates
+- Zola: https://www.getzola.org/documentation/templates/overview/
 
 ## criando conteúdo:
 
-1. criar um arquivo markdown (`novo-post.md`) dentro da pasta `content/`
+1. criar um arquivo markdown (`novo-post.md`) dentro da pasta `content/blog`
 2. as primeiras linhas tem que ter `title` e opcionalmente `date` (sem isso não vai aparecer listado na homepage)
 
 Exemplo:
 
-```
+```md
 +++
 title = "titulo do novo post"
 date = 2019-11-19
@@ -29,10 +33,9 @@ Conteúdo do post aqui ....
 
 ## enviando conteúdo para o site online:
 
-1. comitar os arquivos de `content/` que tenham mudado
+1. comitar os arquivos de `content/blog` que tenham mudado
 2. abrir um pull request
 3. esperar aprovação
-
 
 ## mais informação:
 

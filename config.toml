@@ -11,13 +11,41 @@ highlight_code = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
-theme = "hyde"
 description = "pyjamasconf esta chegando"
-title = "Pyjamas Conf"
+title = "Pyjamas <br> Conf <br> 2019"
 
 [extra]
-hyde_links = [
+links = [
     {url = "https://github.com/pyjamasconf/codigo-de-conduta", name = "Código de conduta"},
-    {url = "https://github.com/pyjamasconf/", name = "PyjamasConf @ Github"},
 ]
-hyde_sticky = false
+social = [
+    {url = "https://twitter.com/pyjamasconf/", name = "Twitter"},
+    {url = "https://t.me/pyjamasconf/", name = "Telegram"},
+    {url = "https://github.com/pyjamasconf", name = "Github"},
+    {url = "https://www.youtube.com/channel/UCWCFzEJd7PhVulMXwGjcYAA/", name = "Youtube"},
+]
+action_button = {url = "https://forms.gle/hXXJ8xM12tfFGvVm6", name= "Quero Palestrar!"}
+date = "13-14 Dezembro 2019"
+where = {url = "https://www.youtube.com/channel/UCWCFzEJd7PhVulMXwGjcYAA/", name="Youtube Live Stream"}
+faqs = [
+    {question = "Preciso me inscrever para assistir?", answer="Não é preciso se inscrever, é totalmente gratuíto e online! <br>Recomendamos que participe do grupo no <a href='http://t.me/pyjamasconf' target='_blank'>telegram</a> e acompanhe nas redes sociais para ficar sabendo quando divulgarmos a grade."},
+    {question = "Quais serão os horários das transmissões", answer="Acontecerão entre 13/12/2019 16:00 até 14/12/2019 16:00, serão 24h de atividades online e em breve divulgaremos a grade e os links."},
+    {question = "Sou iniciante, posso participar?", answer="Claro que sim! você pode inclusive ser palestrante, se tiver uma idéia para compartilhar preencha o formulário de submissão de proposta e faremos o possível para te auxiliar na sua transmissão."}
+]
+side_text = "PYJAMAS"
+logo_medium = "/img/pyjamas_medium.png"
+
+
+[extra.credits]
+template = '<a href="https://colorlib.com" target="_blank">Colorlib</a>'
+logo = '<a href="https://github.com/a-nelim" target="_blank">Milena Ferreira</a>'
+
+[extra.contact]
+title = "Pyjamas Org Team"
+email = "pyjamasconf@gmail.com"
+link = {url= "http://t.me/pyjamasconf", name="http://t.me/pyjamasconf"}
+
+[extra.welcome]
+title = "24h de #Python <br> diretamente do seu sofá <br> em Português e ao vivo!"
+text = "O intuito é atingir brasileiros espalhados por todo o mundo, nos mais variados fusos!"
+link = {url="https://forms.gle/hXXJ8xM12tfFGvVm6", name="Você pode colaborar fazendo uma transmissão"}
