@@ -7,7 +7,7 @@
         * {
             box-sizing: border-box;
           }
-          
+
           #myInput {
             background-position: 10px 10px;
             background-repeat: no-repeat;
@@ -17,26 +17,26 @@
             border: 1px solid #ddd;
             margin-bottom: 12px;
           }
-          
+
           #pyjama-table {
             border-collapse: collapse;
             width: 100%;
             border: 1px solid #ddd;
             font-size: 18px;
           }
-          
+
           #pyjama-table th, #pyjama-table td {
             text-align: left;
             padding: 12px;
           }
-          
+
           #pyjama-table tr {
             border-bottom: 1px solid #ddd;
           }
-          
+
           #pyjama-table tr.header, #pyjama-table tr:hover {
             background-color: #f1f1f1;
-          }          
+          }
     </style>
 </head>
 <body>
@@ -55,12 +55,12 @@
       CreateTableFromJSON(myJson.talks)
     }
 
-    getData('https://cdn.jsdelivr.net/gh/pyjamasconf/pyjamas-conf-2019@master/talks.json');
+    getData('https://raw.githack.com/pyjamasconf/pyjamas-conf-2019/master/talks.json');
 
     function CreateTableFromJSON(talks) {
         fields = document.createElement("select");
       fields.id = "searchDropdown"
-      // EXTRACT VALUE FOR HTML HEADER. 
+      // EXTRACT VALUE FOR HTML HEADER.
       var col = [];
       for (var i = 0; i < talks.length; i++) {
         for (var key in talks[i]) {
@@ -68,7 +68,7 @@
             var op = new Option();
             op.value = i;
             op.text = key;
-            fields.options.add(op);      
+            fields.options.add(op);
             col.push(key);
           }
         }
@@ -134,7 +134,7 @@
             } else {
               tr[i].style.display = "none";
             }
-          }       
+          }
         }
     });
 
@@ -143,7 +143,7 @@
       table = document.getElementById("pyjama-table");
       switching = true;
       //Set the sorting direction to ascending:
-      dir = "asc"; 
+      dir = "asc";
       /*Make a loop that will continue until
       no switching has been done:*/
       while (switching) {
@@ -189,7 +189,7 @@
           rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
           switching = true;
           //Each time a switch is done, increase this count by 1:
-          switchcount ++;      
+          switchcount ++;
         } else {
           /*If no switching has been done AND the direction is "asc",
           set the direction to "desc" and run the while loop again.*/
@@ -218,7 +218,7 @@
         document.addEventListener("click", function(event){
             sortByThElement(event)
         });
-    } else if (document.attachEvent) {    
+    } else if (document.attachEvent) {
         document.attachEvent("onclick", function(event){
             sortByThElement(event)
         });
