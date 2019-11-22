@@ -2,19 +2,45 @@
 base_url = "https://pyjamas.live"
 
 # Whether to automatically compile all Sass files in the sass directory
-compile_sass = true
+compile_sass = false
 
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
+build_search_index = false
 
-description = "pyjamasconf esta chegando"
+paginate_by = 5
+
+generate_rss = true
+
+generate_categories_pages = true
+generate_tags_pages = true
+
+taxonomies = [
+    # You can enable/disable RSS
+    {name = "categories", rss = true},
+    {name = "tags", rss = true},
+]
+
+
+
+description = "24 horas de Python online!"
 title = "Pyjamas <br> Conf <br> 2019"
 
 [extra]
+label_tags = "Tags"
+label_tag = "Tag"
+label_categories = "Categorias"
+label_category = "Categoria"
+label_relative_posts = "Postagens Relacionadas"
+label_next = "Próxima"
+label_previous = "Anterior"
+label_page = "Página"
+label_of = "de"
+label_minutes = "minutos"
+
 links = [
     {url = "https://github.com/pyjamasconf/codigo-de-conduta", name = "Código de conduta"},
 ]
@@ -34,7 +60,8 @@ faqs = [
 ]
 side_text = "PYJAMAS"
 logo_medium = "/img/pyjamas_medium.png"
-
+random_image_blog_list = 'http://lorempixel.com/750/375/technics/'
+random_image_blog_page = 'http://lorempixel.com/750/375/technics/'
 
 [extra.credits]
 template = '<a href="https://colorlib.com" target="_blank">Colorlib</a>'
