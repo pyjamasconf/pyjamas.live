@@ -1,3 +1,4 @@
+{% import "macros.html" as macro %}
 <!doctype html>
 <html class="no-js" lang="pt">
 
@@ -458,6 +459,43 @@
         </div>
     </div>
     <!-- faq_area_end -->
+
+    <!-- blog posts -->
+    {% set blog = get_section(path="blog/_index.md") %}
+    {% set pages = blog.pages | filter(attribute="draft", value=false) | slice(end=2) %}
+    {% if pages %}
+    <div class="faq_area">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                        <div class="serction_title_large mb-95">
+                                <h3>
+                                    Blog posts
+                                </h3>
+                        </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-12">
+                    {%- for page in pages -%}
+                        {{ macro::post(page=page, mini=true) }}
+                    {%- endfor -%}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-12">
+                        <article class="blog_item">
+                                <div class="blog_details">
+                            <a href="{{blog.permalink}}">Leia mais no blog.</a>
+                                </div>
+                        </article>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+    <!-- end blog posts -->
+
     {% endblock content%}
 
     {% block footer%}
