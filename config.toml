@@ -49,3 +49,10 @@ link = {url= "http://t.me/pyjamasconf", name="http://t.me/pyjamasconf"}
 title = "24h de #Python <br> diretamente do seu sofá <br> em Português e ao vivo!"
 text = "O intuito é atingir Pythonistas espalhados por todo o mundo, nos mais variados fusos!"
 link = {url="https://forms.gle/hXXJ8xM12tfFGvVm6", name="Você pode colaborar fazendo uma transmissão"}
+
+[extra.program]
+show = true
+days = [
+    {name="13 Dez 2019 <br> Sexta-feira", url="https://docs.google.com/spreadsheets/d/e/2PACX-1vQVEXTW1reD4YE_dt3hb3YKfAxI69JsWiQwjH3ZGXoR6qEIduURzXsw0wzRaNXinDbmEQQIKwDGSAWK/pubhtml?gid=1958679364&amp;single=true&amp;widget=false&amp;headers=false", style="width: 100%;height: 600px;"},
+    {name="14 Dez 2019 <br> Sábado", url="https://docs.google.com/spreadsheets/d/e/2PACX-1vQVEXTW1reD4YE_dt3hb3YKfAxI69JsWiQwjH3ZGXoR6qEIduURzXsw0wzRaNXinDbmEQQIKwDGSAWK/pubhtml?gid=1013096590&amp;single=true&amp;widget=false&amp;headers=false", style="width: 100%;height: 600px;"}
+]
