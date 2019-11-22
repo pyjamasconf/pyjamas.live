@@ -47,5 +47,5 @@ link = {url= "http://t.me/pyjamasconf", name="http://t.me/pyjamasconf"}
 
 [extra.welcome]
 title = "24h de #Python <br> diretamente do seu sofá <br> em Português e ao vivo!"
-text = "O intuito é atingir brasileiros espalhados por todo o mundo, nos mais variados fusos!"
+text = "O intuito é atingir Pythonistas palhados por todo o mundo, nos mais variados fusos!"
 link = {url="https://forms.gle/hXXJ8xM12tfFGvVm6", name="Você pode colaborar fazendo uma transmissão"}
