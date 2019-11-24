@@ -43,6 +43,7 @@ label_minutes = "minutos"
 
 links = [
     {url = "https://github.com/pyjamasconf/codigo-de-conduta", name = "Código de conduta"},
+    {url = "https://python.org.br/", name = "Site comunidade Python Brasil"},
 ]
 social = [
     {url = "https://twitter.com/pyjamasconf/", name = "Twitter"},
