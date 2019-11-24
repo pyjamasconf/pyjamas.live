@@ -54,9 +54,21 @@ action_button = {url = "https://forms.gle/hXXJ8xM12tfFGvVm6", name= "Quero Pales
 date = "13-14 Dezembro 2019"
 where = {url = "https://www.youtube.com/channel/UCWCFzEJd7PhVulMXwGjcYAA/", name="Youtube Live Stream"}
 faqs = [
+    {question = "Sobre o quê é o evento?", answer="Sobre tecnologia e a linguagem de progração Python."},
     {question = "Preciso me inscrever para assistir?", answer="Não é preciso se inscrever, é totalmente gratuíto e online! <br>Recomendamos que participe do grupo no <a href='http://t.me/pyjamasconf' target='_blank'>telegram</a> e acompanhe nas redes sociais para ficar sabendo quando divulgarmos a grade."},
-    {question = "Quais serão os horários das transmissões", answer="Acontecerão entre 13/12/2019 16:00 até 14/12/2019 16:00, serão 24h de atividades online e em breve divulgaremos a grade e os links."},
-    {question = "Sou iniciante, posso participar?", answer="Claro que sim! você pode inclusive ser palestrante, se tiver uma idéia para compartilhar preencha o formulário de submissão de proposta e faremos o possível para te auxiliar na sua transmissão."}
+    {question = "Como faço para assistir as palestras?", answer="Para assistir as palestras basta acompanhar o @PyjamasConf no Twitter, onde serão divulgadas as novidades, e entrar no site http://pyjamas.live onde em breve teremos a grade com a lista e links das palestras."},
+    {question = "Onde ocorrerá o evento?", answer="Este evento é 100% remoto. Para assistir as palestras basta acompanhar o @PyjamasConf no Twitter, onde serão divulgadas as novidades, e entrar no site http://pyjamas.live onde em breve teremos a grade com a lista e links das palestras."},
+    {question = "Quais serão os horários das transmissões?", answer="As transmissões acontecerão entre 13/12/2019 16:00 BRT até 14/12/2019 16:00 BRT, serão 24h de atividades online e em breve divulgaremos a grade e os links."},
+    {question = "Qual o valor da inscrição?", answer="Este evento é totalmente gratuito."},
+    {question = "Sou iniciante, posso participar?", answer="Claro que sim! você pode inclusive ser palestrante, se tiver uma idéia para compartilhar preencha o formulário de submissão de proposta e faremos o possível para te auxiliar na sua transmissão."},
+    {question = "As palestras serão em qual língua?", answer="Todas as palestras e conteúdo gerado neste evento serão em Português (Brasileiro)."},
+    {question = "Qual é o público deste evento?", answer="Qualquer pessoa que tenha interesse na área de tecnologia, na linguagem Python e que entenda Português, uma vez que as palestras serão dadas em Português. Não existe restrição quanto ao nível de conhecimento, estamos abertos para conteúdos de todos os níveis: do básico ao avançado."},
+    {question = "Como faço para submeter uma palestra?", answer="Preencha o form https://forms.gle/hXXJ8xM12tfFGvVm6. Lá você encontrará todas as informações necessárias para a submissão."},
+    {question = "Não tenho canal para transmitir a minha palestra, posso submetê-la mesmo assim?", answer="Claro! Iremos fornecer um link de streaming do PyJamas. Você irá acessá-lo pelo seu navegador, compartilhar sua câmera, sua tela e apresentar seu conteúdo!"},
+    {question = "Já tenho um canal para transmitir a minha palestra, posso utilizá-lo ou preciso fazer a transmissão via canal do PyJamas?", answer="Claro que pode utilizá-lo! Nesta modalidade, você só precisa nos informar a URL de transmissão no formulário de submissão e poderá transmitir seu conteúdo em qualquer horário durante as 24h do evento."},
+    {question = "Após a submissão da minha palestra, como sei se ela foi aceita?", answer="No caso em que você já possui um canal para a transmissão da sua palestra, uma vez submetida, ela é já automaticamente aceita. Agora, se você depende do canal do PyJamas para a transmissão, sua palestra passará por um processo de aprovação, pois os slots dessa modalidade são limitados. Sendo assim, entraremos em contato diretamente via email comunicando o resultado."},
+    {question = "Qual tipo de palestra serão aceitas?", answer="Vale tudo, desde que o conteúdo siga nosso código de conduta e que tenha alguma relação com a linguagem de programação Python. Vale slides, tutorial, mesa redonda, live coding... Você decide o melhor formato ;)"},
+    {question = "Gostaria de patrocinar o evento. Qual a melhor forma de entrar em contato?", answer="Ficamos felizes com o seu interesse! Por favor entre em contato via email através do endereço pyjamasconf@gmail.com"},
 ]
 side_text = "PYJAMAS"
 logo_medium = "/img/pyjamas_medium.png"
