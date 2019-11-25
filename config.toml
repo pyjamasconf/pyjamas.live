@@ -61,7 +61,7 @@ faqs = [
     {question = "Quais serão os horários das transmissões?", answer="As transmissões acontecerão entre 13/12/2019 16:00 BRT até 14/12/2019 16:00 BRT, serão 24h de atividades online e em breve divulgaremos a grade e os links."},
     {question = "Qual o valor da inscrição?", answer="Este evento é totalmente gratuito."},
     {question = "Sou iniciante, posso participar?", answer="Claro que sim! você pode inclusive ser palestrante, se tiver uma idéia para compartilhar preencha o formulário de submissão de proposta e faremos o possível para te auxiliar na sua transmissão."},
-    {question = "As palestras serão em qual idioma?", answer="Todas as palestras e conteúdos gerados neste evento serão em Português (pt-BR ou pt-PT)."},
+    {question = "As palestras serão em qual idioma?", answer="Todas as palestras e conteúdos gerados neste evento serão em Português."},
     {question = "Qual é o público deste evento?", answer="Qualquer pessoa que tenha interesse na área de tecnologia, na linguagem Python e que entenda Português, uma vez que as palestras serão dadas em Português. Não existe restrição quanto ao nível de conhecimento, estamos abertos para conteúdos de todos os níveis: do básico ao avançado."},
     {question = "Como faço para submeter uma palestra?", answer="Preencha o form https://forms.gle/hXXJ8xM12tfFGvVm6. Lá você encontrará todas as informações necessárias para a submissão."},
     {question = "Não tenho canal para transmitir a minha palestra, posso submetê-la mesmo assim?", answer="Claro! Iremos fornecer um link de streaming do PyJamas. Você irá acessá-lo pelo seu navegador, compartilhar sua câmera, sua tela e apresentar seu conteúdo!"},
