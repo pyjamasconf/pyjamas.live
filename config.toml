@@ -48,7 +48,7 @@ social = [
     {url = "https://twitter.com/pyjamasconf/", name = "Twitter"},
     {url = "https://t.me/pyjamasconf/", name = "Telegram"},
     {url = "https://github.com/pyjamasconf", name = "Github"},
-    {url = "https://www.youtube.com/channel/UCWCFzEJd7PhVulMXwGjcYAA/", name = "Youtube"},
+    {url = "https://www.youtube.com/pyjamasconf", name = "Youtube"},
 ]
 action_button = {url = "https://forms.gle/hXXJ8xM12tfFGvVm6", name= "Quero Palestrar!"}
 date = "13-14 Dezembro 2019"
