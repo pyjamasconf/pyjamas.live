@@ -52,7 +52,7 @@ social = [
 ]
 action_button = {url = "https://forms.gle/hXXJ8xM12tfFGvVm6", name= "Quero Palestrar!"}
 date = "13-14 Dezembro 2019"
-where = {url = "https://www.youtube.com/channel/UCWCFzEJd7PhVulMXwGjcYAA/", name="Youtube Live Stream"}
+where = {url = "https://www.youtube.com/pyjamasconf", name="Youtube Live Stream"}
 faqs = [
     {question = "Sobre o quê é o evento?", answer="Sobre tecnologia e a linguagem de progração Python."},
     {question = "Preciso me inscrever para assistir?", answer="Não é preciso se inscrever, é totalmente gratuíto e online! <br>Recomendamos que participe do grupo no <a href='http://t.me/pyjamasconf' target='_blank'>telegram</a> e acompanhe nas redes sociais para ficar sabendo quando divulgarmos a grade."},
