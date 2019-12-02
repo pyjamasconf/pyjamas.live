@@ -87,7 +87,7 @@
 
     <!-- slider_area_start -->
     {% block slider %}
-    <div class="slider_area slider_bg_1">
+    <!-- <div class="slider_area slider_bg_1">
         <div class="slider_text">
             <div class="container">
                 <div class="position_relv" style="float:left;">
@@ -130,7 +130,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     {% endblock slider%}
     <!-- slider_area_end -->
 
@@ -145,21 +145,10 @@
         </div>
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-xl-6 col-md-6">
-                    <div class="about_thumb">
-                        <img src="img/about/about.png" alt="">
-                    </div>
+                <div class="col-xl-12 col-md-12">
+                        <h3>Palestras acontecendo agora</h3>
                 </div>
-                <div class="col-xl-5 offset-xl-1 col-md-6">
-                    <div class="about_info">
-                        <div class="section_title">
-                            <span class="sub_heading">Olá</span>
-                            <h3>{{config.extra.welcome.title | safe}}</h3>
-                        </div>
-                        <p>{{config.extra.welcome.text | safe}}</p>
-                        <a href="{{config.extra.welcome.link.url}}" class="boxed-btn-red">{{config.extra.welcome.link.name}}</a>
-                    </div>
-                </div>
+                <div id="talks" class="col-xl-12 col-md-12">Carregando...</div>
             </div>
         </div>
     </div>
@@ -505,7 +494,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 
     <script src="{{get_url(path='js/main.js')}}"></script>
 
-    {% block tailjs %} {%endblock tail_js%}
+    {% block tailjs %}
+    <script src="{{get_url(path='js/talks.js')}}"></script>
+    {%endblock tail_js%}
 
 </body>
 
