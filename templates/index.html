@@ -260,8 +260,9 @@
     {% if config.extra.program.show %}
     <div class="event_area" id="grade">
         <h1 class="vr_text d-none d-lg-block">Event Schedule</h1>
-        <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQVEXTW1reD4YE_dt3hb3YKfAxI69JsWiQwjH3ZGXoR6qEIduURzXsw0wzRaNXinDbmEQQIKwDGSAWK/pubhtml?gid=1696113548&single=true" target="_blank">Visualizar grade completa em nova janela</a>
+     
         <div class="container">
+            <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQVEXTW1reD4YE_dt3hb3YKfAxI69JsWiQwjH3ZGXoR6qEIduURzXsw0wzRaNXinDbmEQQIKwDGSAWK/pubhtml?gid=1696113548&single=true" target="_blank">Visualizar grade completa em nova janela</a>
             {% for day in config.extra.program.days %}
             <div class="{% if loop.index == 1 %}double_line{% endif %}">
                 <div class="row">
