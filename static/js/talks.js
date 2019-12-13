@@ -2,14 +2,14 @@ data = {
     "talks": [
         {
             "title": "Olá Mundo",
-            "datetime": "2019-12-02T16:40:00.000",
+            "datetime": "2019-12-13T16:00:00",
             "duration": 14400,
             "embed_link": "https://www.youtube.com/embed/3bIw6294Skk",
             "link": "https://www.youtube.com/watch?v=3bIw6294Skk"
         },
         {
             "title": "Olá Outro Mundo",
-            "datetime": "2019-12-02T16:30:15.000",
+            "datetime": "2019-12-14T16:00:00",
             "duration": 14400,
             "embed_link": "https://www.youtube.com/embed/3bIw6294Skk",
             "link": "https://www.youtube.com/watch?v=3bIw6294Skk"
@@ -28,30 +28,30 @@ function getTimeZonedDate(offset) {
 
     // create new Date object for different city
     // using supplied offset
-    var nd = new Date(utc + (3600000*offset));
+    var nd = new Date(utc + (3600000 * offset));
 
     return nd
 }
 
 function isHappeningNow(talk) {
-  //const now = new Date()
-  const now = getTimeZonedDate('-2')
-  const start = new Date(talk.datetime)
-  const durationInMs = talk.duration * 60000
-  const end = new Date(start.getTime() + durationInMs)
-  return start <= now && end >= now
+    //const now = new Date()
+    const now = getTimeZonedDate('-2')
+    const start = new Date(talk.datetime)
+    const durationInMs = talk.duration * 60000
+    const end = new Date(start.getTime() + durationInMs)
+    return start <= now && end >= now
 }
 
 function talkToHTML(talk) {
     var talk_time = new Date(talk.datetime);
     return `
-<div id="talk-${talk.title}" class="col-xl-5 offset-xl-1 col-md-5">
+<div id="talk-${talk.title}" class="col-xl-5 col-md-5">
     <h2> <a href="${talk.link}"> ${talk.title} </a></h2>
     ${talk_time.toDateString()} - ${talk_time.toTimeString()}
     <iframe
     id="video"
-    width="560" 
-    height="315" 
+    width="560"
+    height="315"
     src="${talk.embed_link}"
     >
     </iframe>
