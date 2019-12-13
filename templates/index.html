@@ -87,22 +87,11 @@
 
     <!-- slider_area_start -->
     {% block slider %}
-    <!-- <div class="slider_area slider_bg_1">
+    <div class="slider_area slider_bg_1">
         <div class="slider_text">
             <div class="container">
                 <div class="position_relv" style="float:left;">
                     <img src="{{get_url(path=config.extra.logo_medium)}}" >
-                </div>
-                <div class="position_relv">
-                    <h1 class="opcity_text d-none d-lg-block">{{config.extra.side_text}}</h1>
-                    <div class="row">
-                        <div class="col-xl-9">
-                            <div class="title_text">
-                                <h3>{{config.title | safe}}</h3>
-                                <a href="{{config.extra.action_button.url}}" target="_blank" class="boxed-btn-white">{{config.extra.action_button.name}}</a>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
@@ -130,7 +119,7 @@
                 </div>
             </div>
         </div>
-    </div> -->
+    </div>
     {% endblock slider%}
     <!-- slider_area_end -->
 
@@ -148,11 +137,13 @@
                 <div class="col-xl-12 col-md-12">
                         <h3>Palestras acontecendo agora</h3>
                 </div>
-                <div id="talks" class="col-xl-12 col-md-12">Carregando...</div>
+                <div id="talks" class="col-xl-12 col-md-12">
+                    Carregando...
+                </div>
             </div>
         </div>
     </div>
-    
+
     <!-- about_area_end -->
 
     <!-- speakers_start -->
@@ -415,7 +406,7 @@
                                         <li><a target="_blank" href="{{ link.url}}">{{link.name}}</a></li>
                                         {% endfor %}
                                     </ul>
-    
+
                             </div>
                         </div>
                         <div class="col-xl-4 col-md-4 col-lg-4">
@@ -439,7 +430,7 @@
                                     {{config.extra.contact.title}} <br>
                                     {{config.extra.contact.email}} <br>
                                     <a href='{{config.extra.contact.link.url}}'>{{config.extra.contact.link.name}}</a>
-                                    
+
                                 </p>
                             </div>
                         </div>
