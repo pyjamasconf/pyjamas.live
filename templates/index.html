@@ -99,20 +99,14 @@
                                 <span>{{config.extra.date}}</span>
                             </div>
                         </div>
-
-                        <div class="col-xl-5 col-md-12 col-lg-5">
-                            <span id="clock"></span>
-                        </div>
-
                     </div>
-                </div>
-                <div id="talks" class="col-xl-12 col-md-12">
-                    Carregando...
                 </div>
             </div>
         </div>
         {% endblock slider%}
-        <!-- slider_area_end -->
+    </div>
+
+    <!-- about_area_end -->
 
         <!-- about_area_start -->
         {% block content %}
@@ -133,12 +127,14 @@
                     <div class="col-xl-5 offset-xl-1 col-md-6">
                         <div class="about_info">
                             <div class="section_title">
-                                <span class="sub_heading">Olá</span>
                                 <h3>{{config.extra.welcome.title | safe}}</h3>
                             </div>
-                            <p>{{config.extra.welcome.text | safe}}</p>
-                            <a href="{{config.extra.welcome.link.url}}"
-                                class="boxed-btn-red">{{config.extra.welcome.link.name}}</a>
+                        </div>
+                    </div>
+                    <div class="double_line col-xl-12 col-md-12">
+                        <h3>Palestras acontecendo agora</h3>
+                        <div id="talks">
+                                Carregando...
                         </div>
                     </div>
                 </div>
