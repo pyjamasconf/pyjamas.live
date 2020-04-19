@@ -31,7 +31,7 @@ organizerLink: "https://pyjamas.live/"
 # Head
 metaKeywords: "event, python, dev, developers, programming"
 twitterAccount: "@PyjamasConf"
-# socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
@@ -65,7 +65,7 @@ heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About Pyjamas Conf 2020"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Python related event in the country carefully crafted for you by Python community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -116,7 +116,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "PyjamasConf2020"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
