@@ -14,7 +14,7 @@ gem install bundler
 and run next command from root folder:
 
 ```bash
-bundle install
+bundle install --path vendor/bundle
 ```
 
 To start Jekyll run:
