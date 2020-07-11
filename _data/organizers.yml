@@ -1,7 +1,7 @@
 -
   group: "Main organizer"
   elements:
-    - {name: "Pyjamas Org", description: "Open and volunteer geek community", link: "http://pyjamas.live", imageUrl: "gdg-lviv.svg"}
+    - {name: "Pyjamas Org", description: "Open and volunteer geek community", link: "http://pyjamas.live", imageUrl: "pyjamas-name.png"}
 # -
 #   group: "Co-organizers"
 #   elements:
