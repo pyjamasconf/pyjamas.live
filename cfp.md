@@ -27,3 +27,5 @@ If you’ve never presented at a conference before and you think you might like 
 Please follow <link TBC>. for more details on how to submit a proposal for Pyjamas Conf 2020.
 
 Please also help us spread the word about our CFP by sharing a link to this page with the hashtag #PyjamasCfP and the handle @pyjamasconf.
+
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
