@@ -45,9 +45,9 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/cfp/", text: "Call for Proposal"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/register/", text: "Register Tickets"}
+ - {permalink: "/coming-soon/", text: "Schedule"}
+ - {permalink: "/coming-soon/", text: "Speakers"}
+ - {permalink: "/coming-soon/", text: "Register Tickets"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/coc/", text: "Code of Conduct"}
 
@@ -200,7 +200,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "Pyjamas Conf started in 2019, a group of enthusiastic volunteers in Brazil wanted to make Python conferences accessible to everyone at home. In 2020, without the foreseeing of the COVID-19, we wanted to expand the idea of a conference that you can enjoy at your sofa and making it a globally organized highly diverse conference. Our organizers are from different countries around the globe."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
