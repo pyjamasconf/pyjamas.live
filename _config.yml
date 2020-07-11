@@ -55,10 +55,9 @@ rightNavigationButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "Pyjamas <typeout> 2020"
+heroTitle: "Pyjamas Conf <typeout> 2020"
 eventDate: "December 4th, 2020"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+typeoutTextValues: '"", "100% Online!", "Directly from your sofa!", "Totally Free!", "Worldwide!"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
