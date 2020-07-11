@@ -51,11 +51,6 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/coc/", text: "Code of Conduct"}
 
-bottomNavigationLinks: # update these link??
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
-rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
-
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Pyjamas <typeout> 2020"
