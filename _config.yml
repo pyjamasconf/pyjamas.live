@@ -47,6 +47,7 @@ navigationLinks:
  - {permalink: "/cfp/", text: "Call for Proposal"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/register/", text: "Register Tickets"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/coc/", text: "Code of Conduct"}
 
