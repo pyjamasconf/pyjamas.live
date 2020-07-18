@@ -7,7 +7,7 @@ isStaticPost: true
 
 ### Call for community track organisers
 
-In Pyjamas Conf, we celebrate diversity. Besides the main track that would be filled with talks, we also encourage sessions that are run by the community. The format of these sessions are flexible, it can be a block of talks in another language, BoF (birds of a feather) sessions for informal discussions of Python-related topics, workshops for a local community etc. If you are interested in leading one of these sessions in the community track, please submit your proposal by filling in the form here: <link to be added> We will provide support in organising and running those sessions.
+In Pyjamas Conf, we celebrate diversity. Besides the main track that would be filled with talks, we also encourage sessions that are run by the community. The formats of these sessions are flexible, it can be a block of talks in it can be a block of talks in a language other than English, BoF (birds of a feather) sessions for informal discussions of Python-related topics, workshops for a local community etc. If you are interested in leading one of these sessions in the community track, please submit your proposal [here](https://www.papercall.io/cfps/3362/submissions/new). We will provide support in organising and running those sessions.
 
 ### Call for proposals (CFP)
 
@@ -24,7 +24,7 @@ If you’ve never presented at a conference before and you think you might like 
 
 ### Submit to speak at Pyjamas Conf today.
 
-Please follow <link TBC>. for more details on how to submit a proposal for Pyjamas Conf 2020.
+Please follow [here](https://www.papercall.io/cfps/3362/submissions/new) to submit your proposal for Pyjamas Conf 2020.
 
 Please also help us spread the word about our CFP by sharing a link to this page with the hashtag #PyjamasCfP and the handle @pyjamasconf.
 
