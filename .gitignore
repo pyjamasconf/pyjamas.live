@@ -15,3 +15,4 @@ ehthumbs.db
 # bundle and vendor folders
 .bundle/config
 vendor/
+node_modules/

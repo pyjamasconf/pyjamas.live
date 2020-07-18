@@ -28,6 +28,10 @@ Site will be available at http://127.0.0.1:4000/ or http://localhost:4000/ (on W
 ### Documentation
 Quick-start guide is not enough? Checkout [full documentation](https://github.com/gdg-x/zeppelin/wiki).
 
+### Pyjamas Color Palette
+
+This is our Color Palette: https://material.io/resources/color/#!/?view.left=0&view.right=1&primary.color=B2DDF7&secondary.color=fcedb1
+
 ### Used libraries
 * [Bootstrap](https://github.com/twbs/bootstrap)
 * [Animate.css](https://github.com/daneden/animate.css)
@@ -45,4 +49,3 @@ Quick-start guide is not enough? Checkout [full documentation](https://github.co
 
 ### License
 Project is published under the [MIT license](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
-
