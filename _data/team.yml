@@ -10,8 +10,22 @@
   social:
     - {name: "twitter", link: "https://twitter.com/alebarbaruiva"}
     - {name: "github", link: "https://github.com/alexandrebarbaruiva"}
+
 -
   id: 1
+  name: "Camila"
+  surname: "Maia"
+  title: "Conference Tech Committee"
+  thumbnailUrl: CamilaMaia.jpg
+  team: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/cmaiacd"}
+    - {name: "github", link: "https://github.com/camilamaia"}
+
+-
+  id: 2
   name: "Cheuk"
   surname: "Ho"
   title: "Programming Committee"
@@ -26,7 +40,7 @@
     - {name: "site", link: "https:/cheuk.dev/"}
 
 -
-  id: 2
+  id: 3
   name: "Lais"
   surname: "Carvalho"
   title: "Communication Committee"
@@ -38,7 +52,7 @@
     - {name: "twitter", link: "https://twitter.com/lais_bsc"}
     - {name: "linkedin", link: "http://linkedin.com/in/lais-barbara-carvalho/"}
 -
-  id: 3
+  id: 4
   name: "Sandrine"
   surname: "Pataut"
   title: "Code of Conduct Manager"
