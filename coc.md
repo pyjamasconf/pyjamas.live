@@ -49,7 +49,7 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately. If
 ### If You Witness or Are Subject to Unacceptable Behavior
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. There is very little harm in an unnecessary report, but potentially significant harm in an unreported problem.
-We will publish during the conference information on where to make a report. Contact through Discord "@name" or "@name" for the communication of any unacceptable behaviour or email us at email@address.
+We will publish during the conference information on where to make a report. Contact through Discord @Sandrine for the communication of any unacceptable behaviour, fill [this form](https://docs.google.com/forms/d/1LpZLXUYy1aREUCsAaLrHjQtemY67D9QSvYdNjUepImg/edit) or email us at pyjamasconf@gmail.com.
 When taking a personal report, with your agreement, the staff members may involve other event staff to ensure your report is managed properly. This report will remain private.
 If you report using Discord private chat, we’ll ask you to tell us about what happened. This can be upsetting, but we’ll handle it as respectfully as possible, and you can bring someone to support you.
 If you prefer the email, please send a report with as much information as available.
@@ -58,7 +58,7 @@ We value your attendance.
 
 ### Anonymous report
 
-You can make an anonymous report here. (create a Google form)
+You can make an anonymous report [here](https://docs.google.com/forms/d/1LpZLXUYy1aREUCsAaLrHjQtemY67D9QSvYdNjUepImg/edit).
 Be aware that we can’t follow up an anonymous report with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence
 
 ### Addressing Grievances
@@ -68,6 +68,6 @@ Your grievance will be handled in accordance with our existing governing policie
 
 ### Credits
 
-This Code of Conduct was inspired by the PyConUK and Remote Pithon Pizza code of conducts.
+This Code of Conduct was inspired by the [PyConUK](https://2019.pyconuk.org/code-conduct/) and [Remote Python Pizza](https://remote.python.pizza) code of conducts.
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/sections-background/subscribe.jpg" style="display:none">
