@@ -1,60 +1,51 @@
-- 
+-
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Alexandre"
+  surname: "Augusto"
+  title: "Communication Committee"
+  thumbnailUrl: AlexandreAugusto.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/alebarbaruiva"}
+    - {name: "github", link: "https://github.com/alexandrebarbaruiva"}
+-
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Cheuk"
+  surname: "Ho"
+  title: "Programming Committee"
+  thumbnailUrl: CheukHo.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/cheukting_ho"}
+    - {name: "github", link: "https://github.com/Cheukting"}
+    - {name: "youtube", link: "https://www.youtube.com/channel/UCie_J9IohYO4hSsz4O2mDfQ"}
+    - {name: "site", link: "https:/cheuk.dev/"}
+
+-
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Lais"
+  surname: "Carvalho"
+  title: "Communication Committee"
+  thumbnailUrl: LaisCarvalho.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/lais_bsc"}
+    - {name: "linkedin", link: "http://linkedin.com/in/lais-barbara-carvalho/"}
+-
+  id: 3
+  name: "Sandrine"
+  surname: "Pataut"
+  title: "Code of Conduct Manager"
+  thumbnailUrl: SandrinePataut.jpg
+  team: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/SPataut"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sandrinepataut/"}
