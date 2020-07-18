@@ -70,4 +70,4 @@ Your grievance will be handled in accordance with our existing governing policie
 
 This Code of Conduct was inspired by the [PyConUK](https://2019.pyconuk.org/code-conduct/) and [Remote Python Pizza](https://remote.python.pizza) code of conducts.
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/sections-background/subscribe.jpg" style="display:none">
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/sections-background/coc.jpg" style="display:none">

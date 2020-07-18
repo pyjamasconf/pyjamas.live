@@ -65,7 +65,7 @@ heroButtons:
 aboutTitle: "About Pyjamas Conf 2020"
 aboutBlock:
  - {title: "Main Conference", image: "conference.jpg", text: "24 hours streaming of talks about Python and connecting with Python communities around the world that you can access at home." }
- - {title: "Community Track", image: "workshop.jpg", text: "Full-day of workshops, talks, BoF sessions, sprints and any other activities organized by various Python communities." }
+ - {title: "Community Track", image: "community.jpg", text: "Full-day of workshops, talks, BoF sessions, sprints and any other activities organized by various Python communities." }
 #  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block

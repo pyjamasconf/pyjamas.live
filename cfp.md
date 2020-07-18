@@ -28,4 +28,4 @@ Please follow [here](https://www.papercall.io/cfps/3362/submissions/new) to subm
 
 Please also help us spread the word about our CFP by sharing a link to this page with the hashtag #PyjamasCfP and the handle @pyjamasconf.
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/sections-background/proposals.jpg" style="display:none">
