@@ -36,8 +36,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://pyjamas.live/cfp/"
+c4sponsorsUrl: "https://pyjamas.live/coming-soon/"
 
 
 # Navigation
@@ -57,8 +57,8 @@ eventDate: "December 5th, 2020"
 typeoutTextValues: '"", "100% Online!", "Directly from your sofa!", "Totally Free!", "Worldwide!"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "https://pyjamas.live/cfp/", text: "Become a speaker"}
+ - {permalink: "https://pyjamas.live/coming-soon/", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About Pyjamas Conf 2020"
