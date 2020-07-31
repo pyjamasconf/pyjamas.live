@@ -14,3 +14,20 @@
         background: $primary-color-hover;
     }
 }
+.btn-new {
+    font-weight: $bold;
+    transition: $base-cubic-transition;
+    color: darken($link-color, 20%);
+    background-color: $primary-color-hover;
+    border-width: 0;
+    border-radius: 4px;
+    padding-top: 0.3em;
+    padding-right: 1em;
+    padding-bottom: 0.3em;
+    padding-left: 1em;
+    &:hover, &:focus, &:active, &.active {
+        outline: none;
+        color: #fff;
+        background: darken($primary-color-hover, 10%);
+    }
+}
