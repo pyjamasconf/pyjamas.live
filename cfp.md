@@ -30,8 +30,23 @@ Please follow [here](https://www.papercall.io/cfps/3362/submissions/new) to subm
 
 [Submit to speak at Pyjamas](https://www.papercall.io/cfps/3362/submissions/new){: .btn-new}
 
----
+#### Sign up to be a reviewer
 
-Please also help us spread the word about our CFP by sharing a link to this page with the hashtag #PyjamasCfP and the handle @pyjamasconf.
+Calling for reviewers for the PyjamasConf 2020!!! As a reviewer, your responsibility is to:
+
+***review and vote for all the CfP within a week after the CfP closes***
+
+It requires a lot of hard work but ***you have the power to choose which talks should appear in the PyjamasConf's Program***. We want to give the Python community a strong voice in deciding what the conference program should include.
+
+As PyjamasConf 2020 is an online conference with talks and attendees across the globe the organizing committee will try to ensure that we have a representative sample of reviewers across the globe and with various backgrounds.
+
+[Sign up to be a reviewer](https://forms.gle/SCRXAFu3bVzfzo9X7){: .btn-new}
+
+#### Tell the world
+
+Please also help us spread the word about our CFP by sharing a link to this page with the hashtag #Pyjamas2020 and the handle @pyjamasconf.
+
+<a href="#" class="btn-new" onclick="window.open('http://twitter.com/share?text=Submit to @pyjamasconf 24hr online Python conference! Check out: &url={{ postUrl }}&hashtags=Pyjamas2020,Python,CfP', 'newwindow', 'width=600, height=250'); return false;">Share on Twitter
+</a>
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/sections-background/proposals.jpg" style="display:none">
