@@ -46,6 +46,8 @@ For that reason, we decided to push the diversity focus on our event. We encoura
 
 Be part of Pyjamas! The [call for proposals](https://pyjamas.live/cfp/) will open soon. We would love to see your submissions. If you are interested in reviewing proposals, please get in touch.
 
+<a href="https://pyjamas.live/cfp/" class="btn btn-primary waves-effect waves-button waves-light waves-float">See the Call for Proposals</a>
+
 ---
 
 So there you go, Pyjamas 2020!
