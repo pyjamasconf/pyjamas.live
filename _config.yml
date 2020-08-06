@@ -187,6 +187,7 @@ footerBlocks:
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/data-privacy-disclaimer/", text: "Data Privacy Disclaimer"}
 
 # Blog
 blogTitle: "Latest news"

@@ -41,6 +41,20 @@
 
 -
   id: 3
+  name: "Itay"
+  surname: "Weiss"
+  title: "Sponsorship and Partnership Committee"
+  thumbnailUrl: ItayWeiss.jpg
+  team: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/itaywss"}
+    - {name: "github", link: "https://github.com/itaywss"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/itay-weiss-1946bb24/"}
+
+-
+  id: 4
   name: "Lais"
   surname: "Carvalho"
   title: "Communication Committee"
@@ -52,7 +66,7 @@
     - {name: "twitter", link: "https://twitter.com/lais_bsc"}
     - {name: "linkedin", link: "http://linkedin.com/in/lais-barbara-carvalho/"}
 -
-  id: 4
+  id: 5
   name: "Sandrine"
   surname: "Pataut"
   title: "Code of Conduct Manager"
