@@ -50,6 +50,7 @@ navigationLinks:
  - {permalink: "/coming-soon/", text: "Register Tickets"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/coc/", text: "Code of Conduct"}
+ - {permalink: "/past-edition/", text: "Past Edition"}
 
 # Hero Block
 heroTitle: "Pyjamas Conf <typeout> 2020"
