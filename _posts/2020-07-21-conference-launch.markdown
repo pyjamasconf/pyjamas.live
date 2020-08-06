@@ -51,4 +51,5 @@ Be part of Pyjamas! The [call for proposals](https://pyjamas.live/cfp/) will ope
 ---
 
 So there you go, Pyjamas 2020!
+
 All that, from the softness of your jammies and the comfiness of your sofa to the rest of the world.
