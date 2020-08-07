@@ -15,7 +15,7 @@ The aim is to have an independent track for your local community within our comf
 We will allocate rooms with time blocks (min. 2 hours) which will be given to community members who submit a Community Space (CS) proposal.
 The plans for the event are all based on your wishes. It will be your event after all, we will just help you with the setup, space and guidance - if it is required.
 
-## Who is this track for?
+## Who is this Space for? Shall I submit a proposal?
 
 If you are part of a community and wish to gather some speakers and host a mini-conference (or host any event of your choosing) in your own main-language (or not), or maybe you wish to host informal discussions of Python-related topics... this is your chance!
 It is literally open for YOU.
@@ -42,7 +42,7 @@ As always we want to make sure everything is in agreement with our [Code of Cond
 
 The approved proposals will receive news from the organising committee with the followup details.
 
-![join us gif](https://media.giphy.com/media/WsMBa68UUh86q2SR0d/giphy.gif)
+![join us gif](https://i.giphy.com/media/WsMBa68UUh86q2SR0d/giphy.webp)
 
 
 We are so excited to see what you are all going to come up with! Please keep the talk proposals coming and if you want to do a little bit more, apply to be a volunteer. We need Reviewers, Organisers and all else, Python-related or not.
