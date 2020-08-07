@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Community Space - what is it?"
-date:   2020-08-07 20:00:00
+date:   2020-08-06 20:00:00
 isStaticPost: false
 ---
 
