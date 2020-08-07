@@ -37,7 +37,7 @@ We want to give the small communities the chance to step forward and be part of 
 ## They say the Devil is in the details - Proposal submission
 ### Guidelines
 
-The proposal submission for this special track is super simple. We will need:
+The proposal submission for this community space is super simple. We will need:
 
   - the time (with timezone) and duration of your event;
   - a basic outline describing the type of event you plan to host - please, be as detailed as possible;
