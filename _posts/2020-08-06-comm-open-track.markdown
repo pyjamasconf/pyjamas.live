@@ -1,10 +1,10 @@
 The call for proposals for Pyjamas was launched just a few days ago and we are so excited organising everything that we decided clarify one of our favourite features about Pyjamas...
-## the Community Open Space!
+## the Community Space!
 
 ![Big Lebowski celebrating](https://media.giphy.com/media/tyxovVLbfZdok/giphy.gif)
 
 
-### But what is a Community Open Space? - you might ask.
+### But what is a Community Space? - you might ask.
 
 Great question, Padawan!
 
@@ -12,7 +12,7 @@ The aim is to have an independent track for your local community within our comf
 
 ## How will it work?
 
-We will allocate rooms with time blocks (min. 2 hours) which will be given to community members who submit a Community Open Space (COS) proposal.
+We will allocate rooms with time blocks (min. 2 hours) which will be given to community members who submit a Community Space (CS) proposal.
 The plans for the event are all based on your wishes. It will be your event after all, we will just help you with the setup, space and guidance - if it is required.
 
 ## Who is this track for?
@@ -34,7 +34,7 @@ The proposal submission for this special track is super simple. We will need:
 
   - the time (with timezone) and duration of your event;
   - a basic outline describing the type of event you plan to host - please, be as detailed as possible;
-  - an estimative of the expected capacity (number of attendees) for your ~~Python-party~~ serious event;
+  - an estimate of the expected capacity (number of attendees) for your ~~Python-party~~ serious event;
   - the community you are affiliated with (e.g., PyLadies, DjangoGirls, PyData, TransCode, etc).
   - any other info we should be aware about - be the judge!
 
@@ -49,4 +49,4 @@ We are so excited to see what you are all going to come up with! Please keep the
 Leave a comment below if you are interested.
 
 
-> _If you have any questions, wish to apply for a Community Open Space on Pyjamas or simply wish to help with volunteering, head over to our [website](https://pyjamas.live) or send us DM on twitter at [@pyjamasaconf](http://twitter.com/PyjamasConf)._
+> _If you have any questions, wish to apply for a Community Space on Pyjamas or simply wish to help with volunteering, head over to our [website](https://pyjamas.live) or send us DM on twitter at [@pyjamasaconf](http://twitter.com/PyjamasConf)._
