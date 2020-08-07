@@ -42,7 +42,7 @@ As always we want to make sure everything is in agreement with our [Code of Cond
 
 The approved proposals will receive news from the organising committee with the followup details.
 
-![join us gif](https://i.giphy.com/media/WsMBa68UUh86q2SR0d/giphy.webp)
+![join us gif](https://media.giphy.com/media/WsMBa68UUh86q2SR0d/source.gif)
 
 
 We are so excited to see what you are all going to come up with! Please keep the talk proposals coming and if you want to do a little bit more, apply to be a volunteer. We need Reviewers, Organisers and all else, Python-related or not.
