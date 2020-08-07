@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Community Space - what is it?"
+date:   2020-08-07 20:00:00
+isStaticPost: false
+---
+
 The call for proposals for Pyjamas was launched just a few days ago and we are so excited organising everything that we decided clarify one of our favourite features about Pyjamas...
 ## the Community Space!
 
