@@ -55,9 +55,9 @@
 -
   id: 4
   name: "Davide"
-  surname: "DavidePoggiali"
+  surname: "Poggiali"
   title: "Communication Committee"
-  thumbnailUrl: ItayWeiss.jpg
+  thumbnailUrl: DavidePoggiali.jpg
   team: true
   ribbon:
     - {abbr: "", title: ""}
