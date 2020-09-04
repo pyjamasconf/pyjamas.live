@@ -13,7 +13,7 @@ In Pyjamas Conf, we celebrate diversity. Besides the main track that would be fi
 
 #### Call for proposals (CFP)
 
-Today we are also opening our CFP! Submissions to speak at Pyjamas Conf 2020 will be accepted from 3rd August until **5 September, anywhere on earth (UTC+12)**. All talk slots will be 25 mins: 20 mins plus 5 mins Q&A or 25 mins without Q&A. Since the conference runs for a full 24 hours, you can select the time block that you would like your talk to be in. We welcome submissions from everybody, including those:
+Today we are also opening our CFP! Submissions to speak at Pyjamas Conf 2020 will be accepted from 3rd August until **<s>5 September</s> 19th September, anywhere on earth (UTC+12)**. All talk slots will be 25 mins: 20 mins plus 5 mins Q&A or 25 mins without Q&A. Since the conference runs for a full 24 hours, you can select the time block that you would like your talk to be in. We welcome submissions from everybody, including those:
 
 * who have never given a conference talk before,
 * who are new to Python,
