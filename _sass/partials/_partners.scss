@@ -17,7 +17,7 @@
     img {
         width: 100%;
         transition: $base-transition;
-        filter: grayscale(1);
+        filter: grayscale(0);
         &:hover {
             filter: grayscale(0);
         }

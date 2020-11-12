@@ -1,4 +1,8 @@
-# -
+-
+  group: "Cashmere sponsor"
+  elements:
+    - {name: "Microsoft", description: "Microsoft", link: "https://www.microsoft.com/", imageUrl: "Microsoft-logo_rgb_c-gray.png"}
+
 #   group: "General sponsor"
 #   elements:
 #     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
