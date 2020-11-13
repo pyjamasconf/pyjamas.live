@@ -18,11 +18,13 @@ You can get your them here:
 
 <!-- fancy something more adventurous? Copy it and roll your own! -->
 <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
+
 ---
 
 ##### I thought it was free?!
 
 The conference is free for everyone, the money you see there is a **suggested donation**. So you con choose to delete the value or keep it as a donation.
+
 ---
 
 #### Microsoft partnership
@@ -34,6 +36,7 @@ We are also proud to announce Microsoft as our Cashmere sponsor for Pyjamas 2020
 ![Win 95 celebration dance](https://media.giphy.com/media/7TkSKe6bpCmUBPdebX/giphy.gif)
 
 What got the organising team doing the Win 95 launch dance (social distancing, of course).
+
 --
 
 #### TLDR;
@@ -46,6 +49,7 @@ What got the organising team doing the Win 95 launch dance (social distancing, o
 Finally, there will be SWAG!
 
 ![There will be swag](https://media.giphy.com/media/kiBcwEXegBTACmVOnE/giphy-downsized-large.gif)
+
 --
 
 We are very excited to have you all joining us for the cosiest Python conference around the block!
