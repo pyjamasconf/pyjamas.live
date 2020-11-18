@@ -23,7 +23,7 @@ You can get your them here:
 
 ##### I thought it was free?!
 
-The conference is free for everyone, the money you see there is a **suggested donation**. So you con choose to delete the value or keep it as a donation.
+The conference is free for everyone, the money you see there is a **suggested donation**. So you can choose to delete the value or keep it as a donation.
 
 ---
 
