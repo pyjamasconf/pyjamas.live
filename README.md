@@ -23,7 +23,7 @@ bundle exec jekyll serve -w
 ```
 Site will be available at http://127.0.0.1:4000/ or http://localhost:4000/ (on Windows)
 
-**NOTE:** in this mode all changes to html and data files will be automatically regenerated, but after changing ```_config.yml``` you have to restart server.
+**NOTE:** In this mode all changes to html and data files will be automatically regenerated, but after changing ```_config.yml``` you have to restart server.
 
 ### Documentation
 Quick-start guide is not enough? Checkout [full documentation](https://github.com/gdg-x/zeppelin/wiki).
