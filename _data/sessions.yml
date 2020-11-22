@@ -305,7 +305,8 @@ I went from being a solo website maker to leading two releases of WordPress. Let
 -
   id: 035
   title: "Your GitHub repo as a crime scene"
-  description: ""
+  description: "What are the bottlenecks on your codebase? What are the files with most commits? Where do most of your bugs come from? These questions were answered by Adam Thornhill in the book Your Code as a Crime Scene. Inspired by Adam's work, I've built an interactive web application that allows you to clearly visualise the danger-zones of your own repositories and apply the techniques shown in the book to mitigate those dangers.
+In this talk, I will show you how I built the app by using Kedro and Streamlit, two open source Python libraries and how to best use it to keep your GitHub repos crime-free. I will show you how to use it and best practice for effective code-design."
   subtype: talk
   speakers: [35]
   language: en

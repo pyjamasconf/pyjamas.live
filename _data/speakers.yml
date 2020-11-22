@@ -300,7 +300,13 @@ Former professor of Logics and Programming at the University of Holguín. I curr
   id: 35
   name: "Tam"
   surname: "Nguyen"
-  bio: ""
+  bio: "Tam-Sanh Nguyen has been working on data engineering for a majority of his career, for a variety of different industries, all across the world.
+
+Data pipelining is one of his passions in life and the only thing that pleases him more than writing good data pipelines is helping others to write good data pipelines. He's been working on data pipelines since Spark 0.6.2, while at Palantir, and has enjoyed wearing a few different hats in startups all over the world, since.
+
+He is currently hired out of Shanghai, as part of the McKinsey Digital team for Digital Transformations, and is in the midst of moving to Singapore to join their growing QuantumBlack team.
+
+In his downtime, you can find him practicing and teaching yoga, enjoying foreign language exchanges, and hosting a YouTube channel dedicated to writing data pipelines: http://youtube.com/c/DataEngineerOne"
   thumbnailUrl: speaker.png
 
 -
