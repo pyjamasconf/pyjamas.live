@@ -45,8 +45,8 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/cfp/", text: "Call for Proposal"}
- - {permalink: "/coming-soon/", text: "Schedule"}
- - {permalink: "/coming-soon/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "https://ti.to/python-ireland/pyjamas-2020", text: "Register Tickets"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/coc/", text: "Code of Conduct"}

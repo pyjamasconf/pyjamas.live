@@ -1,50 +1,252 @@
-- 
-  date: "2014-10-24"
-  dateReadable: "October 24"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+-
+  date: "2020-12-05"
+  dateReadable: "December 5th (UTC)"
+  tracks:
+    - {title: "Main Talks", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+    	startTime: "8:00",
+    	endTime: "8:25",
+    	sessionIds: [100]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
+    	startTime: "8:30",
+    	endTime: "8:55",
+    	sessionIds: [001]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
+    	startTime: "9:00",
+    	endTime: "9:25",
+    	sessionIds: [002]
     }
-- 
-  date: "2014-10-25"
-  dateReadable: "October 25"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-  timeslots: 
+    - {
+    	startTime: "9:30",
+    	endTime: "9:55",
+    	sessionIds: [003]
+    }
     - {
     	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404, 002]
+    	endTime: "10:25",
+    	sessionIds: [004]
+    }
+    - {
+    	startTime: "10:30",
+    	endTime: "10:55",
+    	sessionIds: [005]
     }
     - {
     	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002, 003]
+    	endTime: "11:25",
+    	sessionIds: [006]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [003]
+    	startTime: "11:30",
+    	endTime: "11:55",
+    	sessionIds: [007]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "12:25",
+    	sessionIds: [008]
+    }
+    - {
+    	startTime: "12:30",
+    	endTime: "12:55",
+    	sessionIds: [009]
+    }
+    - {
+    	startTime: "13:00",
+    	endTime: "13:25",
+    	sessionIds: [200]
+    }
+    - {
+    	startTime: "13:30",
+    	endTime: "13:55",
+    	sessionIds: [010]
     }
     - {
     	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+    	endTime: "14:25",
+    	sessionIds: [011]
+    }
+    - {
+    	startTime: "14:30",
+    	endTime: "14:55",
+    	sessionIds: [012]
+    }
+    - {
+    	startTime: "15:00",
+    	endTime: "15:25",
+    	sessionIds: [013]
+    }
+    - {
+    	startTime: "15:30",
+    	endTime: "15:55",
+    	sessionIds: [014]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "16:25",
+    	sessionIds: [015]
+    }
+    - {
+    	startTime: "16:30",
+    	endTime: "16:55",
+    	sessionIds: [016]
+    }
+    - {
+    	startTime: "17:00",
+    	endTime: "17:25",
+    	sessionIds: [017]
+    }
+    - {
+    	startTime: "17:30",
+    	endTime: "17:55",
+    	sessionIds: [018]
+    }
+    - {
+    	startTime: "18:00",
+    	endTime: "18:25",
+    	sessionIds: [019]
+    }
+    - {
+    	startTime: "18:30",
+    	endTime: "18:55",
+    	sessionIds: [020]
+    }
+    - {
+    	startTime: "19:00",
+    	endTime: "19:25",
+    	sessionIds: [200]
+    }
+    - {
+    	startTime: "19:30",
+    	endTime: "19:55",
+    	sessionIds: [021]
+    }
+    - {
+    	startTime: "20:00",
+    	endTime: "20:25",
+    	sessionIds: [022]
+    }
+    - {
+    	startTime: "20:30",
+    	endTime: "20:55",
+    	sessionIds: [023]
+    }
+    - {
+    	startTime: "21:00",
+    	endTime: "21:25",
+    	sessionIds: [024]
+    }
+    - {
+    	startTime: "21:30",
+    	endTime: "21:55",
+    	sessionIds: [025]
+    }
+    - {
+    	startTime: "22:00",
+    	endTime: "22:25",
+    	sessionIds: [026]
+    }
+    - {
+    	startTime: "22:30",
+    	endTime: "22:55",
+    	sessionIds: [027]
+    }
+    - {
+    	startTime: "23:00",
+    	endTime: "23:25",
+    	sessionIds: [028]
+    }
+    - {
+    	startTime: "23:30",
+    	endTime: "23:55",
+    	sessionIds: [029]
+    }
+-
+  date: "2020-12-06"
+  dateReadable: "December 6th (UTC)"
+  tracks:
+    - {title: "Main Talks", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "0:00",
+    	endTime: "0:25",
+    	sessionIds: [200]
+    }
+    - {
+    	startTime: "0:30",
+    	endTime: "0:55",
+    	sessionIds: [030]
+    }
+    - {
+    	startTime: "1:00",
+    	endTime: "1:25",
+    	sessionIds: [031]
+    }
+    - {
+    	startTime: "1:30",
+    	endTime: "1:55",
+    	sessionIds: [032]
+    }
+    - {
+    	startTime: "2:00",
+    	endTime: "2:25",
+    	sessionIds: [033]
+    }
+    - {
+    	startTime: "2:30",
+    	endTime: "2:55",
+    	sessionIds: [034]
+    }
+    - {
+    	startTime: "3:00",
+    	endTime: "3:25",
+    	sessionIds: [035]
+    }
+    - {
+    	startTime: "3:30",
+    	endTime: "3:55",
+    	sessionIds: [036]
+    }
+    - {
+    	startTime: "4:00",
+    	endTime: "4:25",
+    	sessionIds: [200]
+    }
+    - {
+    	startTime: "4:30",
+    	endTime: "4:55",
+    	sessionIds: [037]
+    }
+    - {
+    	startTime: "5:00",
+    	endTime: "5:25",
+    	sessionIds: [038]
+    }
+    - {
+    	startTime: "5:30",
+    	endTime: "5:55",
+    	sessionIds: [039]
+    }
+    - {
+    	startTime: "6:00",
+    	endTime: "6:25",
+    	sessionIds: [040]
+    }
+    - {
+    	startTime: "6:30",
+    	endTime: "6:55",
+    	sessionIds: [041]
+    }
+    - {
+    	startTime: "7:00",
+    	endTime: "7:25",
+    	sessionIds: [042]
+    }
+    - {
+    	startTime: "7:30",
+    	endTime: "7:55",
+    	sessionIds: [300]
     }
