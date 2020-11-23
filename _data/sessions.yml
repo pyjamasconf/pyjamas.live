@@ -244,11 +244,11 @@ I went from being a solo website maker to leading two releases of WordPress. Let
   language: en
   complexity: "All"
 -
-  id: 028
+  id: 040
   title: "To build a production-ready distributed task queue system with celery."
   description: "We hear a lot about queuing technologies like Redis,RabbitMQ etc but building and maintaining a consuming and publishing mechanism is not that easy. In this talk, we will see how we can take advantage of Celery to build a Highly efficient, Resilient, transparent, and scalable set up to run at scale."
   subtype: talk
-  speakers: [28]
+  speakers: [40]
   language: en
   complexity: "All"
 -
@@ -352,14 +352,14 @@ Let's have a look at what we can do to make our packages well formed."
   language: en
   complexity: "All"
 -
-  id: 040
+  id: 028
   title: "The three things all web professionals must know about privacy"
   description: "No one got into web design to be a privacy expert. But times have changed and privacy is more relevant than ever. What you'll learn:<br>
 1. Why privacy is important;<br>
 2. What websites need to have a Privacy Policy;<br>
 3. Why you should be the one talking to your clients about it."
   subtype: talk
-  speakers: [40]
+  speakers: [28]
   language: en
   complexity: "All"
 -
