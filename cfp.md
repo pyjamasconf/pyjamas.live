@@ -5,6 +5,10 @@ permalink: /cfp/
 isStaticPost: true
 ---
 
+##### Thank you for all the CfP submissions, the schedule of the conference can be found [here](/schedule/)
+
+---
+
 #### Call for community space organisers
 
 In Pyjamas Conf, we celebrate diversity. Besides the main track that would be filled with talks, we also encourage sessions that are run by the community. The formats of these sessions are flexible, it can be a block of talks in it can be a block of talks in a language other than English, BoF (birds of a feather) sessions for informal discussions of Python-related topics, workshops for a local community etc. If you are interested in leading one of these sessions in the community space, please submit your proposal [here](https://www.papercall.io/cfps/3362/submissions/new). We will provide support in organising and running those sessions.
