@@ -58,8 +58,8 @@ eventDate: "December 5th, 2020"
 typeoutTextValues: '"", "100% Online!", "Directly from your sofa!", "Totally Free!", "Worldwide!"'
 typeoutFallback: "Season"
 heroButtons:
- - {permalink: "https://pyjamas.live/cfp/", text: "Become a speaker"}
- - {permalink: "https://ti.to/python-ireland/pyjamas-2020", text: "Buy tickets"}
+ - {permalink: "https://pyjamas.live/schedule/", text: "Schedule"}
+ - {permalink: "https://ti.to/python-ireland/pyjamas-2020", text: "Get tickets"}
 
 # About Block
 aboutTitle: "About Pyjamas Conf 2020"
