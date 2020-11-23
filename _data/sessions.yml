@@ -189,10 +189,10 @@ I went from being a solo website maker to leading two releases of WordPress. Let
   complexity: "All"
 -
   id: 021
-  title: "TBC"
-  description: "TBC"
+  title: "Pythonic Mobility: How I Found a New Car and Paid $0 for Parking"
+  description: "Python helps me get out into the world. Pythonic Mobility will cover; Building a web scraper to find a car to fly to, buy, and drive home; and building a car sharing app to alleviate availability anxiety. (RIP car2go)"
   subtype: talk
-  speakers: []
+  speakers: [21]
   language: en
   complexity: "All"
 -

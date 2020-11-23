@@ -191,6 +191,13 @@ Martin Christen is very active in the Python community. He teaches various Pytho
   thumbnailUrl: speaker.png
 
 -
+  id: 21
+  name: "Jeremy"
+  surname: "Tanner"
+  bio: "Advocate (Developer, Community, BBQ). Motorcyclist. Bicyclist. Dad. Not Questlove."
+  thumbnailUrl: speaker.png
+
+-
   id: 22
   name: "Mario"
   surname: "García"
