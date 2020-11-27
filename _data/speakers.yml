@@ -49,6 +49,15 @@ As a good German, this bio is written efficiently and contains no sense of humou
   thumbnailUrl: speaker.png
 
 -
+  id: 5
+  name: "Tania"
+  surname: "Allard"
+  bio: "Tania is a Sr. Developer Advocate at Microsoft with vast experience in academic research and industrial environments. Her main areas of expertise are within data-intensive applications, scientific computing, and machine learning. She has conducted extensive work on the improvement of processes, reproducibility and transparency in research, data science and artificial intelligence. She is passionate about mentoring, open source, and its community and is involved in a number of initiatives aimed to build more diverse and inclusive communities. She is also a contributor, maintainer, and developer of a number of open source projects and the Founder of Pyladies NorthWest.
+
+In her free time she likes tinkering with electronics, nerding with mechanical keyboards and practising weightlifting."
+  thumbnailUrl: speaker.png
+
+-
   id: 6
   name: "Anastasiia"
   surname: "Tymoshchuk"

@@ -50,10 +50,10 @@
   complexity: "All"
 -
   id: 005
-  title: "Microsoft Talk"
-  description: "TBC"
+  title: "Getting started with Jupyterlab extensions"
+  description: "JupyterLab is a fun web-based user interface for scientists, developers and designers for exploration, analysis, visualization. It is a flexible and highly extensible set of components that allows users to customize and enhance the existing experience. In this session I will cover how you can get started with creating JupyterLab extensions and setting your CI pipelines for testing and publishing with GitHub actions."
   subtype: talk
-  speakers: []
+  speakers: [5]
   language: en
   complexity: "All"
 -
