@@ -353,11 +353,8 @@ Let's have a look at what we can do to make our packages well formed."
   complexity: "All"
 -
   id: 028
-  title: "The three things all web professionals must know about privacy"
-  description: "No one got into web design to be a privacy expert. But times have changed and privacy is more relevant than ever. What you'll learn:<br>
-1. Why privacy is important;<br>
-2. What websites need to have a Privacy Policy;<br>
-3. Why you should be the one talking to your clients about it."
+  title: "TBC"
+  description: ""
   subtype: talk
   speakers: [28]
   language: en
