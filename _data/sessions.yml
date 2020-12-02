@@ -256,7 +256,7 @@ I went from being a solo website maker to leading two releases of WordPress. Let
   title: "Intro to Elyra - an AI centric extension for JupyterLab"
   description: "Have you ever wanted to run multiple data science notebooks in sequential and parallel order with one click?  If so, come join our Intro to Elyra - an AI centric extension for JupyterLab session to learn how you can get set up and running with Elyra!"
   subtype: talk
-  speakers: [29]
+  speakers: [29, 43, 44]
   language: en
   complexity: "All"
 -

@@ -380,6 +380,20 @@ Github: https://github.com/ju-sh
   bio: "Engineer who loves to build products that solve real world problems in short spans of time. I have experienced different areas of the industry having worked in diverse companies in Germany and India. Apart from work, I like to travel and interact and engage with the tech community through Meetups & Hackathons. In my free time, I like to try stuff out by hacking together something that I find interesting."
   thumbnailUrl: speaker.png
 
+-
+  id: 43
+  name: "Edward"
+  surname: "Leardi"
+  bio: "Edward Leardi is a developer advocate and data scientist with the IBM CODAIT team whose main focus is to democratize data and AI through open source technologies. Edward helps the CODAIT team publish open source datasets and models to IBM’s Data & Model Asset Exchanges."
+  thumbnailUrl: speaker.png
+
+-
+  id: 44
+  name: "Saishruthi"
+  surname: "Swaminathan"
+  bio: "Saishruthi Swaminathan is a developer advocate and data scientist in the IBM CODAIT team. Her passion is to dive deep into the ocean of data, extract insights, and use AI for social good. Previously, she worked as a software developer. She also leads education for rural children initiative and organizing meetups focusing on women empowerment. She has a masters in electrical engineering, specializing in data science and a bachelor’s degree in electronics and instrumentation."
+  thumbnailUrl: speaker.png
+
 # -
 #   id: 7
 #   name: "Valentyn"
