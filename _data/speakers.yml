@@ -394,6 +394,13 @@ Github: https://github.com/ju-sh
   bio: "Saishruthi Swaminathan is a developer advocate and data scientist in the IBM CODAIT team. Her passion is to dive deep into the ocean of data, extract insights, and use AI for social good. Previously, she worked as a software developer. She also leads education for rural children initiative and organizing meetups focusing on women empowerment. She has a masters in electrical engineering, specializing in data science and a bachelor’s degree in electronics and instrumentation."
   thumbnailUrl: speaker.png
 
+-
+  id: 45
+  name: "Lais"
+  surname: "Carvalho"
+  bio: "Lais Carvalho is a newbie developer advocate. Final year IT student, her background is on civil & environmental engineering. Board member of Python Ireland, Laís was part of the organisation of EuroPython 2020 and hosted the PyData Dublin Summer edition of same year."
+  thumbnailUrl: speaker.png
+
 # -
 #   id: 7
 #   name: "Valentyn"
