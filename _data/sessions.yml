@@ -378,8 +378,8 @@ Let's have a look at what we can do to make our packages well formed."
 
 -
   id: 043
-  title: "Panal Session - Deep Dive into Python Community"
-  description: "In this panal session, we will have Tania Allard and Mark Smith in the panal and we will ask them about their Python journey and how to engage with the Python community."
+  title: "Panel Session - Deep Dive into Python Community"
+  description: "In this panel session, we will have Tania Allard and Mark Smith in the panal and we will ask them about their Python journey and how to engage with the Python community."
   subtype: talk
   speakers: [5,10,45]
   language: en
