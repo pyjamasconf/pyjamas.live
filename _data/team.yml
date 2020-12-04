@@ -50,7 +50,7 @@
     - {name: "twitter", link: "https://twitter.com/cheukting_ho"}
     - {name: "github", link: "https://github.com/Cheukting"}
     - {name: "youtube", link: "https://www.youtube.com/channel/UCie_J9IohYO4hSsz4O2mDfQ"}
-    - {name: "site", link: "https:/cheuk.dev/"}
+    - {name: "site", link: "https://cheuk.dev/"}
 
 -
   id: 4
@@ -119,3 +119,16 @@
   social:
     - {name: "twitter", link: "https://twitter.com/SPataut"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/sandrinepataut/"}
+
+-
+  id: 9
+  name: "Martin"
+  surname: "Borus"
+  title: "Conference Tech Committee"
+  thumbnailUrl: MartinBorus.jpg
+  team: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/mborus"}
+    - {name: "linkedin", link: "http://www.linkedin.com/in/mborus-de"}
