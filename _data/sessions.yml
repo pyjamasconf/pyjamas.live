@@ -353,8 +353,8 @@ Let's have a look at what we can do to make our packages well formed."
   complexity: "All"
 -
   id: 028
-  title: "TBC"
-  description: ""
+  title: "How guided exploration both help my Python journey and my reinforcment and machine learning projects."
+  description: "I've recently been obsessed with Advent of Code, learning through puzzles and setting myself challenges to become a better Pythonista. Interestingly, I noticed that my approach to learning models some insights in reinforcement learning and machine learning training. These serve as a light-hearted introduction to some aspects of machine learning, as well as, adding another tool to our continuous learning toolbelt."
   subtype: talk
   speakers: [28]
   language: en
