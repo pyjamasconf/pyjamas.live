@@ -13,6 +13,9 @@ _site/
 Thumbs.db
 ehthumbs.db
 
+### Mac ###
+.DS_Store
+
 # bundle and vendor folders
 .bundle/config
 vendor/
