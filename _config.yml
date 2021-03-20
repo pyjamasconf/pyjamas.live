@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', '/vendor']
 
 # Site Settings
 title: "Pyjamas 2020"
-email: "pyjamasconf@gmail.com"
+email: "contact@pyjamas.live"
 description: "Pyjamas 2020 24hs of python all around the world"
 baseurl: ""
 url: "https://pyjamas.live"
@@ -24,7 +24,7 @@ permalink: "/blog/:title"
 organizerName: "Pyjamas"
 organizerAlternateName: "Pyjamas Group"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Python technology with passion."
-organizerEmail: "pyjamasconf@gmail.com"
+organizerEmail: "contact@pyjamas.live"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://pyjamas.live/"
 
@@ -37,7 +37,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://pyjamas.live/cfp/"
-c4sponsorsUrl: "mailto:pyjamasconf@gmail.com"
+c4sponsorsUrl: "mailto:contact@pyjamas.live"
 
 
 # Navigation
@@ -183,7 +183,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:pyjamasconf@gmail.com", text: "pyjamasconf@gmail.com"}
+   - {link: "mailto:contact@pyjamas.live", text: "contact@pyjamas.live"}
  -
   title: "FAQ"
   links:

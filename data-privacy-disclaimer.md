@@ -69,4 +69,4 @@ We reserve the right to amend or supplement this policy at any time, as we see f
 ###### Contact
 If you have questions about your rights concerning your personal data or related issues, please contact:
 
-[pyjamasconf@gmail.com](mailto:pyjamasconf@gmail.com)
+[contact@pyjamas.live](mailto:contact@pyjamas.live)

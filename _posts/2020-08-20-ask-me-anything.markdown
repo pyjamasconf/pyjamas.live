@@ -41,7 +41,7 @@ We recommend signing up for either one of those sessions. However, if you feel t
 
 ##### What if I want some 1-1 mentoring?
 
-I know discussions with everyone during the workshop may not be right for you. If you are a new speaker and if you need help submitting to Pyjamas Conf 2020, please get in touch by [Twitter](https://twitter.com/PyjamasConf) or [email](mailto:pyjamasconf@gmail.com).
+I know discussions with everyone during the workshop may not be right for you. If you are a new speaker and if you need help submitting to Pyjamas Conf 2020, please get in touch by [Twitter](https://twitter.com/PyjamasConf) or [email](mailto:contact@pyjamas.live).
 
 We cannot promise a 1-1 mentor assigned to you but the organising team will try to help as much as we can.
 
