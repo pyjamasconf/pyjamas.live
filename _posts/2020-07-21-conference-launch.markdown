@@ -12,7 +12,7 @@ Before COVID-19 struck us all with lockdown-news, the idea to host an online con
 ---
 
 #### When is it going to happen?
-December 5th, everywhere on Earth (we will be running for 24 hours so it may be 4th or 6th for you at some time).
+Saturday, December 5th, everywhere on Earth (we will be running for 24 hours so it may be 4th or 6th for you at some time).
 
 
 #### Why PyJamas? - you may ask.
