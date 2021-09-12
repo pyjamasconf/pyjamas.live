@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', '/vendor']
 
 
 # Site Settings
-title: "Pyjamas 2020"
+title: "Pyjamas 2021"
 email: "contact@pyjamas.live"
-description: "Pyjamas 2020 24hs of python all around the world"
+description: "The laziest Python Conference ever."
 baseurl: ""
 url: "https://pyjamas.live"
 permalink: "/blog/:title"
@@ -21,8 +21,8 @@ permalink: "/blog/:title"
 # siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "Pyjamas"
-organizerAlternateName: "Pyjamas Group"
+organizerName: "Pyjamas Conference CIC"
+organizerAlternateName: "PyjamasConf"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Python technology with passion."
 organizerEmail: "contact@pyjamas.live"
 organizerLogo: "/img/seo/organizer-logo.png"
@@ -45,27 +45,27 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/cfp/", text: "Call for Proposal"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "https://ti.to/python-ireland/pyjamas-2020", text: "Register Tickets"}
+ # - {permalink: "/schedule/", text: "Schedule"}
+ # - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "https://ti.to/python-ireland/pyjamas-2020", text: "Register Tickets"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/coc/", text: "Code of Conduct"}
  - {permalink: "/past-edition/", text: "Past Edition"}
 
 # Hero Block
-heroTitle: "Pyjamas Conf <typeout> 2020"
-eventDate: "December 5th, 2020"
-typeoutTextValues: '"", "100% Online!", "Directly from your sofa!", "Totally Free!", "Worldwide!"'
+heroTitle: "Pyjamas Conf <typeout> 2021"
+eventDate: "December 4th, 2021"
+typeoutTextValues: '"", "Directly from your bed!", "Cannot be more lazy than that...", "Worldwide! 100% Online", "Totally Free! Just tuned in!"'
 typeoutFallback: "Season"
 heroButtons:
  - {permalink: "https://pyjamas.live/schedule/", text: "Schedule"}
  - {permalink: "https://ti.to/python-ireland/pyjamas-2020", text: "Get tickets"}
 
 # About Block
-aboutTitle: "About Pyjamas Conf 2020"
+aboutTitle: "About Pyjamas Conf 2021"
 aboutBlock:
- - {title: "Main Conference", image: "conference.jpg", text: "24 hours streaming of talks about Python and connecting with Python communities around the world that you can access at home." }
- - {title: "Community Space", image: "community.jpg", text: "Full-day of workshops, talks, BoF sessions, sprints and any other activities organized by various Python communities." }
+ - {title: "Main Conference on YouTube", image: "conference.jpg", text: "24 hours streaming of talks about Python and connecting with Python communities around the world that you can access at home." }
+ - {title: "Community Space on Discord", image: "community.jpg", text: "Connect between all attendees around the world, come in and chat." }
 #  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
@@ -113,7 +113,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "PyjamasConf2020"
+twitterHashTag: "PyjamasConf2021"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -125,7 +125,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Free registration will be open around mid October. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
@@ -200,7 +200,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Pyjamas Conf started in 2019, a group of enthusiastic volunteers in Brazil wanted to make Python conferences accessible to everyone at home. In 2020, without the foreseeing of the COVID-19, we wanted to expand the idea of a conference that you can enjoy at your sofa and making it a globally organized highly diverse conference. Our organizers are from different countries around the globe."
+aboutUs: "Pyjamas Conf started in 2019, a group of enthusiastic volunteers in Brazil wanted to make Python conferences accessible to everyone at home. In 2020, without the foreseeing of the COVID-19, we successfully organized a 24 hours conference that you can enjoy at your sofa and making it a globally organized highly diverse conference. This year, we will continue and welcome anyone around the world to contribute."
 
 # Logistics Find Way Block
 # findWayTitle: "Find your way here"

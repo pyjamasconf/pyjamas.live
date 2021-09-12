@@ -1,47 +1,8 @@
 -
   id: 0
-  name: "Alexandre"
-  surname: "Augusto"
-  title: "Communication Committee"
-  thumbnailUrl: AlexandreAugusto.jpg
-  team: true
-  ribbon:
-    - {abbr: "", title: ""}
-  social:
-    - {name: "twitter", link: "https://twitter.com/alebarbaruiva"}
-    - {name: "github", link: "https://github.com/alexandrebarbaruiva"}
-
--
-  id: 1
-  name: "Camila"
-  surname: "Maia"
-  title: "Conference Tech Committee"
-  thumbnailUrl: CamilaMaia.jpg
-  team: true
-  ribbon:
-    - {abbr: "", title: ""}
-  social:
-    - {name: "twitter", link: "https://twitter.com/cmaiacd"}
-    - {name: "github", link: "https://github.com/camilamaia"}
-
--
-  id: 2
-  name: "Catarina"
-  surname: "Lourenço"
-  title: "Designer"
-  thumbnailUrl: CatarinaLourenco.png
-  team: true
-  ribbon:
-    - {abbr: "", title: ""}
-  social:
-    - {name: "twitter", link: "https://twitter.com/CatarinaLou"}
-    - {name: "site", link: "https://about.me/CatarinaLou"}
-
--
-  id: 3
   name: "Cheuk"
   surname: "Ho"
-  title: "Programming Committee"
+  title: "Organizer"
   thumbnailUrl: CheukHo.jpg
   team: true
   ribbon:
@@ -53,78 +14,22 @@
     - {name: "site", link: "https://cheuk.dev/"}
 
 -
-  id: 4
-  name: "Davide"
-  surname: "Poggiali"
-  title: "Communication Committee"
-  thumbnailUrl: DavidePoggiali.jpg
+  id: 1
+  name: "Gustav"
+  surname: "Odinger"
+  title: "Organizer"
+  thumbnailUrl: speaker.png
   team: true
   ribbon:
     - {abbr: "", title: ""}
   social:
-    - {name: "twitter", link: "https://twitter.com/davidepoggiali "}
-    - {name: "github", link: "https://github.com/pog87"}
-    - {name: "site", link: "https://dpoggiali.altervista.org"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gustav-odinger/"}
 
 -
-  id: 5
-  name: "Itay"
-  surname: "Weiss"
-  title: "Sponsorship and Partnership Committee"
-  thumbnailUrl: ItayWeiss.jpg
-  team: true
-  ribbon:
-    - {abbr: "", title: ""}
-  social:
-    - {name: "twitter", link: "https://twitter.com/itaywss"}
-    - {name: "github", link: "https://github.com/itaywss"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/itay-weiss-1946bb24/"}
-
--
-  id: 6
-  name: "Lais"
-  surname: "Carvalho"
-  title: "Communication Committee"
-  thumbnailUrl: LaisCarvalho.jpg
-  team: true
-  ribbon:
-    - {abbr: "", title: ""}
-  social:
-    - {name: "twitter", link: "https://twitter.com/lais_bsc"}
-    - {name: "linkedin", link: "http://linkedin.com/in/lais-barbara-carvalho/"}
-
--
-  id: 7
-  name: "Letícia"
-  surname: "Silva"
-  title: "Communication Committee"
-  thumbnailUrl: LetíciaSilva.jpg
-  team: true
-  ribbon:
-    - {abbr: "", title: ""}
-  social:
-    - {name: "twitter", link: "https://twitter.com/dii_lua"}
-    - {name: "github", link: "https://github.com/leticiadasilva"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/leticiasilvar"}
-
--
-  id: 8
-  name: "Sandrine"
-  surname: "Pataut"
-  title: "Code of Conduct Manager"
-  thumbnailUrl: SandrinePataut.jpg
-  team: true
-  ribbon:
-    - {abbr: "", title: ""}
-  social:
-    - {name: "twitter", link: "https://twitter.com/SPataut"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/sandrinepataut/"}
-
--
-  id: 9
+  id: 2
   name: "Martin"
   surname: "Borus"
-  title: "Conference Tech Committee"
+  title: "Organizer"
   thumbnailUrl: MartinBorus.jpg
   team: true
   ribbon:
