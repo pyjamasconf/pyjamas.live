@@ -10,7 +10,7 @@ Being tired of all the conferences that happened online? Don't worry, we are dif
 
 ![chill gif](https://c.tenor.com/P0_30tC2ASgAAAAC/chill-relax.gif)
 
-The conference is free! There will be a 24 hours (almost non-stop) streaming of your favourite talk by your favourite speaker about anything (that is interesting to a Pythonista). Besides, you can chat with your Python friend that you have not met in a long while, or make new Python friends that are 100 miles away.
+The conference is free! There will be a 24 hours (almost non-stop) stream of your favourite talks by your favourite speakers about anything (that is interesting to a Pythonista). Besides, you can chat with your Python friends that you have not met in a long while, or make new Python friends that are 100 miles away.
 
 Last year we have lots of fun connecting 1000+ Pythonistas worldwide drinking chocolate and showing off our favourite onesies. Check out our [Twitter](https://twitter.com/intent/user?screen_name=PyjamasConf) and see.
 
