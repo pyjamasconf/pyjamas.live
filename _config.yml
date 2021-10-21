@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/cfp/", text: "Call for Proposal"}
  # - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/speakers/", text: "Speakers"}
- # - {permalink: "https://ti.to/python-ireland/pyjamas-2020", text: "Register Tickets"}
+ - {permalink: "https://ti.to/pyjamas-conf/2021", text: "Register Tickets"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/coc/", text: "Code of Conduct"}
  - {permalink: "/past-edition/", text: "Past Edition"}
@@ -59,7 +59,7 @@ typeoutTextValues: '"", "Directly from your bed!", "Cannot be more lazy than tha
 typeoutFallback: "Season"
 heroButtons:
  - {permalink: "/coming-soon/", text: "Schedule"}
- - {permalink: "/ticket-coming-soon/", text: "Get tickets"}
+ - {permalink: "https://ti.to/pyjamas-conf/2021", text: "Get tickets"}
 
 # About Block
 aboutTitle: "About Pyjamas Conf 2021"
