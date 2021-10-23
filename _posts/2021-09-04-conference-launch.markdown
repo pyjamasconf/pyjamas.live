@@ -15,7 +15,7 @@ The conference is free! There will be a 24 hours (almost non-stop) stream of you
 Last year we have lots of fun connecting 1000+ Pythonistas worldwide drinking chocolate and showing off our favourite onesies. Check out our [Twitter](https://twitter.com/intent/user?screen_name=PyjamasConf) and see.
 
 #### When is it going to happen?
-December 4th 2021, everywhere on Earth (we will be running for 24 hours, for the exact [conference starting time check here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Pyjamas+Conf+2021&iso=20211204T07&ah=23&am=55)).
+Saturday, December 4th 2021, everywhere on Earth (we will be running for 24 hours, for the exact [conference starting time check here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Pyjamas+Conf+2021&iso=20211204T07&ah=23&am=55)).
 
 #### CfP is now open! Become a Python speaker today!
 
