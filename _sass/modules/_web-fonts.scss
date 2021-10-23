@@ -41,13 +41,13 @@
   @return $string;
 }
 
-@function wf-implode($list, $seperator: ",") {
+@function wf-implode($list, $separator: ",") {
   $string: "";
   @for $i from 1 through length($list) {
     $el: nth($list, $i);
     $string: $string + $el;
     @if ($i < length($list)) {
-      $string: $string + $seperator;
+      $string: $string + $separator;
     }
   }
   @return $string;
