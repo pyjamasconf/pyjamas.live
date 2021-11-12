@@ -10,7 +10,7 @@
   name: "Attila"
   surname: "Tóth"
   bio: "Attila Toth is a software developer passionate about making data useful. He currently works for Timescale which is the company behind TimescaleDB the leading open-source time-series database. Attila likes to craft data pipelines and visualizations to gain insights from large amounts of data. He also enjoys teaching fellow developers through tutorials, live coding streams, and technical talks. You can reach him at attilatoth.dev."
-  thumbnailUrl: speaker.png
+  thumbnailUrl: TothAttila.jpg
 
 -
   id: 3
@@ -39,7 +39,7 @@ People are our focus. Be it employees or users."
   name: "Daniel C."
   surname: "Moura"
   bio: "I am a computer scientist and engineer who loves data and algorithms. I started programming in 1994 and haven't been able to stop since.
-I have a PhD in Computer Engineering (2011) and a Master in Artificial Intelligence. A considerable part of my career was at the University where I lectured computer science subjects and researched about pattern matching and other AI-related topics ([my publications](https://scholar.google.se/citations?user=c4O2_N4AAAAJ&hl=en)). In 2015 I joined Veniam, an exciting startup where I am currently the Principal Data Scientist.
+I have a PhD in Computer Engineering (2011) and a Master in Artificial Intelligence. A considerable part of my career was at the University where I lectured computer science subjects and researched about pattern matching and other AI-related topics (my publications: https://scholar.google.se/citations?user=c4O2_N4AAAAJ&hl=en). In 2015 I joined Veniam, an exciting startup where I am currently the Principal Data Scientist.
 
 I love to learn and to share what I learn and that is why am here :-)
 "
@@ -64,7 +64,7 @@ I love to learn and to share what I learn and that is why am here :-)
   name: "Guilherme"
   surname: "Latrova"
   bio: "Software Engineer and avid reader. I love good software in real life, the kind of software that looks like poems.
-Proud creator (and also Badass Tamer) of https://github.com/guilatrova/tryceratops"
+Proud creator and also Badass Tamer of https://github.com/guilatrova/tryceratops"
   thumbnailUrl: GuilhermeLatrova.png
 
 -
@@ -183,11 +183,11 @@ https://th.pycon.org/"
   id: 20
   name: "Meredydd"
   surname: "Luff"
-  bio: "Meredydd is the founder of [Anvil](https://anvil.works), a platform for building full-stack web apps quickly and easily, with nothing but Python.
+  bio: "Meredydd is the founder of Anvil (https://anvil.works), a platform for building full-stack web apps quickly and easily, with nothing but Python.
 
 He's big on sharing the joy of programming, and believes that building useful applications should be much easier than it is.
 
-Meredydd has been maintaining open-source projects since he was 16: He is currently a maintainer of the [Skulpt](http://skulpt.org) Python-to-Javascript compiler, and contributed the `execveat()` syscall to the Linux kernel. He was also the main software architect for the [MQA](http://mqa.co.uk) music codec.
+Meredydd has been maintaining open-source projects since he was 16: He is currently a maintainer of the Skulpt (http://skulpt.org) Python-to-Javascript compiler, and contributed the `execveat()` syscall to the Linux kernel. He was also the main software architect for the [MQA](http://mqa.co.uk) music codec.
 
 He holds a PhD in making usable programming systems from Cambridge.
 
@@ -242,17 +242,17 @@ I've been working in the web for 15 years and now I'm the CTO of 20tab, a python
   bio: "Ramón is Head of Open Source at CodeSee, based in Vienna, Austria and DevRel Consultant. He's spent the last ten years being directly involved with small businesses and startups getting their apps off the ground or back in shape!
 
 His main motivation is community. He's not only actively worked with children, refugees as well as software builders both new and experienced, but also dedicated a significant amount of his time to organising conferences, workshops and other events aimed at helping empower folks in their tech journey. "
-  thumbnailUrl: RamónHuidobro.jpg
+  thumbnailUrl: RamonHuidobro.jpg
 
 -
   id: 27
   name: "Rodrigo Girão"
   surname: "Serrão"
-  bio: "[Rodrigo](https://linkedin.com/in/rodrigo-girão-serrão) has always been fascinated by problem solving and that is why he picked up programming – so that he could solve more problems.
-He also loves sharing knowledge, and that is why he spends so much time writing articles @ [mathspp.com](https://mathspp.com) and giving workshops and courses.
+  bio: "Rodrigo (https://linkedin.com/in/rodrigo-girão-serrão) has always been fascinated by problem solving and that is why he picked up programming – so that he could solve more problems.
+He also loves sharing knowledge, and that is why he spends so much time writing articles @ mathspp.com (https://mathspp.com) and giving workshops and courses.
 
 His main areas of scientific interest are mathematics (numerical analysis in particular) and programming in general (with a preference for the Python and APL languages), but Rodrigo also enjoys reading fantasy books, watching silly comedy movies and eating chocolate."
-  thumbnailUrl: RodrigoGirãoSerrão.jpg
+  thumbnailUrl: RodrigoGiraoSerrao.jpg
 
 -
   id: 28
@@ -265,7 +265,7 @@ His main areas of scientific interest are mathematics (numerical analysis in par
   id: 29
   name: "Shai"
   surname: "Almog"
-  bio: "Developer advocate for [Lightrun](https://www.lightrun.com), co-founder of [Codename One](https://www.codenameone.com/), open source hacker, speaker, author, blogger, Java rockstar and more. ex-Sun/Oracle guy with 30 years of professional development experience. Shai built virtual machines, development tools, mobile phone environments, banking systems, startup/enterprise backends, user interfaces, development frameworks and much more.
+  bio: "Developer advocate for Lightrun (https://www.lightrun.com), co-founder of Codename One (https://www.codenameone.com/), open source hacker, speaker, author, blogger, Java rockstar and more. ex-Sun/Oracle guy with 30 years of professional development experience. Shai built virtual machines, development tools, mobile phone environments, banking systems, startup/enterprise backends, user interfaces, development frameworks and much more.
 Shai speaks at conferences all over the world and shared the stage with luminaries such as James Gossling (father of Java).  Shai is an award winning highly rated speaker with a knack for engaging the audience and deep technical chops."
   thumbnailUrl: ShaiAlmog.png
 
@@ -280,7 +280,7 @@ Shai speaks at conferences all over the world and shared the stage with luminari
   id: 31
   name: "Yasser"
   surname: "Tahiri"
-  bio: "I am an experienced Backend developer and [Opensource](https://github.com/yezz123) Developer, I am mostly **self-taught** and **very passionate about new technologies**. My strongest skills lie within [Python](https://python.org) | [JavaScript](https://www.javascript.com/), both backends, I help founders add value to society by crafting software using Python tools.
+  bio: "I am an experienced Backend developer and Opensource (https://github.com/yezz123) Developer, I am mostly **self-taught** and **very passionate about new technologies**. My strongest skills lie within Python (https://python.org) | JavaScript (https://www.javascript.com/), both backends, I help founders add value to society by crafting software using Python tools.
 
 Besides technology, I am more passionate about new ideas and new ways of thinking.
 
@@ -292,7 +292,7 @@ Relate to My Passion, I like watching and reading all the things that relate to 
   name: "Mario"
   surname: "Garcia"
   bio: "An active Open Source user and contributor for over a decade. A Python and Rust developer. Speaker at tech and innovation events since 2008. A member of GitLab Heroes, GitKraken Ambassadors and Hashicorp Ambassadors."
-  thumbnailUrl: MarioGarcía.jpg
+  thumbnailUrl: MarioGarcia.jpg
 
 -
   id: 33
