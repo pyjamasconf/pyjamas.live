@@ -58,7 +58,7 @@ eventDate: "Saturday, December 4th, 2021"
 typeoutTextValues: '"", "Directly from your bed!", "Cannot be more lazy than that...", "Worldwide! 100% Online", "Totally Free! Just tuned in!"'
 typeoutFallback: "Season"
 heroButtons:
- - {permalink: "/coming-soon/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "https://ti.to/pyjamas-conf/2021", text: "Get tickets"}
 
 # About Block
@@ -173,6 +173,7 @@ ticketsOffers:
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=PyjamasConf", icon: "twitter"}
  - {link: "https://github.com/pyjamasconf", icon: "github"}
+ - {link: "https://www.youtube.com/c/Pyjamasconf", icon: "youtube"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
