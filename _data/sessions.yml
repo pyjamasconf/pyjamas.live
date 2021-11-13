@@ -113,11 +113,11 @@ Join me for the hypothetical learning journey of a Pythonista as we refactor a f
 -
   id: 012
   title: "FastAPI: Create a Modern API with a High Performance Framework"
-  description: ""
+  description: "As Python grows in popularity, the variety of high-quality frameworks available to developers has blossomed. In addition to steadfast options like Django and Flask, there are many new options including FastAPI."
   subtype: talk
   speakers: [31]
   language: en
-  complexity: ""
+  complexity: "All"
 -
   id: 013
   title: "Smart Farm"
