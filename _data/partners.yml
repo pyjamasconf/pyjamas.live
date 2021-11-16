@@ -1,3 +1,7 @@
+-
+  group: "Bedtime reading sponsor"
+  elements:
+    - {name: "Packt", description: "Packt", link: "https://www.packt.com/", imageUrl: "packt.png"}
 # -
 #   group: "Cashmere sponsor"
 #   elements:
