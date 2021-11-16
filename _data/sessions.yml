@@ -27,7 +27,7 @@
   complexity: ""
 -
   id: 002
-  title: "The Dangers of Pickle"
+  title: "Remote Code Execution: The Dangers of Pickle"
   description: "Pickle is a powerful library. It allows you to serialize, transfer and deserialize data without having to do any effort. But as a wise man once said, 'great power comes with great responsibilities', and Pickle is no exception. Un-pickling from untrusted sources in a truthful environment can have some deadly consequences, such as the ability to perform a RCE, a remote code execution."
   subtype: talk
   speakers: [19]
