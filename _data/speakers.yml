@@ -3,7 +3,7 @@
   name: ""
   surname: "Anirudh"
   bio: "AI Scientist, working on data and python mostly."
-  thumbnailUrl: speaker.png
+  thumbnailUrl: Anirudh.jpeg
 
 -
   id: 2
@@ -43,7 +43,7 @@ I have a PhD in Computer Engineering (2011) and a Master in Artificial Intellige
 
 I love to learn and to share what I learn and that is why am here :-)
 "
-  thumbnailUrl: speaker.png
+  thumbnailUrl: DanielMoura.jpeg
 
 -
   id: 5
@@ -72,7 +72,7 @@ Proud creator and also Badass Tamer of https://github.com/guilatrova/tryceratops
   name: "Harsh Bardhan"
   surname: "Mishra"
   bio: "Harsh is a Software Developer at Quansight Labs and a Google Summer of Code 2021 Student Developer at MetaCall. In the past, he has worked at Red Hat, Qxf2 and Major League Hacking. His experiences revolve around Web engineering, DevOps and Algorithms along with a keen interest in Machine Learning technologies. He also helps maintain and spearhead technical documentation at moja global, which revolves around building open source MRV software to help organizations fight climate change in the land-use sector. In his free time, he likes to work on his Historical Fiction Trilogy and Cooking."
-  thumbnailUrl: speaker.png
+  thumbnailUrl: Harsh.jpeg
 
 -
   id: 9
@@ -120,7 +120,7 @@ He graduated from college in computer programming in the last millennium.  Apart
 As a developer advocate at MongoDB, he meets with developers to help them make the web a better place.
 During his free time, he is usually found stargazing in a camping site somewhere or brewing a fresh batch of beer in his garage.
 "
-  thumbnailUrl: speaker.png
+  thumbnailUrl: JoelLord.png
 
 -
   id: 14
@@ -177,7 +177,7 @@ https://th.pycon.org/"
   name: "Matteo"
   surname: "Bertucci"
   bio: "PEIP1 student at Polytech Marseille. Core Developer, DevOps and Moderator at Python Discord"
-  thumbnailUrl: speaker.png
+  thumbnailUrl: MatteoBertucci.jpg
 
 -
   id: 20
