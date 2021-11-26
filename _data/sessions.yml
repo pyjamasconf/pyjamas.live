@@ -19,12 +19,12 @@
   description: "Time to say good bye. Closing of the conference"
 -
   id: 001
-  title: "Keynote"
-  description: ""
+  title: "Keynote - Welcome to Python 3.10: let's pattern match!"
+  description: "Do you feel stuck in an older version of Python? Are you curious about what is out there with Python 3.10? In this talk, we will go over the exciting new feature added in the latest version of Python 3.10, pattern matching. So let's pattern match? We will discuss the new ways of thinking about programming that comes together with Python 3.10."
   subtype: talk
-  speakers: []
+  speakers: [17]
   language: en
-  complexity: ""
+  complexity: "Beginner"
 -
   id: 002
   title: "Remote Code Execution: The Dangers of Pickle"
@@ -61,12 +61,12 @@ Neural Prophet, a new framework that extends on the original prophet framework, 
   complexity: "Intermediate"
 -
   id: 006
-  title: "Welcome to Python 3.10: let's pattern match!"
-  description: "Do you feel stuck in an older version of Python? Are you curious about what is out there with Python 3.10? In this talk, we will go over the exciting new feature added in the latest version of Python 3.10, pattern matching. So let's pattern match? We will discuss the new ways of thinking about programming that comes together with Python 3.10."
+  title: "Deploy a Python web app to Azure App Service on Linux"
+  description: "Azure App Service is our highly scalable, self-patching web hosting service. We'll create and deploy a sample with either the Flask or Django frameworks."
   subtype: talk
-  speakers: [17]
+  speakers: [34]
   language: en
-  complexity: "Beginner"
+  complexity: "All"
 -
   id: 007
   title: "New dev, old codebase: A series of mentorship stories"
@@ -229,12 +229,12 @@ This talk aims to be a resource for folks learning to work with their neurodiver
   complexity: "All"
 -
   id: 026
-  title: "Panel session"
-  description: ""
+  title: "FaaS for Python Developers with Azure - How to create and deploy a secure Python Azure Function Web API with VS Code and Azure AD"
+  description: "We'll demonstrate how to secure an Azure Function with Azure Active Directory when the function uses an HTTP trigger and exposes a Web API written in Python with VS Code."
   subtype: talk
-  speakers: []
+  speakers: [34]
   language: en
-  complexity: ""
+  complexity: "All"
 -
   id: 027
   title: "Advanced,machine learning time series forecasting methods "
