@@ -1,7 +1,7 @@
 -
   group: "Silk sponsor"
   elements:
-    - {name: "Microsoft", description: "Microsoft", link: "https://www.microsoft.com/", imageUrl: "Microsoft-logo_rgb_c-gray.png"}
+    - {name: "Microsoft", description: "Microsoft", link: "https://www.microsoft.com/en-ie/", imageUrl: "Microsoft-logo_rgb_c-gray.png"}
 
 -
   group: "Bedtime reading sponsor"
