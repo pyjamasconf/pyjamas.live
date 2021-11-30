@@ -345,7 +345,10 @@ The best way to visualize decision trees is with dtreeviz. It is an awesome pyth
 -
   id: 040
   title: "Type hints in python"
-  description: "I would like to talk about type hints in python, how and why to use them?"
+  description: "Type hints in python - how and why to use them?
+  
+  The talk walks through the basics of type hinting, why it is required and how it can be done in python using mypy.
+  "
   subtype: talk
   speakers: [1]
   language: en
