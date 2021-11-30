@@ -1,8 +1,10 @@
 -
   id: 1
-  name: ""
-  surname: "Anirudh"
-  bio: "AI Scientist, working on data and python mostly."
+  name: "Anirudh"
+  surname: "Menon"
+  bio: "Anirudh is an AI Scientist, working on data and python mostly. He has worked on big data engineering and sciences for many years now.
+  He is an active member of the Python Community in India and has hosted and presented at many of their meetup and conferences.
+  He has contributed to many popular open source Apache projects too."
   thumbnailUrl: Anirudh.jpeg
 
 -
