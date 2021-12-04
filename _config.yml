@@ -60,6 +60,7 @@ typeoutFallback: "Season"
 heroButtons:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "https://www.youtube.com/watch?v=hU6HWt2VX5Q&list=PLiwrSoq9tHkGREiplS0cWA3Oa2V3leMB5", text: "Watch Livestream"}
+ - {permalink: "https://forms.gle/Y9X88ZLeK1ZDyBWo9", text: "Lightning Talk Signup"}
 
 # About Block
 aboutTitle: "About Pyjamas Conf 2021"

@@ -13,10 +13,10 @@
   description: "It's good to take a break and stretch"
 -
   id: 300
-  title: "Closing"
+  title: "Lightning talk + Closing"
   place: "Main track"
   service: true
-  description: "Time to say good bye. Closing of the conference"
+  description: "Have a fun idea that you want to share with us? Want to try giving talk online for the 1st time? Lightning talks are good for you cause all you have is 5 mins time to give us a quick talk. Sing up to give a lightning talk: https://forms.gle/Y9X88ZLeK1ZDyBWo9 Then time to say good bye, following by closing of the conference"
 -
   id: 001
   title: "Keynote - Welcome to Python 3.10: let's pattern match!"
@@ -346,7 +346,7 @@ The best way to visualize decision trees is with dtreeviz. It is an awesome pyth
   id: 040
   title: "Type hints in python"
   description: "Type hints in python - how and why to use them?
-  
+
   The talk walks through the basics of type hinting, why it is required and how it can be done in python using mypy.
   "
   subtype: talk
