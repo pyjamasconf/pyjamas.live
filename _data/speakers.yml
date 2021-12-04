@@ -1,8 +1,10 @@
 -
   id: 1
-  name: ""
-  surname: "Anirudh"
-  bio: "AI Scientist, working on data and python mostly."
+  name: "Anirudh"
+  surname: "Menon"
+  bio: "Anirudh is an AI Scientist, working on data and python mostly. He has worked on big data engineering and sciences for many years now.
+  He is an active member of the Python Community in India and has hosted and presented at many of their meetup and conferences.
+  He has contributed to many popular open source Apache projects too."
   thumbnailUrl: Anirudh.jpeg
 
 -
@@ -219,13 +221,7 @@ He holds a PhD in making usable programming systems from Cambridge.
   id: 24
   name: "Paolo"
   surname: "Melchiorre"
-  bio: "I’m Paolo Melchiorre, a longtime *Python* backend developer who contributes to the *Django* project and gives talks at tech *conferences*.
-
-I've been a *GNU/Linux* user for over 20 years and I use and promote *Free&nbsp;Software*.
-
-I graduated in Software Engineering and I'm an alumnus of the University of Bologna, Italy.
-
-I've been working in the web for 15 years and now I'm the CTO of 20tab, a pythonic software company, for which I work remotely."
+  bio: "I’m Paolo Melchiorre (@pauloxnet), a longtime Python 🐍 backend developer who contributes to the Django 🦄 project and gives talks at tech conferences 🗣️. I've been a GNU/Linux 🐧 user for over 20 years and I use and promote Free Software 🐃. I graduated in Software Engineering 🎓 and I'm an alumnus of the University of Bologna 🏛️, Italy 🇮🇹️. I've been working in the web 🌍 for 15 years and now I'm the CTO 👨‍💻 of 20tab, a pythonic software company, for which I work remotely 🏡. More info on my website 🔗 https://www.paulox.net 👈️"
   thumbnailUrl: PaoloMelchiorre.jpg
 
 -
