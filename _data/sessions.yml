@@ -231,8 +231,8 @@ This talk aims to be a resource for folks learning to work with their neurodiver
   complexity: "All"
 -
   id: 026
-  title: "FaaS for Python Developers with Azure - How to create and deploy a secure Python Azure Function Web API with VS Code and Azure AD"
-  description: "We'll demonstrate how to secure an Azure Function with Azure Active Directory when the function uses an HTTP trigger and exposes a Web API written in Python with VS Code."
+  title: "Deploy a Python web app to Azure App Service on Linux"
+  description: "Azure App Service is our highly scalable, self-patching web hosting service. We'll create and deploy a sample with either the Flask or Django frameworks."
   subtype: talk
   speakers: [34]
   language: en
