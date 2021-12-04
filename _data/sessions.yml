@@ -16,7 +16,9 @@
   title: "Lightning talk + Closing"
   place: "Main track"
   service: true
-  description: "Have a fun idea that you want to share with us? Want to try giving talk online for the 1st time? Lightning talks are good for you cause all you have is 5 mins time to give us a quick talk. Sing up to give a lightning talk: https://forms.gle/Y9X88ZLeK1ZDyBWo9 Then time to say good bye, following by closing of the conference"
+  description: "Have a fun idea that you want to share with us? Want to try giving talk online for the 1st time? Lightning talks are good for you cause all you have is 5 mins time to give us a quick talk.(Sign up to give a lightning talk using the button at home page)
+  💤
+  Then it's time to say good bye, following by closing of the conference"
 -
   id: 001
   title: "Keynote - Welcome to Python 3.10: let's pattern match!"
