@@ -59,7 +59,7 @@ typeoutTextValues: '"", "Directly from your bed!", "Cannot be more lazy than tha
 typeoutFallback: "Season"
 heroButtons:
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "https://www.youtube.com/watch?v=hU6HWt2VX5Q&list=PLiwrSoq9tHkGREiplS0cWA3Oa2V3leMB5", text: "Watch Livestream"}
+ - {permalink: "https://www.youtube.com/c/Pyjamasconf/featured", text: "Watch Livestream"}
  - {permalink: "https://forms.gle/Y9X88ZLeK1ZDyBWo9", text: "Lightning Talk Signup"}
 
 # About Block
