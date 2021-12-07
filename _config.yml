@@ -55,11 +55,11 @@ navigationLinks:
 # Hero Block
 heroTitle: "Pyjamas Conf <typeout> 2021"
 eventDate: "Saturday, December 4th, 2021 - Sunday, December 5th, 2021 "
-typeoutTextValues: '"", "Directly from your bed!", "Cannot be more lazy than that...", "Worldwide! 100% Online", "Totally Free! Just tuned in!"'
+typeoutTextValues: '"", "Thank you all for coming ❤️", "See you next year!", "Directly from your bed!", "Cannot be more lazy than that...", "Worldwide! 100% Online", "Totally Free! Just tuned in!"'
 typeoutFallback: "Season"
 heroButtons:
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "https://www.youtube.com/playlist?list=PLiwrSoq9tHkGREiplS0cWA3Oa2V3leMB5", text: "Watch Livestream"}
+ - {permalink: "https://www.youtube.com/playlist?list=PLiwrSoq9tHkGREiplS0cWA3Oa2V3leMB5", text: "Rewatch Livestream"}
 
 # About Block
 aboutTitle: "About Pyjamas Conf 2021"
