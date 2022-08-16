@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', '/vendor']
 
 
 # Site Settings
-title: "Pyjamas 2021"
+title: "Pyjamas 2022"
 email: "contact@pyjamas.live"
-description: "The laziest Python Conference ever."
+description: "Pyjamas Conference 2022"
 baseurl: ""
 url: "https://pyjamas.live"
 permalink: "/blog/:title"
@@ -55,7 +55,7 @@ navigationLinks:
 # Hero Block
 heroTitle: "Pyjamas Conf <typeout> 2022"
 eventDate: "Saturday, November 26th, 2022 - Sunday, November 27th, 2021 "
-typeoutTextValues: '"", "Call for Proposal now open!!", "Anywhere you like ~", "We are under the same sky", "Worldwide! 100% Online", "Totally Free! Just tuned in!", "Profit will be donated to the PSF"'
+typeoutTextValues: '"", "⏰ Call for Proposal now open!!", "Anywhere you like ~", "We are under the same sky ✨", "Worldwide! 100% Online", "Totally Free! Just tuned in!", "Profit will be donated to the PSF"'
 typeoutFallback: "Season"
 heroButtons:
  - {permalink: "https://www.papercall.io/cfps/4782/submissions/new", text: "Speak at Pyjamas"}
