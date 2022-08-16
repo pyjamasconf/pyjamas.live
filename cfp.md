@@ -7,7 +7,7 @@ isStaticPost: true
 
 #### Call for proposals (CFP)
 
-Today we are also opening our CFP! Submissions to speak at Pyjamas Conf 2022 will be accepted from 19th August 2022 **until 18th September 2022, anywhere on earth (UTC+12)**. All talk slots will be 25 mins: 20 mins plus 5 mins Q&A or 25 mins without Q&A. Since the conference runs for a full 24 hours, you can select the time block that you would like your talk to be in. You can choose to present your talk live or recorded We welcome submissions from everybody, including those:
+Today we are also opening our CFP! Submissions to speak at Pyjamas Conf 2022 will be accepted from 19th August 2022 **until 18th September 2022, anywhere on earth (UTC+12)**. All **talk slots will be 25 mins:** 20 mins plus 5 mins Q&A or 25 mins without Q&A. Since the conference runs for a full 24 hours, you can select the time zone that you would like your talk to be in. You can choose to **present your talk live or recorded** We welcome submissions from everybody, including those:
 
 - who have never given a conference talk before,
 - who are new to Python,
