@@ -5,6 +5,10 @@ permalink: /past-edition/
 isStaticPost: true
 ---
 
+##### Pyjamas Conf 2021
+
+[Official Track](https://www.youtube.com/playlist?list=PLiwrSoq9tHkGREiplS0cWA3Oa2V3leMB5){: .btn-new}
+
 ##### Pyjamas Conf 2020
 
 [Official Track](https://www.youtube.com/watch?v=5_P89NiG-s4&list=PLiwrSoq9tHkGa9Ey2L0rIVWSm61J2RrSW){: .btn-new}
