@@ -55,7 +55,7 @@ navigationLinks:
 
 # Hero Block
 heroTitle: "Pyjamas Conf <typeout> 2022"
-eventDate: "Saturday, November 26th, 2022 - Sunday, November 27th, 2021 "
+eventDate: "Saturday, November 26th, 2022 - Sunday, November 27th, 2022 "
 typeoutTextValues: '"", "⏰ Call for Proposal now open!!", "Anywhere you like ~", "We are under the same sky ✨", "Worldwide! 100% Online", "Totally Free! Just tuned in!", "Profit will be donated to the PSF"'
 typeoutFallback: "Season"
 heroButtons:
@@ -116,7 +116,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "PyjamasConf2021"
+twitterHashTag: "PyjamasConf2022"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -132,46 +132,46 @@ subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b052
 subscribeInfo: "Free registration will be open around mid October. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-ticketsOffers:
- -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+# ticketsTitle: "Pricetable"
+# ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+# ticketsOffers:
+#  -
+#   name: "Early Bird"
+#   price: "350"
+#   priceCurrency: "UAH"
+#   ticketsNumber: "150"
+#   ribbon: "-5%"
+#   buyButtonLink: "http://dfua.ticketforevent.com/"
+#   buyButtonText: "Buy Now"
+#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#   validFrom: "2014-08-25T10:00"
+#   validThrough: "2014-09-30T23:59"
+#  -
+#   name: "Last Chance"
+#   price: "450"
+#   priceCurrency: "UAH"
+#   ticketsNumber: "100"
+#   ribbon: "-20%"
+#   featured: true
+#   buyButtonLink: "http://dfua.ticketforevent.com/"
+#   buyButtonText: "Buy Now"
+#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#   validFrom: "2014-10-01T00:00"
+#   validThrough: "2014-10-23T23:59"
+#   disabled: true
+#  -
+#   name: "Student"
+#   price: "200"
+#   priceCurrency: "UAH"
+#   ticketsNumber: "50"
+#   buyButtonLink: "http://dfua.ticketforevent.com/"
+#   buyButtonText: "Buy Now"
+#   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#   validFrom: "2014-08-20T10:00"
+#   validThrough: "2014-10-23T23:59"
+#   soldOut: true
+#   soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
