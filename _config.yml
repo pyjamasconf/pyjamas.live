@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Documents
 c4pUrl: "https://pyjamas.live/cfp/"
 c4sponsorsUrl: "mailto:contact@pyjamas.live"
-
+c4donationUrl: "https://github.com/sponsors/pyjamasconf"
 
 # Navigation
 navigationLinks:
@@ -51,6 +51,7 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/coc/", text: "Code of Conduct"}
  - {permalink: "/past-edition/", text: "Past Edition"}
+ - {permalink: "https://github.com/sponsors/pyjamasconf", text: "Donation"}
 
 # Hero Block
 heroTitle: "Pyjamas Conf <typeout> 2022"
@@ -120,8 +121,9 @@ twitterHashTag: "PyjamasConf2021"
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
+partnersTitle: "Supporters"
 partnersC4sponsorsButton: "Become a sponsor"
+partnersC4donationButton: "Become a patron"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
