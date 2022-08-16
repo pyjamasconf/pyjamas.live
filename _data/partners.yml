@@ -1,12 +1,12 @@
--
-  group: "Silk sponsor"
-  elements:
-    - {name: "Microsoft", description: "Microsoft", link: "https://www.microsoft.com/en-ie/", imageUrl: "Microsoft-logo_rgb_c-gray.png"}
-
--
-  group: "Bedtime reading sponsor"
-  elements:
-    - {name: "Packt", description: "Packt", link: "https://www.packt.com/", imageUrl: "packt.png"}
+# -
+#   group: "Silk sponsor"
+#   elements:
+#     - {name: "Microsoft", description: "Microsoft", link: "https://www.microsoft.com/en-ie/", imageUrl: "Microsoft-logo_rgb_c-gray.png"}
+#
+# -
+#   group: "Bedtime reading sponsor"
+#   elements:
+#     - {name: "Packt", description: "Packt", link: "https://www.packt.com/", imageUrl: "packt.png"}
 # -
 #   group: "Cashmere sponsor"
 #   elements:

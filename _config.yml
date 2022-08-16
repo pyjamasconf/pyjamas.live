@@ -45,24 +45,26 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/cfp/", text: "Call for Proposal"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "https://ti.to/pyjamas-conf/2021", text: "Register Tickets"}
+ # - {permalink: "/schedule/", text: "Schedule"}
+ # - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "https://ti.to/pyjamas-conf/2021", text: "Register Tickets"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/coc/", text: "Code of Conduct"}
  - {permalink: "/past-edition/", text: "Past Edition"}
 
 # Hero Block
-heroTitle: "Pyjamas Conf <typeout> 2021"
-eventDate: "Saturday, December 4th, 2021 - Sunday, December 5th, 2021 "
-typeoutTextValues: '"", "Thank you all for coming ❤️", "See you next year!", "Directly from your bed!", "Cannot be more lazy than that...", "Worldwide! 100% Online", "Totally Free! Just tuned in!"'
+heroTitle: "Pyjamas Conf <typeout> 2022"
+eventDate: "Saturday, November 26th, 2022 - Sunday, November 27th, 2021 "
+typeoutTextValues: '"", "Call for Proposal now open!!", "Anywhere you like ~", "We are under the same sky", "Worldwide! 100% Online", "Totally Free! Just tuned in!", "Profit will be donated to the PSF"'
 typeoutFallback: "Season"
 heroButtons:
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "https://www.youtube.com/playlist?list=PLiwrSoq9tHkGREiplS0cWA3Oa2V3leMB5", text: "Rewatch Livestream"}
+ - {permalink: "https://www.papercall.io/cfps/4782/submissions/new", text: "Speak at Pyjamas"}
+ - {permalink: "https://forms.gle/PQRvaMpJXYPf56xV7", text: "Apply to be reviewer"}
+ # - {permalink: "/schedule/", text: "Schedule"}
+ # - {permalink: "https://www.youtube.com/playlist?list=PLiwrSoq9tHkGREiplS0cWA3Oa2V3leMB5", text: "Rewatch Livestream"}
 
 # About Block
-aboutTitle: "About Pyjamas Conf 2021"
+aboutTitle: "About Pyjamas Conf 2022"
 aboutBlock:
  - {title: "Main Conference on YouTube", image: "conference.jpg", text: "24 hours streaming of talks about Python and connecting with Python communities around the world that you can access at home." }
  - {title: "Community Space on Discord", image: "community.jpg", text: "Connect between all attendees around the world, come in and chat." }
