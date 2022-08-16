@@ -15,15 +15,16 @@
 
 -
   id: 1
-  name: "Gustav"
-  surname: "Odinger"
-  title: "Organizer"
-  thumbnailUrl: GustavOdinger.jpg
+  name: "Lais"
+  surname: "Carvalho"
+  title: "Communication Committee"
+  thumbnailUrl: LaisCarvalho.jpg
   team: true
   ribbon:
     - {abbr: "", title: ""}
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/gustav-odinger/"}
+    - {name: "twitter", link: "https://twitter.com/lais_bsc"}
+    - {name: "linkedin", link: "http://linkedin.com/in/lais-barbara-carvalho/"}
 
 -
   id: 2
