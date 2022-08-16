@@ -4,7 +4,7 @@
     padding-top: 0;
     // background: rgb(129,171,196) !important;
     // background: linear-gradient(183deg, rgba(129,171,196,1) 0%, rgba(255,255,227,1) 100%) !important;
-    background-image: url(/img/hero-section/pyjamas_conf_bg.png) !important;
+    background-image: url(/img/hero-section/pyjamas_conf_bg_star.png) !important;
     .jumbotron {
         position: relative;
         top: 50%;
@@ -18,8 +18,12 @@
         p {
             font-size: $base-font-size * 2;
             font-weight: $light;
+            color: white;
             margin-top: 40px;
             margin-bottom: 15px;
+        }
+        h1, h5 {
+            color: white;
         }
         .btn {
             margin: 0 3px;
