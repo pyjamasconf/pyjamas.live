@@ -18,6 +18,24 @@ Today we are also opening our CFP! Submissions to speak at Pyjamas Conf 2022 wil
 
 If you’ve never presented at a conference before and you think you might like to try it, we want to hear from you! Pyjamas Conf actively welcomes and encourages new speakers to the conference.
 
+#### Q & A
+
+**How long is the talk?**
+
+- All talk slots are 25 mins, you can either do a 20 mins talk plus 5 mins Q&A or a 25 mins talk without Q&A. All recorded talk videos must have length that is more then 20 mins but less than 25 mins.
+
+**How will the talk be selected?**
+
+- Talk proposals will be reviewed by our team of reviewers and selected by the organising team accordingly
+
+**Can I give my talk recorded?**
+
+- You can choose to give your talk live (if you are speaking in English) or recorded.
+
+**Can I give my talk in a language other than English?**
+
+- You can give your talk in a language other than English, but you will have to present it recorded with English subtitles added. We will provide [veed.io](https://www.veed.io/) for you to do it. [Check their supported languages here.](https://veed.crisp.help/en/article/languages-we-support-for-subtitle-generation-and-translation-1gqg7h/#3-the-following-languages-are-supported-for-subtitle-generations-and-translation) You will also have to provide the CfP in both English and the language of your talk.
+
 #### Submit to speak at Pyjamas Conf today.
 
 Please follow [here](https://www.papercall.io/cfps/4782/submissions/new) to submit your proposal for Pyjamas Conf 2022.
