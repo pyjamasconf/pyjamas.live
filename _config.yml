@@ -206,6 +206,8 @@ showSessions: true
 # Team Block
 teamBlockTitle: "About us"
 aboutUs: "Pyjamas Conf started in 2019, a group of enthusiastic volunteers in Brazil wanted to make Python conferences accessible to everyone at home. In 2020, without the foreseeing of the COVID-19, we successfully organized a 24 hours conference that you can enjoy at your sofa and making it a globally organized highly diverse conference. This year, we will continue and welcome anyone around the world to contribute."
+volunteerTitle: "Join the Team"
+aboutVolunteer: "Do you wanna help us to make Pyjamas Conf a blast? Want to volunteer? <a href='https://forms.gle/aZaxsTKXZ2ntucaCA'>Tell us here.</a>"
 
 # Logistics Find Way Block
 # findWayTitle: "Find your way here"
