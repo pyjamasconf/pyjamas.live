@@ -30,7 +30,7 @@ If you’ve never presented at a conference before and you think you might like 
 
 **Can I give my talk recorded?**
 
-- You can choose to give your talk live (if you are speaking in English) or recorded. If you are giving your talk recorded, we will need your recording (with English subtitles if not in English) to be sent to us by 20th November 2022.
+- You can choose to give your talk live (if you are speaking in English) or recorded. If you are giving your talk recorded, we will need your recording (with English subtitles if not in English) to be sent to us by **20th November 2022**.
 
 **Can I give my talk in a language other than English?**
 
