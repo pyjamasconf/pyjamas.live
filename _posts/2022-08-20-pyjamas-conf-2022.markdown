@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Pyjamas 2022"
+date:   2022-08-20 22:00:00
+isStaticPost: false
+---
+#### It has been 3 years! Now the 4th Edition of Pyjamas Conf is coming!!
+
+I am so glad that we are still doing it! First it was unexpected that we have this conference going and through the pandemic. As we promised, we will still be doing a online 24-hours conference when the world is opening up again.
+
+Over the years, we have heard many encounrging feedbacks and that's why we are still going. We also have a lot of great ideas coming in. We may not be able to implement them all in the past due to our limitations but we are slowly getting there and making Pyjamas Conf more fun, more inclusive and more meaningful.
+
+I have heard that *you will get the conference right the 20th time you do it!* We still have a long way to get there. Thank you for all the support that we got from the community and all of you who help shaping Pyjamas Conf to what it is today! Let's keep doing it and it cannot be done without any of your help.
+
+---
+
+##### What's new in Pyjamas Conf 2022
+
+This year, we have some ideas that come to reality:
+
+###### A more inclueive, multilingual Pyjamas
+
+It has always in our mind that we want to support multiple languages in Pyjamas, but it is very hard to be done. Mainly we do not have many speakers submitting talks that are in a language other than English. May be it's because our limitation of reaching big communities that speaks another language. It's the short coming of the organising them in the past 2 years.
+
+But we didn't give up! This year, we will give it a try. [Speakers can submit talks](https://pyjamas.live/cfp/) in a language other than English, but to make it accessible to all audiences, we will have to have them recorded and subtitled in English. Thanks for the advance of technology, basic transciption and translation can be done automatically with [applications](https://www.veed.io/). If the speaker is able to help polishing the subtitles, we can have many nice talks in many difference languages.
+
+###### A Pyjamas that give back to the comminty
+
+In the past few years, we are so lucky to get support from companies that support us finacially. Eventhough an online conference can be very flexiable in cost and the team is very good at looking for low cost solutions, having money in the bank provide us with more option in making Pyjamas better.
+
+This year, we have decided that if people love us so much and if we have receive a lot of sponsorship and donation, we will give the profit back to the Python community. The money we got this year minus the cost of the confernce will be donated to the [Python Software Foundation](https://www.python.org/psf-landing/) to support the Python programming language and its communities.
+
+###### A Pyjamas that is fun and more swags
+
+In 2000 speakers and volunteers received Pyjamas socks and they love it! This is thanks to our volunteer's effort to have them produced and mailed. Unfortunately we were not able to do it and I admit it's a bit sad. We always wish there is a solution for people who want to have a Pyjamas swag can get it to they door.
+
+Dream no more! This year, we will try launching a merch shop. With it, you can find the item that you would like to have, custommize it and have it produce and sent to you. Unfortunately it won't be free for everyone but I think it is a more enviromentally friendly solution - get something you want rather than given a bunch of swag that you may not want to keep. Again, the profit we made will be used to support the conference and the Python community.
+
+The merch shop can also help us deliver gifts for speakers and volunteers this year if we have the budget for it. It is to be confirmed.
+
+Details about the merch shop is to be announced. Let's get excited.
+
+---
+
+##### Don't miss the Call for Proposal
+
+Before you go, I will have to tell you that the **Call for Proposal is already opened** and will be closing in no time!! So don't hesitate and submit any talks that you would like to give. It can be *technical or non-technical*, as long as you think this is what people in the Python community would be interested. As before you can either give your talk *live or recorded*, thie year you can event submit talks that is in a *language that is not English*. All talks are 20-25 mins long, details please see [our CfP page](https://pyjamas.live/cfp/).
+
+As always we encourage new speakers to give it a go! I always view Pyjamas a good testing ground as the community is very supportive. If you are really nervous about giving live talk in frount of a big crowd, recording a 25 mins talk seems like a less intimidating idea. This year we do not have enough capacity to give special support to less experience speakers but if you have any questions, [drop us an email](mailto:contact@pyjamas.live) and we will try to help you as much as we can.
+
+For more experience speakers, we always welcome you back. You can use Pyjamas to test out new ideas or new talks before you next big gig, let's have fun together.
