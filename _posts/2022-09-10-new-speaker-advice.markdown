@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Advise for New Speakers"
-date:   2022-08-21 22:00:00
+date:   2022-09-10 22:00:00
 isStaticPost: false
 ---
 #### Do you want to be a public speaker and don't know where to start?
