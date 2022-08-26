@@ -36,8 +36,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://pyjamas.live/cfp/"
-c4sponsorsUrl: "mailto:contact@pyjamas.live"
+# c4pUrl: "cfp/"
+c4sponsorsUrl: "assets/sponsorship_package_2022.pdf"
 c4donationUrl: "https://github.com/sponsors/pyjamasconf"
 
 # Navigation
