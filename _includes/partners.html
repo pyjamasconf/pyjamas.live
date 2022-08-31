@@ -28,6 +28,16 @@
                 {% endfor %}
             </ul>
             {% endfor %}
+            {% for patron in site.data.patrons %}
+            <h5>{{ patron.group }}</h5>
+            <ul class="list-text">
+                {% for element in patron.elements %}
+                <li>
+                  {{ element.name }} (<a href="{{ element.link }}" target="_blank">{{ element.description }}</a>)
+                </li>
+                {% endfor %}
+            </ul>
+            {% endfor %}
             <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
             <a href="{{ site.c4donationUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4donationButton }}</a>
         </div>
