@@ -7,7 +7,7 @@ isStaticPost: true
 
 #### Call for proposals (CFP)
 
-Today we are also opening our CFP! Submissions to speak at Pyjamas Conf 2022 will be accepted from 19th August 2022 **until 18th September 2022, anywhere on earth (UTC+12)**. All **talk slots will be 25 mins:** 20 mins plus 5 mins Q&A or 25 mins without Q&A. Since the conference runs for a full 24 hours, you can select the time zone that you would like your talk to be in. You can choose to **present your talk live or recorded** We welcome submissions from everybody, including those:
+Today we are also opening our CFP! Submissions to speak at Pyjamas Conf 2022 will be accepted from 19th August 2022 **until <s>18th September 2022</s> 2nd October 2022, anywhere on earth (UTC+12)**. All **talk slots will be 25 mins:** 20 mins plus 5 mins Q&A or 25 mins without Q&A. Since the conference runs for a full 24 hours, you can select the time zone that you would like your talk to be in. You can choose to **present your talk live or recorded** We welcome submissions from everybody, including those:
 
 - who have never given a conference talk before,
 - who are new to Python,
@@ -62,7 +62,7 @@ As PyjamasConf 2022 is an online conference with talks and attendees across the 
 
 Please also help us spread the word about our CFP by sharing a link to this page with the hashtag #Pyjamas2022 and the handle @pyjamasconf.
 
-<a href="#" class="btn-new" onclick="window.open('http://twitter.com/share?text=Submit to @pyjamasconf 24hr online Python conference! Check out: &url={{ postUrl }}&hashtags=Pyjamas2020,Python,CfP', 'newwindow', 'width=600, height=250'); return false;">Share on Twitter
+<a href="#" class="btn-new" onclick="window.open('http://twitter.com/share?text=Submit to @pyjamasconf 24hr online Python conference! Check out: &url={{ postUrl }}&hashtags=Pyjamas2022,Python,CfP', 'newwindow', 'width=600, height=250'); return false;">Share on Twitter
 </a>
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/sections-background/proposals.jpg" style="display:none">
