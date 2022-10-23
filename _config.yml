@@ -44,7 +44,7 @@ c4donationUrl: "https://github.com/sponsors/pyjamasconf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/cfp/", text: "Call for Proposal"}
+ # - {permalink: "/cfp/", text: "Call for Proposal"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "https://ti.to/pyjamas-conf/2022", text: "Register Tickets"}
