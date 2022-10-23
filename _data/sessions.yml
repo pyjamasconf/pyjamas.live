@@ -16,354 +16,325 @@
   title: "Lightning talk + Closing"
   place: "Main track"
   service: true
-  description: "Have a fun idea that you want to share with us? Want to try giving talk online for the 1st time? Lightning talks are good for you cause all you have is 5 mins time to give us a quick talk.(Sign up to give a lightning talk using the button at home page)
-  💤
-  Then it's time to say good bye, following by closing of the conference"
+  description: "
+  Then it's time to say good bye, closing of the conference"
 -
   id: 001
-  title: "Keynote - Welcome to Python 3.10: let's pattern match!"
-  description: "Do you feel stuck in an older version of Python? Are you curious about what is out there with Python 3.10? In this talk, we will go over the exciting new feature added in the latest version of Python 3.10, pattern matching. So let's pattern match? We will discuss the new ways of thinking about programming that comes together with Python 3.10."
+  title: "Async Database: SQL in Python, designed for simplicity and compatibility."
+  description: |
+    Async database operations aim to release the business logic thread while the database is doing its job. This can lead to a vast performance difference in a heavy traffic environment (basically, will your business logic server / web-server crash or not).
   subtype: talk
-  speakers: [17]
+  speakers: [2]
   language: en
   complexity: "Beginner"
 -
   id: 002
-  title: "Remote Code Execution: The Dangers of Pickle"
-  description: "Pickle is a powerful library. It allows you to serialize, transfer and deserialize data without having to do any effort. But as a wise man once said, 'great power comes with great responsibilities', and Pickle is no exception. Un-pickling from untrusted sources in a truthful environment can have some deadly consequences, such as the ability to perform a RCE, a remote code execution."
-  subtype: talk
-  speakers: [19]
-  language: en
-  complexity: "Beginner"
--
-  id: 003
-  title: "Writing Better Documentation for Developers"
-  description: "If you're building something for developers, you want it to get used! Devs need to find your project, decide it's useful, learn to use it, and solve problems on the way. This all depends on your docs! Your docs are your UI, your marketing, and they - not your code - define what your product is."
-  subtype: talk
-  speakers: [20]
-  language: en
-  complexity: "Intermediate"
--
-  id: 004
-  title: "Neural Prophet – A powerful AI framework for Time Series Models"
-  description: "# Abstract
+  title: "Kivy: Cross-platform Python Framework for GUI apps development."
+  description: |
+    Fast, performant, and beautiful GUI apps with Python? Is that even possible? Yeah. With Kivy.
 
-Neural Prophet, a new framework that extends on the original prophet framework, addresses pain points such as scale, customization and extensibility.it incorporates traditional statistical and neural network models for time series modeling, used in forecasting and anomaly detection."
-  subtype: talk
-  speakers: [14]
-  language: en
-  complexity: "Intermediate"
--
-  id: 005
-  title: "Get your finances together with Python"
-  description: "Use Python to get insights into your financial situation and help with your financial decisions. My talk will show an example of using Python and SQL to get REAL insights into your financial expenses, savings, etc.. giving you much more information than regular finance tracking apps can give you."
-  subtype: talk
-  speakers: [2]
-  language: en
-  complexity: "Intermediate"
--
-  id: 006
-  title: "Deploy a Python web app to Azure App Service on Linux"
-  description: "Azure App Service is our highly scalable, self-patching web hosting service. We'll create and deploy a sample with either the Flask or Django frameworks."
-  subtype: talk
-  speakers: [34]
-  language: en
-  complexity: "All"
--
-  id: 007
-  title: "New dev, old codebase: A series of mentorship stories"
-  description: "Mentorship in software development carries a lot of responsibility, but plays an integral part in making tech communities as well as individuals thrive.
+    Build and deploy Python GUI apps on Android, iOS, Linux, macOS, and Windows.
 
-In this talk, we'll go over some mentorship experiences, adopting techniques and learning to teach, so we can teach to learn. Anyone can mentor!"
-  subtype: talk
-  speakers: [26]
-  language: en
-  complexity: "All"
--
-  id: 008
-  title: "SpyQL: SQL with Python in the middle"
-  description: ""
-  subtype: talk
-  speakers: [4]
-  language: en
-  complexity: ""
--
-  id: 009
-  title: "Pydon'ts – Write elegant Python code v2"
-  description: "Python's shiny frameworks drive some people to spend too little time learning the basics, which makes it harder in the long run to develop successful applications.
-Join me for the hypothetical learning journey of a Pythonista as we refactor a function and learn powerful vanilla Python features."
-  subtype: talk
-  speakers: [27]
-  language: en
-  complexity: "All"
--
-  id: 010
-  title: "Select ML from Databases"
-  description: "This talk introduces a new workflow for building your machine learning models using the capabilities of modern databases that support machine learning use cases natively. There is an overview of how machine learning models are being created today to how they could look in the near future."
-  subtype: talk
-  speakers: [23]
-  language: en
-  complexity: "Beginner"
--
-  id: 011
-  title: "Django with PostgreSQL superpowers"
-  description: "Django per se is a database-agnostic web framework, but real-world projects based on it are not. PostgreSQL has the richest feature set of any supported databases and we'll see how to use these superpowers in Django."
-  subtype: talk
-  speakers: [24]
-  language: en
-  complexity: "Beginner"
--
-  id: 012
-  title: "FastAPI: Create a Modern API with a High Performance Framework"
-  description: "As Python grows in popularity, the variety of high-quality frameworks available to developers has blossomed. In addition to steadfast options like Django and Flask, there are many new options including FastAPI."
-  subtype: talk
-  speakers: [31]
-  language: en
-  complexity: "All"
--
-  id: 013
-  title: "Smart Farm"
-  description: "What happens when you can merge electronics, arduino, raspberry pi and some mobile data?
-Well, a person with apropriate watering set up can enjoy his vacation or whatever else worry free, because he or she can water the farm from the comfort of wherever he or she may be."
-  subtype: talk
-  speakers: [30]
-  language: en
-  complexity: "All"
--
-  id: 014
-  title: "Monolyths, Microservices and Serverless"
-  description: "There have been a huge shift in how we create our software architecture. I'll be going over the most significant ones, and hopefully give you enough information on which approach you should chose for your next project."
+    Never developed an App before? Want to drop a non-pythonic way to develop apps? This talk is for you.
   subtype: talk
   speakers: [3]
   language: en
   complexity: "All"
 -
-  id: 015
-  title: "Clappy Mic: Machine learning-powered audience participation"
-  description: "Having attended a few online conferences and meetups, I would find myself wanting to send a round of applause to speakers, not just in the form of video but also in the chat with some emoji!
-
-With the help of some web tech, the sage advice of others and some machine learning, I was up and running!"
-  subtype: talk
-  speakers: [26]
-  language: en
-  complexity: "Beginner"
--
-  id: 016
-  title: "Build Your First Cyber Forensic Application using Python"
-  description: "In this talk, one can learn how to develop their own cyber forensic tool using standard python library functions and modules."
-  subtype: talk
-  speakers: [6]
-  language: en
-  complexity: "All"
--
-  id: 017
-  title: "Diversity in Neurodiversity: Help for Underrepresented Folks in Tech and Allies with New Mental Health Diagnoses"
-  description: "Many people from underrepresented backgrounds are being diagnosed for the first time or getting treatment well into their careers.
-
-This talk aims to be a resource for folks learning to work with their neurodiversities and their colleagues."
-  subtype: talk
-  speakers: [11]
-  language: en
-  complexity: "All"
--
-  id: 018
-  title: "Introduction to Quantum Computing using Qiskit"
-  description: "A proper introduction to quantum computation will require some maths, physics, and a lot of python. I will try to bring them together, to provide a comprehensive introduction to quantum computing. The range of topics covered will include quantum entanglement, teleportation, and superdense coding."
+  id: 003
+  title: "CLI Best Practices with Typer and Rich"
+  description: |
+    Do you have a CLI application that is super useful but not exactly user-friendly and robust?
+    This talk gives you ideas on how to improve it. It introduces the Command Line Interface Guidelines (https://clig.dev/) and shows how to implement those principles with the awesome libraries Rich and Typer.
   subtype: talk
   speakers: [9]
   language: en
-  complexity: "Beginner"
--
-  id: 019
-  title: "Automate your posting process on DEV with Python, Bash and GitLab CI"
-  description: "For creating a new post on DEV without logging in on the website, you can use the DEV API, create a Markdown file, upload it to a GitLab repository and configure GitLab CI to run Python and Bash scripts that will publish your new post and can also announce it on Twitter."
-  subtype: talk
-  speakers: [32]
-  language: en
   complexity: "All"
 -
-  id: 020
-  title: "Log it, but please, do it right"
-  description: "Most people don't know what to log, so they decide to log anything thinking it might be better than nothing, and end up creating just noise. My goal here is to clarify what good logging is, and how you should implement it. I'll give meaningful examples to make it easy for you."
-  subtype: talk
-  speakers: [7]
-  language: en
-  complexity: "All"
--
-  id: 021
-  title: "Building Machine Learning Demos using Python"
-  description: "Libraries like Streamlit and Gradio make it very easy to build UIs and serve it in minutes. In this demo, I will walk the audience through how to easily build and demo machine learning applications using Hugging Face Transformers, Streamlit and Gradio. We will deploy it to Hugging Face Spaces."
-  subtype: talk
-  speakers: [21]
-  language: en
-  complexity: "Beginner"
--
-  id: 022
-  title: "Classification of Satellite Imagery using Python"
-  description: "The change of land use and land cover (LULC) has considerable impacts on island ecosystems. This talk will explain how to use geemap to work in land classification, e.g., urban, water, and vegetation area. It is a walkthrough of how you work in remote sensing task using geemap"
-  subtype: talk
-  speakers: [18]
-  language: en
-  complexity: "Beginner"
--
-  id: 023
-  title: "Escaping the Cargo Cult (v2)"
-  description: "In this talk, Jason C. McDonald breaks down the best way to structure a Python project for maximum portability and maintainability...and more important, explain WHY these patterns exist."
+  id: 004
+  title: "How to Talk About Mental Health Without Losing Your Mind"
+  description: |
+    Depression, burnout, bipolar, OCD, anxiety,… these are the things we don’t talk about. But silence and hushed voices only create a breeding ground for misinformation, discrimination and stigmatisation. So let’s stop perpetuating the stigma and start talking about mental health openly!
   subtype: talk
   speakers: [10]
   language: en
   complexity: "All"
 -
-  id: 024
-  title: "Deploying a simple Python app to Kubernetes/OpenShift"
-  description: "JJ will walk you through deploying a simple python application to Kubernetes/OpenShift. We'll start from the ground up, then get a complete automated build. The goal is to enable your developers to focus on code, not the infrastructure!"
+  id: 005
+  title: "Use animated data stories in Jupyter to present & share your findings with ipyvizzu-story"
+  description: |
+    Sharing and explaining the results of your analysis can be a lot easier and more fun when you present an animated data story containing your insights. The open-source tool ipyvizzu-story enables you to do that with a simple Python interface. Join us for a quick intro and some tips about it.
   subtype: talk
-  speakers: [12]
+  speakers: [4]
   language: en
   complexity: "All"
 -
-  id: 025
-  title: "MongoDB and Python, a Perfect Match"
-  description: "Is your application looking for a database to hang out with? Search no more! MongoDB and Python are a perfect match. Learn about how to create a database and perform basic CRUD operations using your favourite language, Python."
-  subtype: talk
-  speakers: [13]
-  language: en
-  complexity: "All"
--
-  id: 026
-  title: "Deploy a Python web app to Azure App Service on Linux"
-  description: "Azure App Service is our highly scalable, self-patching web hosting service. We'll create and deploy a sample with either the Flask or Django frameworks."
-  subtype: talk
-  speakers: [34]
-  language: en
-  complexity: "All"
--
-  id: 027
-  title: "Advanced,machine learning time series forecasting methods "
-  description: "Review of the latest and most advanced time series forecasting methods like ES-Hybrid, N-Beats, Tsetlin machine, and more. Tips and tricks for forecasting difficult, noisy, and nonstationary time series, which can significantly improve the accuracy and performance of the methods."
-  subtype: talk
-  speakers: [25, 33]
-  language: en
-  complexity: "All"
--
-  id: 028
-  title: "Designing websites with privacy in mind"
-  description: ""
-  subtype: talk
-  speakers: [5]
-  language: en
-  complexity: ""
--
-  id: 029
-  title: "Cruelty-Free Critiques"
-  description: "Have you ever given feedback to a co-worker, only to have them recoil in response? Have you received input that left you feeling like a failure, but you didn't know why? In this talk, you'll learn ten important factors that will help you and your team ensure criticism is constructive and effective."
-  subtype: talk
-  speakers: [10]
-  language: en
-  complexity: "All"
--
-  id: 030
-  title: "Security considerations in Python Packaging"
-  description: "In this talk, we will address the security issues related to python packaging and possible solutions to make python packages secure."
+  id: 006
+  title: "Super Search with OpenSearch and Python"
+  description: |
+    Search is pretty useful inside applications, so we'll see how to connect to OpenSearch from existing applications, work with data in the database, and perform search queries from Python. If you are ready to gain some search superpowers in your Python code, this talk is for you.
   subtype: talk
   speakers: [6]
   language: en
-  complexity: "All"
+  complexity: "Intermediate"
 -
-  id: 031
-  title: "Using Chaos toolkit to determine resiliency for your web app"
-  description: "Chaos engineering can be made easier using the Python based Chaos toolkit. This session will talk about how to ensure your modern web application is resilient to changes. It will also explain how to install the Chaos toolkit and configure the same to use it for your existing web app."
+  id: 007
+  title: "The magic of type-dispatched data science"
+  description: |
+    Are you forced to work with CSV files? Are Pandas and Arrow's type inference ruining your code unknowingly? In this talk, we will go over Lector, the new open-source library to fix the problems you knew you had, and some of the ones you didn't, when working with CSV files.
   subtype: talk
-  speakers: [15]
-  language: en
-  complexity: "All"
--
-  id: 032
-  title: "Making Location Based Searches with Google Places API and Elasticsearch"
-  description: "When searching for things on the internet, there are 2 factors that determine the quality of a search result, Accuracy and Relevance.
-
-This talk walks through the process of building a search experience focused on using Elasticsearch and Google Places APIs to show results based on location."
-  subtype: talk
-  speakers: [11]
+  speakers: [8]
   language: en
   complexity: "Intermediate"
 -
-  id: 033
-  title: "How to organize a regional week-long open source event"
-  description: "Are you curious about what it takes to organize and coordinate a successful Python event beyond the casual meetup? In this talk I will share what I have learned organizing and coordinating efforts for a week-long event focused on using open source tools in data science."
+  id: 008
+  title: "My first 90 days, kick starting a new team for long term success"
+  description: |
+    As a new tech lead or engineering manager, you might be wondering how to start (at) a new team and which strategy to choose to set up your team for success.
+
+    Anastasiia will share her experience about how to build a more harmonious team, effective processes, faster delivery life cycles and more.
+  subtype: talk
+  speakers: [26]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 009
+  title: "Introduction to lighting on audio datasets"
+  description: |
+    In this talk, we will demystify audio classification with lightning. We will go over audio preprocessing techniques followed by writing lighting modules to organize our code. We will finally learn some best practices when using lightning.
+  subtype: talk
+  speakers: [15]
+  language: en
+  complexity: "Beginner"
+-
+  id: 010
+  title: "Performance tips by the FastAPI Expert"
+  description: |
+    Is your FastAPI really fast? Did you benchmark it, or you just have faith?
+
+    On this talk, Marcelo will give tips to improve the performance of your FastAPI application, and you'll see how impactful those changes are.
   subtype: talk
   speakers: [16]
   language: en
   complexity: "All"
 -
-  id: 034
-  title: "Debug Python Applications in Production with Lightrun"
-  description: "When we have a production issue the P1 alarm rings through the office. We cross our fingers and hope that someone logged something useful to save the day. If only we could pull out our trusty debugger to figure out the root cause before going through multiple CI/CD cycles pushing logs everywhere."
+  id: 011
+  title: "Building custom Data Applications under insane expectations"
+  description: |
+    The speaker spent almost four years building the Data Science and ML teams at Cognite as the company went from nothing to a unicorn. Through those years, he was part of building custom data-driven solutions for companies like Exxon and BP through insanely ambitious digitalization initiatives.
   subtype: talk
-  speakers: [29]
+  speakers: [34]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 012
+  title: "scanwalk - writing an extension module with cffi, cython and plain c"
+  description: |
+    scanwalk.walk() wraps a C API in Python, but I'm not a C programmer. This is how I explored 3 different ways to do it: C-API, CFFI, & Cython. Pros and cons, triumphs and tribulations.
+  subtype: talk
+  speakers: [19]
   language: en
   complexity: "All"
 -
-  id: 035
-  title: "The Magic of Self: How Python inserts self into methods."
-  description: "Python is full of abstractions that help us write clean code. By diving into one of Python's most magical abstractions, the insertion of self into methods, I want to show that we can understand those abstractions, and that we can write abstractions of our own that allow us to write better software."
+  id: 013
+  title: "The Real-Time Analytics Stack"
+  description: |
+    Real-Time Analytics is the hot trend in the streaming space, but it's hard to keep track of everything, especially when new products are being released every week. In this talk, we'll give you a map to understand the space and build a Pizza shop demo that connects all the components together.
+  subtype: talk
+  speakers: [22]
+  language: en
+  complexity: "Beginner"
+-
+  id: 014
+  title: "Python decodators: from 0 to hero"
+  description: |
+    New to Python? Never heard or afraid of design patterns? Then this presentation is for you!
+    What are decorators? What problems do they solve? How to use them, and how to create your own from zero?
+    This presentation we'll answer these and a few more questions which hopefully will make you love them.
+  subtype: talk
+  speakers: [1]
+  language: en
+  complexity: "Beginner"
+-
+  id: 015
+  title: "Functional Meets Object-Oriented (or Immutable & Loving It!)"
+  description: |
+    Functional and Object-Oriented Programming: two completely disparate paradigms, right? Maybe not! In this talk, I demonstrate how the two paradigms can be combined to produce cleaner, more stable, more maintainable code...and maybe even an immutable class or two.
+  subtype: talk
+  speakers: [5]
+  language: en
+  complexity: "All"
+-
+  id: 016
+  title: "Beating TimSort at Merging"
+  description: |
+    Tim Peters created TimSort for Python, and it's so fast in the real world most programming languages have now copied it.  This all-audiences talk shows how I beat TimSort (at least in one use case).
+  subtype: talk
+  speakers: [7]
+  language: en
+  complexity: "All"
+-
+  id: 017
+  title: "We've 'REST'ed long enough -- let's have an API adventure!"
+  description: |
+    Many developers are familiar with consuming/designing RESTful APIs, but what about building and consuming GraphQL and gRPC APIs? What about event-driven or asynchronous APIs? What are the benefits and technical limitations of each? Let's go down the rabbit hole and explore some of these API types.
+  subtype: talk
+  speakers: [32]
+  language: en
+  complexity: "All"
+-
+  id: 018
+  title: "Graph Databases for (Monty) Python Developers"
+  description: |
+    Join us as we traverse one of Monty Python’s most famous movies, as a graph! Walk away knowing the pros and cons of using Graph Databases, what major technologies are available, and how to get started with python drivers.
+  subtype: talk
+  speakers: [11]
+  language: en
+  complexity: "All"
+-
+  id: 019
+  title: "[Español] Resolviendo tu primera competencia de Kaggle"
+  description: |
+
+  subtype: talk
+  speakers: [13]
+  language: en
+  complexity: ""
+-
+  id: 020
+  title: "Introduction to Exploratory Data Analysis with Google Colab"
+  description: |
+    You've been hired as a Data Analyst by Interfaith Inc, a non-profit trying to figure out how to build out an effective digital strategy via Twitter. You decided to examine hashtags on Twitter and use Exploratory Data Analysis to find opportunities for Interfaith Inc.
+  subtype: talk
+  speakers: [29]
+  language: en
+  complexity: "Beginner"
+-
+  id: 021
+  title: "Refactor refactoring: How changing your views on refactoring can make your job more satisfying."
+  description: |
+    For many teams, refactorings rarely happen. Senior developers occasionally wrestle through some process to create better code. But what if it were easier for developers of every level to refactor as a part of developing a feature? Your project would be more maintainable, flexible, and satisfying.
+  subtype: talk
+  speakers: [30]
+  language: en
+  complexity: "All"
+-
+  id: 022
+  title: "Pythinder: using kivy so you’re not ghosted 👻"
+  description: |
+    Tired of being ghosted in the most popular dating chats? Then come with me and I'll teach you how to create your own platform and reverse this situation, with Python and Kivy.
+  subtype: talk
+  speakers: [31]
+  language: en
+  complexity: "All"
+-
+  id: 023
+  title: "Basic image processing with Artificial Vision"
+  description: |
+    We will see the Artificial Vision area, the usefulness it provides in different areas, such as industry, verification, security, medicine, among others, and the opportunities for its application; also the ease of use of the OpenCV library and the steps for the basic handling of images.
+  subtype: talk
+  speakers: [14]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 024
+  title: "Async Python, Good it is"
+  description: |
+    Have you loved async & await in JavaScript? Want it in Python? Let's look at how easy it is to do multiple tasks at once, and how we collect all the results. We'll also look at best practices and edge cases like how do you kick off an async process from main?
+  subtype: talk
+  speakers: [18]
+  language: en
+  complexity: "All"
+-
+  id: 025
+  title: "Building Twitter Campaigns with Azure Queues"
+  description: |
+    I put together a twitter campaign to send a tweet everyday for a month. Instead of manually creating custom images and paying for a service I would need for exactly one month. I opted for a cheaper solution around Azure and Tweepy to automate the image creation and tweeting process.
+  subtype: talk
+  speakers: [20]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 026
+  title: "The Observant Developer - OpenTelemetry from code to prod"
+  description: |
+    Observability can be about more than pretty dashboards, it can be a powerful tool for designing better code. In this talk, we'll look at practical ways of leveraging OpenTelemetry and open-source  tools to validate Python code changes, glean production insights and improve coding practices
+  subtype: talk
+  speakers: [21]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 027
+  title: "Let's Discover Drugs using Deep Learning"
+  description: |
+    The Drug Discovery market is poised to be estimated at $75 Billion dollars by 2025 and the recent pandemic has taught us how crucial it is to develop drugs faster. Let’s dive deep into how the Mighty Transformer is shaping up the world of cheminformatics solving this critical problem.
+  subtype: talk
+  speakers: [23]
+  language: en
+  complexity: "Beginner"
+-
+  id: 028
+  title: "Debugging Schrödinger's App"
+  description: |
+    If a deployed app error occurs, but is not observed does it happen? We've all been here before, apps that have been deployed but not optimised not only affect performance but can also cost you resources and money. Come with me on a journey, looking at some ways to debug and optimize python apps.
+  subtype: talk
+  speakers: [25]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 029
+  title: "Streamlit to Build & Deploy Apps like a Data Scientist"
+  description: |
+    Do you ever find it complicated to learn the complexities of a traditional web framework to push your data science work online? Worry no more! We'll learn about Streamlit, which is designed for the required purpose - creating beautiful data-related web apps that can be deployed in minutes.
+  subtype: talk
+  speakers: [12]
+  language: en
+  complexity: "Beginner"
+-
+  id: 030
+  title: "End to End Topic Modeling"
+  description: |
+    # Abstract
+    Tons of data are collected every day. As more information becomes available it’s difficult to obtain the relevant and desired information. So we need tools and techniques to organize search and understand massive amounts of information. This is where the “Topic modelling” change the game.
+  subtype: talk
+  speakers: [17]
+  language: en
+  complexity: "All"
+-
+  id: 031
+  title: "How I Gave 90 Instances of Feedback to My Team Last Month and Why They Loved It"
+  description: |
+    People ALWAYS complain about not getting enough feedback from their managers.
+    As a manager, I didn’t really know how to give feedback until I found this feedback model.
+    I will share the feedback model, how I adopted it and gave lots of meaningful feedback to my team, and how they reacted to it.
+  subtype: talk
+  speakers: [33]
+  language: en
+  complexity: "All"
+-
+  id: 032
+  title: "Ship More, Script Less With Paketo Buildpacks"
+  description: |
+    Transform the build-and-deploy experience of your Python applications by using Paketo Buildpacks, an open source implementation of the cloud-native Buildpacks spec. Create OCI-compatible containers with a single command, with no Dockerfile/YAML wrangling.
   subtype: talk
   speakers: [28]
   language: en
   complexity: "Intermediate"
 -
-  id: 036
-  title: "Securing Django Applications"
-  description: "In this talk, we will focus on two aspects. First, performing penetration testing on Django web applications to identify vulnerabilities and scanning for OWASP Top 10 risks. Second, strategies and configuration settings for making the source code and Django applications secure."
+  id: 033
+  title: "Doing Maths with Python!"
+  description: |
+    Math is everywhere and around us. We use it in our daily life, it is used everywhere for e,g. in space or construction. Isn't it a good idea to learn more about Math, by solving math problems in Python? This talk aims to show, How python is the ideal language to make coding more fun and interesting.
   subtype: talk
-  speakers: [6]
+  speakers: [27]
   language: en
   complexity: "All"
 -
-  id: 037
-  title: "Using GitHub Actions for your Python projects"
-  description: "GitHub Actions is a free-to-use Continuous Integration and Delivery (CI/CD) service. With GitHub Actions, you can automate tests, linting and builds so that you can release with confidence. In this talk, we will talk about using GitHub Actions which you can configure for your future Python projects."
+  id: 034
+  title: "Generic Composite in Python"
+  description: |
+    Generic implementation of the Composite Design Pattern in Python described. Initial problem statement, rationale of chosen path and implementation details presented.
   subtype: talk
-  speakers: [8]
-  language: en
-  complexity: "Beginner"
--
-  id: 038
-  title: "🐑 Counting Sheep"
-  description: ""
-  subtype: talk
-  speakers: [22]
-  language: en
-  complexity: ""
--
-  id: 039
-  title: "Decision Tree Visualization"
-  description: "# Abstract
-The best way to visualize decision trees is with dtreeviz. It is an awesome python library for decision tree visualization and model interpretation."
-  subtype: talk
-  speakers: [14]
-  language: en
-  complexity: "All"
--
-  id: 040
-  title: "Type hints in python"
-  description: "Type hints in python - how and why to use them?
-
-  The talk walks through the basics of type hinting, why it is required and how it can be done in python using mypy.
-  "
-  subtype: talk
-  speakers: [1]
+  speakers: [24]
   language: en
   complexity: "Intermediate"
-
-
-# -
-#   id: 005
-#   title: "Test: Interacting with Google Services using nothing but HTML"
-#   description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-#   subtype: keynote
-#   speakers: [7]
-#   language: en
-#   complexity: "Expert"
-#   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"

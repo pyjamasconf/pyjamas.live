@@ -1,307 +1,388 @@
 -
   id: 1
-  name: "Anirudh"
-  surname: "Menon"
-  bio: "Anirudh is an AI Scientist, working on data and python mostly. He has worked on big data engineering and sciences for many years now.
-  He is an active member of the Python Community in India and has hosted and presented at many of their meetup and conferences.
-  He has contributed to many popular open source Apache projects too."
-  thumbnailUrl: Anirudh.jpeg
+  name: "Vinicius Gubiani"
+  surname: "Ferreira"
+  bio: |
+    Love to code, to read other people's code, and to help others achieve what they want with code. Be it directly or by guiding them to find out for themselves.
+  thumbnailUrl: speaker.png
 
 -
   id: 2
-  name: "Attila"
-  surname: "Tóth"
-  bio: "Attila Toth is a software developer passionate about making data useful. He currently works for Timescale which is the company behind TimescaleDB the leading open-source time-series database. Attila likes to craft data pipelines and visualizations to gain insights from large amounts of data. He also enjoys teaching fellow developers through tutorials, live coding streams, and technical talks. You can reach him at attilatoth.dev."
-  thumbnailUrl: TothAttila.jpg
+  name: "Yasser"
+  surname: "Tahiri"
+  bio: |
+    I am an experienced Backend Engineer and [Opensource](https://github.com/yezz123) Developer, I am mostly **self-taught** and **very passionate about new technologies**. My most vital skills lie within [Python](https://python.org) | [JavaScript](https://www.javascript.com/), both backends, I help founders add value to society by crafting software using Python tools.
+    
+    Besides technology, I am more passionate about new ideas and ways of thinking.
+    
+    Relate to My Passion, I like watching and reading all the things that relate to Ancient Greece, For example, the Dark Ages of the 12th–9th centuries also the Ancient Greek philosophy, Socrates, Aristotle my greatest philosopher of all time.
+  thumbnailUrl: YasserTahiri.png
 
 -
   id: 3
-  name: "Bojan"
-  surname: "Miletic"
-  bio: "💡After being a Lead Python Developer for a company in Silicon Valley, I decided to leave that job and make my own company in Novi Sad, Serbia.
-
-Sounds like a weird decision to make, like some sort of a “downgrade”. Trust me, it couldn’t be further from the truth.
-
-📊 One thing you learn in the West is to take calculated risks when you see an opportunity.
-
-Novi Sad in Serbia is slowly, but surely becoming a new Silicon Valley with 10 billions of IT investment pouring in.
-
-My goal was to transfer western business knowledge, experience and entrepreneurial spirit to a new environment.
-
-💻 I believe in good technology and all the benefits it brings to modern people.
-👂  Communication is my primary skill. Always there to listen. Can’t help and solve if you don’t listen.
-📚 I believe life-long education. Reading fan.
-(And talking about Unicorns. 🦄)
-
-People are our focus. Be it employees or users."
-  thumbnailUrl: BojanMiletic.png
+  name: "Mirko"
+  surname: "Galimberti"
+  bio: |
+    Before being a Software Developer, I have been (not so secretly) tech-addicted, especially when it came to computers.
+    
+    I had my first tech bag at age of 11 (nothing so fancy and expensive) but was a nice set of hardware and software tools to fix the most common computers issues.
+    
+    Later, during my early high-school years, even if only C++ and Java were an option during classes, I started learning PHP + JS + HTML5 + CSS3 for a project that I started with a schoolfellow, that’s where I first approached web development.
+    
+    As my homepage says, now I’m a Full Stack Developer based in Italy. When I’m not in front of my laptop screen, you can find me traveling and piloting a drone for aerial photography. I love to listen to EDM music while stuck in traffic or during open-air festivals.
+    
+    In 2021 I joined the Core Developers team, and I try to do my best to keep Kivy up-to-date and grow the community.
+  thumbnailUrl: speaker.png
 
 -
   id: 4
-  name: "Daniel C."
-  surname: "Moura"
-  bio: "I am a computer scientist and engineer who loves data and algorithms. I started programming in 1994 and haven't been able to stop since.
-I have a PhD in Computer Engineering (2011) and a Master in Artificial Intelligence. A considerable part of my career was at the University where I lectured computer science subjects and researched about pattern matching and other AI-related topics (my publications: https://scholar.google.se/citations?user=c4O2_N4AAAAJ&hl=en). In 2015 I joined Veniam, an exciting startup where I am currently the Principal Data Scientist.
-
-I love to learn and to share what I learn and that is why am here :-)
-"
-  thumbnailUrl: DanielMoura.jpeg
+  name: "Peter"
+  surname: "Vidos"
+  bio: |
+    Peter is the CEO & Co-Founder of [Vizzu](https://vizzuhq.com).
+    
+    His primary focus is finding and utilizing use cases matching Vizzu's innovative data visualization approach. Peter has been involved with digital product development for over 15 years. He worked on products covering mobile app testing, online analytics, data visualization, e-learning & educational administration. Still, building a selfie teleport for fun is what he likes to brag about when asked to share previous experiences.
+    
+    My favorite member of One Direction depends heavily on who my niece's favorite member of One Direction is. Sadly, I keep on forgetting the recent correct answer.
+  thumbnailUrl: speaker.png
 
 -
   id: 5
-  name: "Donata"
-  surname: "Stroink-Skillrud"
-  bio: "I'm a data privacy attorney, a Certified Information Privacy Professional and the President of a software company that generates Privacy Policies. I taught GDPR to other attorneys at the Illinois State Bar Association and my privacy law compliance guides have been downloaded and used by companies such as Deloitte, GE Appliances, Jockey, and Slack. I am the Chair of the American Bar Association's ePrivacy Committee and the Vice Chair of the Chicago Bar Association's Cybersecurity and Privacy Committee."
-  thumbnailUrl: DonataStroinkSkillrud.jpeg
+  name: "Jason C."
+  surname: "McDonald"
+  bio: |
+    Author, Speaker, Hacker, Time Lord.
+    Principal Consultant (Principal Python Engineer) at Rural Sourcing.
+    Lead Developer at MousePaw Media.
+    Author of "Dead Simple Python" (No Starch Press, 2022).
+  thumbnailUrl: JasonCMcDonald.png
 
 -
   id: 6
-  name: "Gajendra"
-  surname: "Deshpande"
-  bio: "I hold M.Tech. in Computer Science and Engineering and PG Diploma in  Cyber Law and Cyber Forensics from National Law School of India University, Bengaluru India. I have presented talks/posters/papers at prestigious conferences including JuliaCon, London, PyCon France, PyCon Hong Kong, PyCon Taiwan, COSCUP Taiwan, PyCon Africa, BuzzConf Argentina, EuroPython, PiterPy Russia, SciPy USA, SciPy India, NIT Goa, and IIT Gandhi Nagar. Worked as a Reviewer and Program Committee member for reputed International conferences including SciPy USA, SciPy Japan, JuliaCon, JupyterCon, PyData Global, and PyCon India, and publishers include Manning USA and Oxford Univesity Press. I am also a GitHub Certified Campus Advisor. I lead the PyData Belagavi chapter and the OWASP Belagavi chapter."
-  thumbnailUrl: GajendraDeshpande.png
+  name: "Laysa"
+  surname: "Uchoa"
+  bio: |
+    Laysa is a Developer Advocate at Aiven, a company that offers a fully managed, OSS cloud data platform. She is the Head of Fullstack Events Association in Munich and the Leader of PyLadies Munich. She is also an OSS contributor and organizer of OCPP (Open Charge Point Protocol) communities.
+  thumbnailUrl: LaysaUchoa.jpg
 
 -
   id: 7
-  name: "Guilherme"
-  surname: "Latrova"
-  bio: "Software Engineer and avid reader. I love good software in real life, the kind of software that looks like poems.
-Proud creator and also Badass Tamer of https://github.com/guilatrova/tryceratops"
-  thumbnailUrl: GuilhermeLatrova.png
+  name: "Adam Gordon"
+  surname: "Bell"
+  bio: |
+    Adam Gordon Bell hosts a popular podcast on software development (CoRecursive)[http://corecursive.com/]. He formerly worked on cloud security and container security for Tenable. He is now working on the open-source build tool earthly https://earthly.dev/ and can be found on twitter  (@adamgordonbell)[https://twitter.com/adamgordonbell].
+  thumbnailUrl: speaker.png
 
 -
   id: 8
-  name: "Harsh Bardhan"
-  surname: "Mishra"
-  bio: "Harsh is a Software Developer at Quansight Labs and a Google Summer of Code 2021 Student Developer at MetaCall. In the past, he has worked at Red Hat, Qxf2 and Major League Hacking. His experiences revolve around Web engineering, DevOps and Algorithms along with a keen interest in Machine Learning technologies. He also helps maintain and spearhead technical documentation at moja global, which revolves around building open source MRV software to help organizations fight climate change in the land-use sector. In his free time, he likes to work on his Historical Fiction Trilogy and Cooking."
-  thumbnailUrl: Harsh.jpeg
+  name: "Elena Martinez"
+  surname: "Serrano"
+  bio: |
+    Head of Data Literacy, helping companies harness the power of data. Proven track record of assisting enterprise projects to champion data-driven decisions. Ability to perform quantitative analysis of complex problems working with a team approach to deliver the best solutions. Involved with social innovation and Big Data & AI societies.
+  thumbnailUrl: speaker.png
 
 -
   id: 9
-  name: "Harshdeep"
-  surname: "Singh"
-  bio: "I am Harshdeep Singh, currently enrolled in the regular Ph.D. program at the Centre of Computational and Data Sciences (CCDS) in the Indian Institute of Technology, Kharagpur, WB, India; under the supervision of Prof. Sabyashachi Mishra and Prof. Sonjoy Majumder. My area of research is broadly Quantum Computation and Variational Quantum Algorithms (VQAs). I am also highly interested in Quantum Mechanics and Quantum Chemistry. I am from a physics background, having done my BSc (hons) and MSc in Physics from Jadavpur University, Kolkata, India.
-I am just starting out in my research journey, and it is as exciting as it gets. I have started a blog very recently to share everything I learn and cultivate the exchange of ideas. "
+  name: ""
+  surname: "Reka"
+  bio: |
+    * Senior software engineer at Sourcery
+    * Have recently re-worked the Sourcery CLI using Rich
+    * Have created several internal CLI tools using Typer and Click
+    
+    Previous conference talks:
+    
+    * [Actionable insights vs ranking How to use and how NOT to use code quality metrics](https://www.youtube.com/watch?v=N_hgD1eA7ks&list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl&index=67)
+    * [Living With Technical Debt: Acknowledge It, Specify It, Reduce It](https://www.youtube.com/watch?v=Ugyz8aEyBMo&list=PLrkpavSsBQZ4ImE1qyyUkHOcRfHD8J5KZ&index=5)
   thumbnailUrl: speaker.png
 
 -
   id: 10
-  name: "Jason C."
-  surname: "McDonald"
-  bio: "Author, Speaker, Hacker, Time Lord.
-
-Keeps clouds fluffy at Canonical, particularly the blue ones. Serves as CEO and Lead Developer at MousePaw Media. Author of “Dead Simple Python” (No Starch Press, 2022).
-
-He’s at the beck and call of a platoon of squirrels and one chipmunk."
-  thumbnailUrl: JasonCMcDonald.png
+  name: "Kai Katschthaler"
+  surname: "(they/them)"
+  bio: |
+    Kai Katschthaler is a mental health advocate and activist. In 2016, they started “Taboola Rasa — A Clean Slate for Mental Health.” Taboola Rasa is a mental health awareness project that seeks to erase the stigma associated with many mental health struggles and diagnoses by asking people to share their mental health experiences. Kai believes that talking about mental health openly creates awareness, combats misinformation, and makes others feel less alone. Often enough, it also makes others feel safe enough to talk about their mental health and access the help they may need.
+    
+    The topic of mental health also bleeds into Kai’s work as a DevRel consultant and tech content specialist, where they always push for more diversity, equity, and inclusion. Topics they’re excited to talk about aside from mental health are: wild swimming, dogs, TV shows, sci-fi and fantasy, learning to code, and food.
+  thumbnailUrl: speaker.png
 
 -
   id: 11
-  name: "Jay"
-  surname: "Miller"
-  bio: "Jay is a Developer Advocate at Elastic, based in San Diego, Ca. A multipotentialite, Jay enjoys finding unique ways to merge his fascination with productivity, automation, and development to create tools and content to serve the tech community."
-  thumbnailUrl: JayMiller.jpg
+  name: ""
+  surname: "Jalakoo"
+  bio: |
+    Video Editor turned Pythonista, Jason Koo is Neo4j’s resident Python Developer Advocate. He has gone from working behind-the-scenes in Hollywood to developing mobile apps for Silicon Valley companies. He now leverages his love of both worlds to advocate new developer technologies.
+  thumbnailUrl: Jalakoo.jpeg
 
 -
   id: 12
-  name: "JJ"
-  surname: "Asghar"
-  bio: "JJ works as a Developer Advocate representing the IBM Cloud all over the world. He mainly focuses on the IBM Kubernetes Service and OpenShift trying to make companies and users have a successful onboarding to the Cloud Native ecosystem. He’s also been known in the DevOps tooling ecosystem and generalized Linux communities. If he isn’t building automation to make his work streamlined he’s building the groundwork to do just that.
-
-He lives and grew up in Austin, Texas. A father and husband, trying to learn to balance his natural nerdiness with family life. He enjoys a good strong dark ale, hoppy IPA, some team building Artemis, and epic Gloomhaven campaigning.
-
-He has recently dove headfirst into Fedora since IBM buying Redhat, but still secretly wants FreeBSD everywhere. He’s always trying to become a better web technology developer, though normally just uses bash to get the job done."
-  thumbnailUrl: JJAsghar.jpg
+  name: "Siddharth"
+  surname: "Gupta"
+  bio: |
+    Interested in Programming, Linguistics, and Academia! I write Twitter threads across the three topics. I also have a mailing list. When I am not consumed with assignments, I post YouTube videos, make Discord bots, play around GitHub or try threading some words on Medium Blog.
+  thumbnailUrl: SiddharthGupta.jpeg
 
 -
   id: 13
-  name: "Joel"
-  surname: "Lord"
-  bio: "Joel Lord is passionate about web and technology in general.  He likes to learn new things but most of all, he likes to share his discoveries.  He does so by travelling at various conferences all across the globe.
-He graduated from college in computer programming in the last millennium.  Apart from a little break to get his BSc in computational astrophysics, he was always in the industry.
-As a developer advocate at MongoDB, he meets with developers to help them make the web a better place.
-During his free time, he is usually found stargazing in a camping site somewhere or brewing a fresh batch of beer in his garage.
-"
-  thumbnailUrl: JoelLord.png
+  name: "Francisco"
+  surname: "Alfaro"
+  bio: |
+    ## **Contact Information**
+    
+    <a href="https://www.linkedin.com/in/faam/"><img alt="Link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="float:left; padding-right:10px" ></a>
+    <a href="https://github.com/fralfaro"><img alt="Link" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="float:left; padding-right:10px" ></a>
+    <a href="https://gitlab.com/FAAM"><img alt="Link" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" style="float:left; padding-right:10px" ></a>
+    <a href="https://fralfaro.github.io/ds_blog/"><img alt="Link" src="https://img.shields.io/static/v1?label=BLOG&message=ds&color=57aeac&labelColor=black&style=for-the-badge&logo=data:image/png;base64,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" style="float:left; padding-right:10px" ></a>
+    <a href="https://www.kaggle.com/faamds"><img alt="Link" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" style="float:left; padding-right:10px" ></a>
+    &nbsp;
+    
+    
+    - Name: Francisco Antonio Alfaro Medina
+    - Phone: +56 9 94541139
+    - Email: francisco.alfaro.496@gmail.com
+    - Curriculum Vitae: [link](https://gitlab.com/fralfaro/cv/-/jobs/artifacts/main/browse?job=generate_pdf)
+    - Personal Portfolio: [link](https://fralfaro.github.io/portfolio/)
+    
+    
+    ## **Personal Information**
+    🎮 Gaming | 🏀 Basketball | 💡 Learning | 📚 Teaching
+    
+    Statistician and Teacher at Universidad Técnica Federico Santa María.
+    I currently work as a Senior Data Scientist at Walmart (Chile). I enjoy programming, learning about different topics and teaching about maths and computer.
+    
+    
+    
+    🔍 **Interests**:
+    
+    * Software Development
+    * Statistical Modelling
+    * Machine/Deep Learning
+    * Cloud computing
+    * Big Data
+    * Time Series
+    
+    
+  thumbnailUrl: speaker.png
 
 -
   id: 14
-  name: "Kalyan"
-  surname: "Prasad"
-  bio: "A self-taught data scientist/analytics manager, speaker & community first-person, Kalyan has contributed to various tech communities. He enjoys being involved with these communities and helping them grow.  Currently I am associated with the following groups below:
-PyCon India – Review Panel Work Group Lead
-PyConf Hyderabad – Organizing Committee Member
-Humans for AI – Program Manager for AI learning Community
-Hyderabad Python Users Group – Core Member/ Meetups Organizer
-Some of the previous & upcoming conference talks links -
-https://hopin.com/events/pyconindia2020#schedule
-https://cfp.jupytercon.com/2020/schedule/general-sessions/
-https://www.pycon.se/
-https://belpy.in/schedule.html
-https://www.linkedin.com/feed/update/urn:li:activity:6838155804479242240/ (Invited talk)
-https://pycon.hk/2021/2021-schedule/
-https://2021.pycon.jp/time-table
-https://pydata.org/global2021/schedule/
-https://th.pycon.org/"
-  thumbnailUrl: KalyanPrasad.jpg
+  name: "Alison"
+  surname: "Orellana"
+  bio: |
+    Computer Engineer - Universidad Mayor de San Simón, Cochabamba - Bolivia.
+    Master in Design and Multimedia Production
+    With specialization in Data Science.
+    Lead of PyLadies Cochabamba community - Bolivia.
+    Programming and computing instructor at Cisco Networking Academy.
+  thumbnailUrl: speaker.png
 
 -
   id: 15
-  name: "Karan"
-  surname: "Balkar"
-  bio: "Karan Balkar is a mobile application developer primarily working on Android since the past 5 years. He has also worked on Augmented reality / Virtual reality based mobile applications and is passionate about exploring new innovative technologies.
-"
-  thumbnailUrl: KaranBalkar.png
+  name: "Krishna"
+  surname: "Kalyan"
+  bio: |
+    
+  thumbnailUrl: KrishnaKalyan.jpeg
 
 -
   id: 16
-  name: "Laura Gutierrez"
-  surname: "Funderburk"
-  bio: "Laura works as a data scientist at Cybera. She has a B.Sc. in Mathematics from Simon Fraser University, and was awarded a Terry Fox Gold medal for overcoming severe childhood trauma and helping the communities she forms part of. In her spare time she is enthusiastic about cycling by the seaside and trail running."
-  thumbnailUrl: LauraGutierrezFunderburk.jpeg
+  name: "Marcelo"
+  surname: "Trylesinski"
+  bio: |
+    Marcelo is the top FastAPI Expert. He's also a maintainer of Starlette, the FastAPI dependency that provides the web capabilities, and Uvicorn, a web server that runs applications like FastAPI.
+  thumbnailUrl: speaker.png
 
 -
   id: 17
-  name: "Laysa"
-  surname: "Uchôa"
-  bio: "Python dev and Pyladies Munich organizer. I believe that technology can make the world more democratic and just better - let's contribute to this."
-  thumbnailUrl: LaysaUchoa.jpg
+  name: "Kalyan"
+  surname: "Prasad"
+  bio: |
+    A self-taught data scientist/analytics manager, speaker, mentor & community first-person, Kalyan has contributed to various tech communities. He enjoys being involved with these communities and helping them grow.  Currently he is associated with the following organizations below:
+    PyCon India – Review Panel Work Group Lead
+    PyConf Hyderabad – Organizing Committee Member
+    PyData Global Impact Mentoring Program - Mentor
+    Hyderabad Python Users Group – Core Member/ Meetups Organizer
+    Humans for AI – Program Manager for AI learning Community
+    Here are some of my previous & upcoming conference talks links –
+    https://geekle.us/schedule/datascience
+    https://pydata.org/global2021/schedule/
+    https://hopin.com/events/pyconindia2020#schedule
+    https://cfp.jupytercon.com/2020/schedule/general-sessions/
+    https://www.pycon.se/
+    https://belpy.in/schedule.html
+    https://www.linkedin.com/feed/update/urn:li:activity:6838155804479242240/ (Invited talk)
+    https://pycon.hk/2021/2021-schedule/
+    https://2021.pycon.jp/time-table
+    https://th.pycon.org/
+  thumbnailUrl: KalyanPrasad.jpeg
 
 -
   id: 18
-  name: "Mahmud"
-  surname: "Isnan"
-  bio: "I am a master student of AI and IOT in SIIT, Thammasat University, Thailand. I work in remote sensing and machine learning. I am also a software engineer at klikpeneliti.id. I am also a mentor in Kafekoding, which is a community that create free classes to people who want to study about programming such as PHP,Java,Python etc.."
-  thumbnailUrl: MahmudIsnan.jpg
+  name: "Rob"
+  surname: "Richardson"
+  bio: |
+    Rob Richardson is a software craftsman building web properties in ASP.NET and Node, React and Vue. He’s a Microsoft MVP, published author, frequent speaker at conferences, user groups, and community events, and a diligent teacher and student of high quality software development. You can find this and other talks on his blog at [https://robrich.org/presentations](https://robrich.org/presentations) and follow him on twitter at [@rob_rich](https://twitter.com/rob_rich).
+  thumbnailUrl: RobRichardson.png
 
 -
   id: 19
-  name: "Matteo"
-  surname: "Bertucci"
-  bio: "PEIP1 student at Polytech Marseille. Core Developer, DevOps and Moderator at Python Discord"
-  thumbnailUrl: MatteoBertucci.jpg
+  name: "Alex"
+  surname: "Willmer"
+  bio: |
+    
+  thumbnailUrl: AlexWillmer.jpeg
 
 -
   id: 20
-  name: "Meredydd"
-  surname: "Luff"
-  bio: "Meredydd is the founder of Anvil (https://anvil.works), a platform for building full-stack web apps quickly and easily, with nothing but Python.
-
-He's big on sharing the joy of programming, and believes that building useful applications should be much easier than it is.
-
-Meredydd has been maintaining open-source projects since he was 16: He is currently a maintainer of the Skulpt (http://skulpt.org) Python-to-Javascript compiler, and contributed the `execveat()` syscall to the Linux kernel. He was also the main software architect for the [MQA](http://mqa.co.uk) music codec.
-
-He holds a PhD in making usable programming systems from Cambridge.
-
-"
-  thumbnailUrl: MeredyddLuff.jpeg
+  name: "Jay"
+  surname: "Miller"
+  bio: |
+    Jay is a Senior Cloud Advocate at Microsoft, based in San Diego, Ca. A multipotentialite, Jay enjoys finding unique ways to merge his fascination with productivity, automation, and development to create tools and content to serve the tech community.
+  thumbnailUrl: JayMiller.jpeg
 
 -
   id: 21
-  name: "Merve"
-  surname: "Noyan"
-  bio: "I am a Developer Advocate working at Hugging Face, before this, I was working as a machine learning engineer for 2+ years. I'm also having my master's in data science. I'm recognized as a Google Developer Expert by Google and Community Builder by AWS. I've been giving workshops in various communities and conferences, including Google I/O 2021 and Rasa L3:AI. "
-  thumbnailUrl: MerveNoyan.jpg
+  name: "Roni"
+  surname: "Dover"
+  bio: |
+    Over the past two decades, Roni Dover was focused on incepting, building, and scaling great products including Torque, an IAC Control Plane, and CloudShell, a platform for 'as-a-service' provisioning of environments. Currently founded and building something new at digma.ai
+  thumbnailUrl: RoniDover.jpeg
 
 -
   id: 22
-  name: "Miroslav"
-  surname: "Šedivý"
-  bio: "Using Python to make the sun shine, the wind blow, and the gas flow. Greedy polyglot, sustainable urbanist, unicode collector, PSF Fellow."
-  thumbnailUrl: miroslav-sedivy.jpg
+  name: "Mark"
+  surname: "Needham"
+  bio: |
+    Mark Needham is an Apache Pinot advocate and developer relations engineer at StarTree.
+    
+    As a developer relations engineer, Mark helps users learn how to use Apache Pinot to build their real-time user-facing analytics applications. He also does developer experience, simplifying the getting started experience by making product tweaks and improvements to the documentation.  Mark writes about his experiences working with Pinot at markhneedham.com. He tweets at @markhneedham.
+  thumbnailUrl: MarkNeedham.jpeg
 
 -
   id: 23
-  name: "Nithish"
-  surname: "Raghunandanan"
-  bio: "Nithish Raghunandanan is an engineer who loves to build products that solve real-world problems in short spans of time. He has experienced different areas of the industry having worked in diverse companies in Germany and India. Apart from work, he likes to travel and interact and engage with the tech community through Meetups & Hackathons. In his free time, he likes to try stuff out by hacking things together."
-  thumbnailUrl: NithishRaghunandanan.png
+  name: "Rahul"
+  surname: "Baboota"
+  bio: |
+    Rahul Baboota is an Applied Scientist at Microsoft wherein he works on building Large Deep Learning problems to different Web and Search Engine based problems. Prior to that, he has also worked at NVIDIA in their Cheminformatics group where he worked on building solutions for tackling problems such as Drug Discovery. He was also a Research Graduate Assistant at The University of Southern California working under the leading computational neuroscientist Dr. Paul Thompson for solving problems related to aging using Computer Vision.
+  thumbnailUrl: speaker.png
 
 -
   id: 24
-  name: "Paolo"
-  surname: "Melchiorre"
-  bio: "I’m Paolo Melchiorre (@pauloxnet), a longtime Python 🐍 backend developer who contributes to the Django 🦄 project and gives talks at tech conferences 🗣️. I've been a GNU/Linux 🐧 user for over 20 years and I use and promote Free Software 🐃. I graduated in Software Engineering 🎓 and I'm an alumnus of the University of Bologna 🏛️, Italy 🇮🇹️. I've been working in the web 🌍 for 15 years and now I'm the CTO 👨‍💻 of 20tab, a pythonic software company, for which I work remotely 🏡. More info on my website 🔗 https://www.paulox.net 👈️"
-  thumbnailUrl: PaoloMelchiorre.jpg
+  name: "Asher"
+  surname: "Sterkin"
+  bio: |
+    * Experienced software technologist/architect
+    * Former VP Technology @ NDS and Distinguished Engineer @ Cisco
+    * Currently SVP Engineering at BST LABS
+    * Initiator and chief technology lead of the [Cloud AI Operaing System](https://medium.com/@CAIOStech) project
+    * Connecting dots across multiple engineering disciplines:
+       - Serverless Architecture
+       - (Strategic) Domain-Driven Design
+       - Lean Startup
+       - Promise Theory and Semantic SpaceTimes
+    
+    
+    
+  thumbnailUrl: speaker.png
 
 -
   id: 25
-  name: "Paweł"
-  surname: "Skrzypek"
-  bio: "Experienced architect of IT solutions, in particular in the field of processing large data sets and machine learning solutions. In the years 2006 - 2015 he co-created the architecture of IT systems solutions for the biggest companies in Poland. In the years 2016-2019 he carried out projects in the area of Cloud Computing and AI and deployed one of the most advanced AI solutions for the investments industry. Technical director of MELODIC multicloud optimization and management platform."
-  thumbnailUrl: PawełSkrzypek.jpg
+  name: ""
+  surname: "DeveloperSteve"
+  bio: |
+    Senior Dev Advocate @lumigo. Dev/Maker/Geek/Speaker/streamer/ruralite 🐴🐶🏞️ Prev @snyksec @IBMDeveloper @telstradev @XeroAPI @PayPalDev
+  thumbnailUrl: DeveloperSteve.jpg
 
 -
   id: 26
-  name: "Ramón"
-  surname: "Huidobro"
-  bio: "Ramón is Head of Open Source at CodeSee, based in Vienna, Austria and DevRel Consultant. He's spent the last ten years being directly involved with small businesses and startups getting their apps off the ground or back in shape!
-
-His main motivation is community. He's not only actively worked with children, refugees as well as software builders both new and experienced, but also dedicated a significant amount of his time to organising conferences, workshops and other events aimed at helping empower folks in their tech journey. "
-  thumbnailUrl: RamonHuidobro.jpg
+  name: "Anastasiia"
+  surname: "Tymoshchuk"
+  bio: |
+    Anastasiia works in the development for more than of 10 years (around 7 years in Python), including experience in e-commerce as well as game development. Every day she deals with lots of challenges when she has to consider software or library to start with, starting from the question how to build architecture and finishing with a deployment. She has also a great experience in the design and development of the project from scratch to production. Currently working as a Head of Engineering, helping to build an engineering culture in her team and serve her team's needs as a Servant Leader. Based in Berlin, Germany.
+    
+    Anastasiia is also one of the organisers of PyBerlin meetup based in Berlin.
+  thumbnailUrl: AnastasiiaTymoshchuk.jpeg
 
 -
   id: 27
-  name: "Rodrigo Girão"
-  surname: "Serrão"
-  bio: "Rodrigo (https://linkedin.com/in/rodrigo-girão-serrão) has always been fascinated by problem solving and that is why he picked up programming – so that he could solve more problems.
-He also loves sharing knowledge, and that is why he spends so much time writing articles @ mathspp.com (https://mathspp.com) and giving workshops and courses.
-
-His main areas of scientific interest are mathematics (numerical analysis in particular) and programming in general (with a preference for the Python and APL languages), but Rodrigo also enjoys reading fantasy books, watching silly comedy movies and eating chocolate."
-  thumbnailUrl: RodrigoGiraoSerrao.jpg
+  name: "Gaurav"
+  surname: "Pandey"
+  bio: |
+    I am a 15 y/o High-School Student at Tagore Senior Secondary School. I previously gave a talk at PyCon Italia and other Conferences. I am very passionate about research in Machine Learning. Apart from that, I run a community of 10,000 people name PyDelhi or Python Delhi User Group. In my free time, I love to play badminton, read books, and contribute to open-source.
+  thumbnailUrl: GauravPandey.png
 
 -
   id: 28
-  name: "Sebastiaan"
-  surname: "Zeeff"
-  bio: "Sebastiaan is a Software Engineer for the Ordina Pythoneers and a Fellow of the Python Software Foundation. As a Python enthusiast, he loves discussing the inner workings of the language and coaching others to become better developers. In 2021, Sebastiaan gave talks at various conferences, including PyCon, EuroPython, and FOSDEM. He is also active in the Python community, as an owner of Python Discord, an open-source contributor, and as a Python educator."
-  thumbnailUrl: SebastiaanZeeff.jpg
+  name: "Ram"
+  surname: "Iyengar"
+  bio: |
+    Ram Iyengar is an engineer by practice and an educator at heart. He was (cf) pushed into technology evangelism along his journey as a developer and hasn’t looked back since! He enjoys helping engineering teams around the world discover new and creative ways to work. He is a proponent of product development and engineering teams that put the community first.
+  thumbnailUrl: RamIyengar.png
 
 -
   id: 29
-  name: "Shai"
-  surname: "Almog"
-  bio: "Developer advocate for Lightrun (https://www.lightrun.com), co-founder of Codename One (https://www.codenameone.com/), open source hacker, speaker, author, blogger, Java rockstar and more. ex-Sun/Oracle guy with 30 years of professional development experience. Shai built virtual machines, development tools, mobile phone environments, banking systems, startup/enterprise backends, user interfaces, development frameworks and much more.
-Shai speaks at conferences all over the world and shared the stage with luminaries such as James Gossling (father of Java).  Shai is an award winning highly rated speaker with a knack for engaging the audience and deep technical chops."
-  thumbnailUrl: ShaiAlmog.png
+  name: "Khuram"
+  surname: "Zaman"
+  bio: |
+    Khuram Zaman – Official Bio
+    
+    Khuram Zaman is the CEO of Fifth Tribe, a leading product and software development firm serving the Washington DC Metropolitan Area and an Adjunct Professor at Georgetown University where he co-teaches “Launching Entrepreneurial Ventures”.  In his professional capacity, he has provided consulting services to clients as diverse as Silatech, Kaiser Permanente,  Oxfam America, the Department of Defense, Ernst and Young, and The Hult Prize. His writing has been featured in Forbes, Entrepreneur.com, and Business2Community.
+    •	He currently serves as a Mentor at the Digital Equity Accelerator powered by Aspen Digital.
+    •	In 2022, he received the “Outstanding Entrepreneurship Faculty Award” at Georgetown University.
+    •	In 2020, he was featured in the PBS mini-series “Niall Ferguson’s Networld” and was also recognized as one of the Top 70 RealLIST Connectors by Technical.ly DC.
+    •	In 2019, he received the “Above-and-Beyond Mentor Award” for his work serving as a mentor at the Georgetown Entrepreneurship Summer Launch program.
+    •	In 2018, Fifth Tribe was featured in Arlington Now which highlighted Fifth Tribe’s innovative digital approaches.
+    •	In 2017, Khuram came in 1st place and won $5,000 for a dataset on ISIS Religious Texts in the Kaggle September Dataset Competition.
+    In his free time, Khuram has mentored entrepreneurs in the US, Italy, Denmark, Algeria, Tunisia, Egypt, Palestine, Lebanon, and Pakistan through programs like the Peace Tech Accelerator, the Halycon Incubator, Georgetown University's Summer Launch, Legacy International, and TechCamp.
+    Khuram is certified in Design Thinking (IDEO 2019), Agile Scrum (Scrum Alliance 2017), and Marketing Strategy (Cornell 2015). He is a 10,000 Small Businesses Fellow (Goldman Sachs 2018) and Emerging Leaders Fellow (Small Business Administration 2016). Khuram graduated from the University of Maryland, Baltimore County with a Bachelor of Arts in Political Science (2005) and from Widener University School of Law with a Juris Doctorate (2008).
+    
+  thumbnailUrl: speaker.png
 
 -
   id: 30
-  name: "Tina"
-  surname: "Nemarnik"
-  bio: "Volunteer for the past 4 yearsand a huge python and Linux fan."
-  thumbnailUrl: TinaNemarnik.jpg
+  name: "Chris"
+  surname: "May"
+  bio: |
+    As a graphic designer turned programmer, python opened many doors for Chris May. He co-founded the [PyRVA](http://pyrva.org/) user group and had a great career in web and python development, most recently as a Senior Full-Stack Engineer at Markel in Richmond, Virginia.
+    
+    Seeing his impact on his coworkers and PyRVA members, Chris decided to step away from his full-time job to open doors for others. He does this through group training, individual coaching, and authoring resources. You can find his blog and python resources at his [Everyday Superpowers](https://everydaysuperpowers.dev/) website.
+    
+    Ask him to send you the recipe for his amazing gluten-free brownies when you're there!
+  thumbnailUrl: ChrisMay.jpeg
 
 -
   id: 31
-  name: "Yasser"
-  surname: "Tahiri"
-  bio: "I am an experienced Backend developer and Opensource Developer, I am mostly self-taught and passionate about new technologies. My strongest skills lie within Python | JavaScript, both backends, I help founders add value to society by crafting software using Python tools."
-
-
-  thumbnailUrl: YasserTH.png
+  name: "Alynne"
+  surname: "Ferreira"
+  bio: |
+    Computer Engineer from IFCE. Works as back-end using Flask. Co-organizer of PyLadies Fortaleza, PUG-CE, Python Nordeste and Python Brasil. Tutor of Bash and Shell kittens.
+  thumbnailUrl: AlynneFerreira.jpeg
 
 -
   id: 32
-  name: "Mario"
-  surname: "Garcia"
-  bio: "An active Open Source user and contributor for over a decade. A Python and Rust developer. Speaker at tech and innovation events since 2008. A member of GitLab Heroes, GitKraken Ambassadors and Hashicorp Ambassadors."
-  thumbnailUrl: MarioGarcia.jpg
+  name: "W. Ian"
+  surname: "Douglas"
+  bio: |
+    I am a long-time open-source developer, educator, manager and mentor. I encourage everyone around me to share their collective knowledge, and am a strong champion of diversity in the tech industry. When I'm not working, I'm live-streaming about career advancement and interview preparation, tinkering with 3D printing or IoT projects, or telling dad jokes on Twitter.
+    
+    I hold dual-citizenship in Canada and USA, and fully vaccinated/boosted.
+  thumbnailUrl: WIanDouglas.png
 
 -
   id: 33
-  name: "Anna"
-  surname: "Warno"
-  bio: "Anna is a Data scientist graduated in mathematics, employed at 7bulls.com (http://7bulls.com/). Involved in projects in the field of computer vision, NLP, time series. Actively participating in conferences and research projects, including research-advanced Horizon 2020 projects. Hackathons lover."
-  thumbnailUrl: AnnaWarno.JPG
+  name: "Yosef"
+  surname: "Arbiv"
+  bio: |
+    Yosef Arbiv is married to Adi and father of three, currently R&D Team Leader at the Emerging Technologies and Incubation group in Cisco. Yosef’s team is focused on building the cloud SDKs for Cisco’s full stack observability product.
+    His prior experience includes Team leader and Software Engineer at Argus cyber security, Cyberbit, and IDF Intelligence Forces. Computer Science MSc graduate from Bar Ilan University.
+    Yosef is passionate about people, coding, and the combination of the two.
+  thumbnailUrl: speaker.png
 
 -
   id: 34
-  name: "Juarez"
-  surname: "Barbosa Jr."
-  bio: "Juarez Barbosa Junior has +20 years of experience in several IT-related roles throughout his career, currently working for Microsoft as the Azure Developer Engagement Lead in Ireland.
+  name: "Trygve"
+  surname: "Karper"
+  bio: |
+    Trygve is the CEO and co-founder of Databutton. Before starting Databutton, Trygve was an early employee at Cognite. He spent almost 4 years heading up and scaling the Data Science and ML Engineering teams at Cognite from 0 to 40+. Through his years at Cognite, the company grew from 30 employees to 630 and became Norway‘s first unicorn. Before joining Cognite, Trygve was a tenured associate professor in mathematics at NTNU and also spent some years crunching at the core physics engine of the flow simulator Olga. Throughout his career, he has worked on all aspects of data-driven business, from research and hardcore data science to building enabling products and leading execution for large-scale digitalization programs at some of the biggest companies in the world.
+  thumbnailUrl: speaker.png
 
-Previously, he's worked for Oracle as a Principal Blockchain Developer Advocate and as Thought Leader and Technical Evangelist in IBM Mobile and IBM Watson.
-
-He's passionate about engaging developers and communities to present and discuss the latest technologies related to Blockchain, IoT, Cloud Native, AI, and other Emerging Technologies, with a particular focus and interest in Microsoft Azure."
-  thumbnailUrl: Juarez.png
