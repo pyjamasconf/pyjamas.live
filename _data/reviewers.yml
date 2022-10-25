@@ -1,0 +1,72 @@
+-
+  id: 0
+  name: "Denny"
+  surname: "Perez"
+  title: "Software QA Analyst"
+  thumbnailUrl: DennyPerez.JPG
+  team: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/dennyperez18"}
+    - {name: "github", link: "https://github.com/DennyPerez18"}
+    - {name: "site", link: "https://dennyperez.dev/"}
+
+-
+  id: 1
+  name: "Sayantika"
+  surname: "Banik"
+  title: "Open-source contributor"
+  thumbnailUrl: SayantikaBanik.png
+  team: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/sayabanik"}
+    - {name: "github", link: "https://github.com/sayantikabanik"}
+    - {name: "site", link: "https://www.sayantikabanik.com/"}
+
+-
+  id: 2
+  name: "Siddharth"
+  surname: "Gupta"
+  title: "MS Cognitive Science at IIT Delhi"
+  thumbnailUrl: SiddharthGupta.jpeg
+  team: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/sidgupta234"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sidgupta234/"}
+    - {name: "github", link: "https://github.com/sidgupta234"}
+    - {name: "site", link: "https://www.languageof.me/"}
+
+-
+  id: 3
+  name: "Christian"
+  surname: "Staudt"
+  title: "Data Scientist"
+  thumbnailUrl: ChristianStaudt.jpeg
+  team: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/C_L_Staudt/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/christian-staudt/"}
+    - {name: "github", link: "https://github.com/clstaudt"}
+    - {name: "site", link: "https://clstaudt.me"}
+
+-
+  id: 3
+  name: "Anthony"
+  surname: "Joseph"
+  title: "Software Engineer"
+  thumbnailUrl: AnthonyJoseph.jpeg
+  team: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/ajosephau"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/anthony-joseph/"}
+    - {name: "github", link: "https://github.com/ajosephau"}
+    - {name: "site", link: "https://ajosephau.github.io/"}
