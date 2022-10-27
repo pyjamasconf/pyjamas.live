@@ -99,7 +99,7 @@
   complexity: "Intermediate"
 -
   id: 009
-  title: "Introduction to lighting on audio datasets"
+  title: "Build tailored ML Applications with Lightning.ai"
   description: |
     In this talk, we will demystify audio classification with lightning. We will go over audio preprocessing techniques followed by writing lighting modules to organize our code. We will finally learn some best practices when using lightning.
   subtype: talk
