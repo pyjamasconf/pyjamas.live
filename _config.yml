@@ -48,6 +48,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "https://ti.to/pyjamas-conf/2022", text: "Register Tickets"}
+ - {permalink: "https://pyjamas-conf.myspreadshop.com/", text: "Merch Shop"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/coc/", text: "Code of Conduct"}
  - {permalink: "/past-edition/", text: "Past Edition"}
@@ -60,6 +61,7 @@ typeoutTextValues: '"", "⏰ Call for Proposal now open!!", "Anywhere you like ~
 typeoutFallback: "Season"
 heroButtons:
  - {permalink: "https://ti.to/pyjamas-conf/2022", text: "Register tickets for the conference"}
+ - {permalink: "https://pyjamas-conf.myspreadshop.com/", text: "Get me some Merch!!!"}
  # - {permalink: "https://forms.gle/PQRvaMpJXYPf56xV7", text: "Apply to be reviewer"}
  # - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "https://www.youtube.com/playlist?list=PLiwrSoq9tHkGREiplS0cWA3Oa2V3leMB5", text: "Rewatch Livestream"}
