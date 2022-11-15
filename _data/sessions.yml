@@ -99,12 +99,18 @@
   complexity: "Intermediate"
 -
   id: 009
-  title: "Build tailored ML Applications with Lightning.ai"
+  title: "[Español] Python in your language: code, documentation, and comunity."
   description: |
-    In this talk, we will demystify audio classification with lightning. We will go over audio preprocessing techniques followed by writing lighting modules to organize our code. We will finally learn some best practices when using lightning.
+    For many Python users, English is the second language they learn, which can be both a real benefit in our world, but also increases the barrier for people that wants to learn programming, without the burden of learning another language.
+
+    Can we do something about it?
+
+    On this talk, you will learn from the experiences of some of the people from the huge Spanish speaking Python community: the participation and projects that go from modifying the Python grammar, conferences but also the documentation tanslation effort.
+
+    This talk is focused to all the non-native English speakers that are curious but also willing to make a change within their own Language-based communities, bringing Python to even more people.
   subtype: talk
-  speakers: [15]
-  language: en
+  speakers: [35]
+  language: es
   complexity: "Beginner"
 -
   id: 010
@@ -193,12 +199,12 @@
   complexity: "All"
 -
   id: 019
-  title: "[Español] Resolviendo tu primera competencia de Kaggle"
+  title: "[Italiano] Create federated GraphQL APIs using Strawberry and Apollo "
   description: |
-
+    Join us and learn how you can use Python (and other languages!) to create GraphQL APIs from multiple microservices. In this talk we'll explore how to use Strawberry to create a couple of small GraphQL APIs and how we can use Apollo Federation to combine them into one.
   subtype: talk
-  speakers: [13]
-  language: en
+  speakers: [36]
+  language: it
   complexity: ""
 -
   id: 020

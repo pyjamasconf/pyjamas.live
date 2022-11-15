@@ -12,9 +12,9 @@
   surname: "Tahiri"
   bio: |
     I am an experienced Backend Engineer and [Opensource](https://github.com/yezz123) Developer, I am mostly **self-taught** and **very passionate about new technologies**. My most vital skills lie within [Python](https://python.org) | [JavaScript](https://www.javascript.com/), both backends, I help founders add value to society by crafting software using Python tools.
-    
+
     Besides technology, I am more passionate about new ideas and ways of thinking.
-    
+
     Relate to My Passion, I like watching and reading all the things that relate to Ancient Greece, For example, the Dark Ages of the 12th–9th centuries also the Ancient Greek philosophy, Socrates, Aristotle my greatest philosopher of all time.
   thumbnailUrl: YasserTahiri.png
 
@@ -24,13 +24,13 @@
   surname: "Galimberti"
   bio: |
     Before being a Software Developer, I have been (not so secretly) tech-addicted, especially when it came to computers.
-    
+
     I had my first tech bag at age of 11 (nothing so fancy and expensive) but was a nice set of hardware and software tools to fix the most common computers issues.
-    
+
     Later, during my early high-school years, even if only C++ and Java were an option during classes, I started learning PHP + JS + HTML5 + CSS3 for a project that I started with a schoolfellow, that’s where I first approached web development.
-    
+
     As my homepage says, now I’m a Full Stack Developer based in Italy. When I’m not in front of my laptop screen, you can find me traveling and piloting a drone for aerial photography. I love to listen to EDM music while stuck in traffic or during open-air festivals.
-    
+
     In 2021 I joined the Core Developers team, and I try to do my best to keep Kivy up-to-date and grow the community.
   thumbnailUrl: speaker.png
 
@@ -40,9 +40,9 @@
   surname: "Vidos"
   bio: |
     Peter is the CEO & Co-Founder of [Vizzu](https://vizzuhq.com).
-    
+
     His primary focus is finding and utilizing use cases matching Vizzu's innovative data visualization approach. Peter has been involved with digital product development for over 15 years. He worked on products covering mobile app testing, online analytics, data visualization, e-learning & educational administration. Still, building a selfie teleport for fun is what he likes to brag about when asked to share previous experiences.
-    
+
     My favorite member of One Direction depends heavily on who my niece's favorite member of One Direction is. Sadly, I keep on forgetting the recent correct answer.
   thumbnailUrl: speaker.png
 
@@ -89,9 +89,9 @@
     * Senior software engineer at Sourcery
     * Have recently re-worked the Sourcery CLI using Rich
     * Have created several internal CLI tools using Typer and Click
-    
+
     Previous conference talks:
-    
+
     * [Actionable insights vs ranking How to use and how NOT to use code quality metrics](https://www.youtube.com/watch?v=N_hgD1eA7ks&list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl&index=67)
     * [Living With Technical Debt: Acknowledge It, Specify It, Reduce It](https://www.youtube.com/watch?v=Ugyz8aEyBMo&list=PLrkpavSsBQZ4ImE1qyyUkHOcRfHD8J5KZ&index=5)
   thumbnailUrl: speaker.png
@@ -102,9 +102,9 @@
   surname: "(they/them)"
   bio: |
     Kai Katschthaler is a mental health advocate and activist. In 2016, they started “Taboola Rasa — A Clean Slate for Mental Health.” Taboola Rasa is a mental health awareness project that seeks to erase the stigma associated with many mental health struggles and diagnoses by asking people to share their mental health experiences. Kai believes that talking about mental health openly creates awareness, combats misinformation, and makes others feel less alone. Often enough, it also makes others feel safe enough to talk about their mental health and access the help they may need.
-    
+
     The topic of mental health also bleeds into Kai’s work as a DevRel consultant and tech content specialist, where they always push for more diversity, equity, and inclusion. Topics they’re excited to talk about aside from mental health are: wild swimming, dogs, TV shows, sci-fi and fantasy, learning to code, and food.
-  thumbnailUrl: speaker.png
+  thumbnailUrl: KaiKatschthaler.jpeg
 
 -
   id: 11
@@ -123,48 +123,6 @@
   thumbnailUrl: SiddharthGupta.jpeg
 
 -
-  id: 13
-  name: "Francisco"
-  surname: "Alfaro"
-  bio: |
-    ## **Contact Information**
-    
-    <a href="https://www.linkedin.com/in/faam/"><img alt="Link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="float:left; padding-right:10px" ></a>
-    <a href="https://github.com/fralfaro"><img alt="Link" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="float:left; padding-right:10px" ></a>
-    <a href="https://gitlab.com/FAAM"><img alt="Link" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" style="float:left; padding-right:10px" ></a>
-    <a href="https://fralfaro.github.io/ds_blog/"><img alt="Link" src="https://img.shields.io/static/v1?label=BLOG&message=ds&color=57aeac&labelColor=black&style=for-the-badge&logo=data:image/png;base64,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" style="float:left; padding-right:10px" ></a>
-    <a href="https://www.kaggle.com/faamds"><img alt="Link" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" style="float:left; padding-right:10px" ></a>
-    &nbsp;
-    
-    
-    - Name: Francisco Antonio Alfaro Medina
-    - Phone: +56 9 94541139
-    - Email: francisco.alfaro.496@gmail.com
-    - Curriculum Vitae: [link](https://gitlab.com/fralfaro/cv/-/jobs/artifacts/main/browse?job=generate_pdf)
-    - Personal Portfolio: [link](https://fralfaro.github.io/portfolio/)
-    
-    
-    ## **Personal Information**
-    🎮 Gaming | 🏀 Basketball | 💡 Learning | 📚 Teaching
-    
-    Statistician and Teacher at Universidad Técnica Federico Santa María.
-    I currently work as a Senior Data Scientist at Walmart (Chile). I enjoy programming, learning about different topics and teaching about maths and computer.
-    
-    
-    
-    🔍 **Interests**:
-    
-    * Software Development
-    * Statistical Modelling
-    * Machine/Deep Learning
-    * Cloud computing
-    * Big Data
-    * Time Series
-    
-    
-  thumbnailUrl: speaker.png
-
--
   id: 14
   name: "Alison"
   surname: "Orellana"
@@ -175,14 +133,6 @@
     Lead of PyLadies Cochabamba community - Bolivia.
     Programming and computing instructor at Cisco Networking Academy.
   thumbnailUrl: speaker.png
-
--
-  id: 15
-  name: "Krishna"
-  surname: "Kalyan"
-  bio: |
-    
-  thumbnailUrl: KrishnaKalyan.jpeg
 
 -
   id: 16
@@ -229,7 +179,7 @@
   name: "Alex"
   surname: "Willmer"
   bio: |
-    
+
   thumbnailUrl: AlexWillmer.jpeg
 
 -
@@ -254,7 +204,7 @@
   surname: "Needham"
   bio: |
     Mark Needham is an Apache Pinot advocate and developer relations engineer at StarTree.
-    
+
     As a developer relations engineer, Mark helps users learn how to use Apache Pinot to build their real-time user-facing analytics applications. He also does developer experience, simplifying the getting started experience by making product tweaks and improvements to the documentation.  Mark writes about his experiences working with Pinot at markhneedham.com. He tweets at @markhneedham.
   thumbnailUrl: MarkNeedham.jpeg
 
@@ -280,9 +230,9 @@
        - (Strategic) Domain-Driven Design
        - Lean Startup
        - Promise Theory and Semantic SpaceTimes
-    
-    
-    
+
+
+
   thumbnailUrl: speaker.png
 
 -
@@ -299,7 +249,7 @@
   surname: "Tymoshchuk"
   bio: |
     Anastasiia works in the development for more than of 10 years (around 7 years in Python), including experience in e-commerce as well as game development. Every day she deals with lots of challenges when she has to consider software or library to start with, starting from the question how to build architecture and finishing with a deployment. She has also a great experience in the design and development of the project from scratch to production. Currently working as a Head of Engineering, helping to build an engineering culture in her team and serve her team's needs as a Servant Leader. Based in Berlin, Germany.
-    
+
     Anastasiia is also one of the organisers of PyBerlin meetup based in Berlin.
   thumbnailUrl: AnastasiiaTymoshchuk.jpeg
 
@@ -325,7 +275,7 @@
   surname: "Zaman"
   bio: |
     Khuram Zaman – Official Bio
-    
+
     Khuram Zaman is the CEO of Fifth Tribe, a leading product and software development firm serving the Washington DC Metropolitan Area and an Adjunct Professor at Georgetown University where he co-teaches “Launching Entrepreneurial Ventures”.  In his professional capacity, he has provided consulting services to clients as diverse as Silatech, Kaiser Permanente,  Oxfam America, the Department of Defense, Ernst and Young, and The Hult Prize. His writing has been featured in Forbes, Entrepreneur.com, and Business2Community.
     •	He currently serves as a Mentor at the Digital Equity Accelerator powered by Aspen Digital.
     •	In 2022, he received the “Outstanding Entrepreneurship Faculty Award” at Georgetown University.
@@ -335,7 +285,7 @@
     •	In 2017, Khuram came in 1st place and won $5,000 for a dataset on ISIS Religious Texts in the Kaggle September Dataset Competition.
     In his free time, Khuram has mentored entrepreneurs in the US, Italy, Denmark, Algeria, Tunisia, Egypt, Palestine, Lebanon, and Pakistan through programs like the Peace Tech Accelerator, the Halycon Incubator, Georgetown University's Summer Launch, Legacy International, and TechCamp.
     Khuram is certified in Design Thinking (IDEO 2019), Agile Scrum (Scrum Alliance 2017), and Marketing Strategy (Cornell 2015). He is a 10,000 Small Businesses Fellow (Goldman Sachs 2018) and Emerging Leaders Fellow (Small Business Administration 2016). Khuram graduated from the University of Maryland, Baltimore County with a Bachelor of Arts in Political Science (2005) and from Widener University School of Law with a Juris Doctorate (2008).
-    
+
   thumbnailUrl: speaker.png
 
 -
@@ -344,9 +294,9 @@
   surname: "May"
   bio: |
     As a graphic designer turned programmer, python opened many doors for Chris May. He co-founded the [PyRVA](http://pyrva.org/) user group and had a great career in web and python development, most recently as a Senior Full-Stack Engineer at Markel in Richmond, Virginia.
-    
+
     Seeing his impact on his coworkers and PyRVA members, Chris decided to step away from his full-time job to open doors for others. He does this through group training, individual coaching, and authoring resources. You can find his blog and python resources at his [Everyday Superpowers](https://everydaysuperpowers.dev/) website.
-    
+
     Ask him to send you the recipe for his amazing gluten-free brownies when you're there!
   thumbnailUrl: ChrisMay.jpeg
 
@@ -364,7 +314,7 @@
   surname: "Douglas"
   bio: |
     I am a long-time open-source developer, educator, manager and mentor. I encourage everyone around me to share their collective knowledge, and am a strong champion of diversity in the tech industry. When I'm not working, I'm live-streaming about career advancement and interview preparation, tinkering with 3D printing or IoT projects, or telling dad jokes on Twitter.
-    
+
     I hold dual-citizenship in Canada and USA, and fully vaccinated/boosted.
   thumbnailUrl: WIanDouglas.png
 
@@ -386,3 +336,18 @@
     Trygve is the CEO and co-founder of Databutton. Before starting Databutton, Trygve was an early employee at Cognite. He spent almost 4 years heading up and scaling the Data Science and ML Engineering teams at Cognite from 0 to 40+. Through his years at Cognite, the company grew from 30 employees to 630 and became Norway‘s first unicorn. Before joining Cognite, Trygve was a tenured associate professor in mathematics at NTNU and also spent some years crunching at the core physics engine of the flow simulator Olga. Throughout his career, he has worked on all aspects of data-driven business, from research and hardcore data science to building enabling products and leading execution for large-scale digitalization programs at some of the biggest companies in the world.
   thumbnailUrl: speaker.png
 
+-
+  id: 35
+  name: "Cristián"
+  surname: "Maureira-Fredes"
+  bio: |
+    Hola! my name is Cristián and I'm currently working as R&D Manager in The Qt Company. One of my main responsibilities is the Qt for Python (PySide/Shiboken) project, which is the official set of bindings of the Qt Framework in Python. On my daily basis, I work with Python, C++ and CPython, which are usually the topics of my talks. On my spare time, I help with many Open Source communities, mainly Python ones like Python en Español https://hablemospython.dev, Python Chile https://pythonchile.cl, Python España https://es.python.org, and many more!
+  thumbnailUrl: CristianMaureiraFredes.jpg
+
+-
+  id: 36
+  name: "Patrick"
+  surname: "Arminio"
+  bio: |
+    Patrick Arminio is a Developer Advocate at Apollo GraphQL. He created and maintains Strawberry GraphQL, a modern Python library that uses type hints to create GraphQL APIs. He's also a board member of EuroPython and the chair of Python Italia.
+  thumbnailUrl: speaker.png

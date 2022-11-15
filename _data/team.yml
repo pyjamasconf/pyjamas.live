@@ -38,3 +38,29 @@
   social:
     - {name: "twitter", link: "https://twitter.com/mborus"}
     - {name: "linkedin", link: "http://www.linkedin.com/in/mborus-de"}
+
+-
+  id: 3
+  name: "Jason C."
+  surname: "McDonald"
+  title: "Session Host"
+  thumbnailUrl: JasonCMcDonald.png
+  team: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+
+-
+  id: 4
+  name: "Cristián"
+  surname: "Maureira-Fredes"
+  title: "Session Host"
+  thumbnailUrl: CristianMaureiraFredes.jpg
+  team: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/cmaureir"}
+    - {name: "github", link: "https://github.com/cmaureir"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cmaureir/"}
+    - {name: "site", link: "https://maureira.xyz"}
