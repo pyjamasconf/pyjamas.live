@@ -57,7 +57,7 @@ navigationLinks:
 # Hero Block
 heroTitle: "Pyjamas Conf <typeout> 2022"
 eventDate: "Saturday, November 26th, 2022 - Sunday, November 27th, 2022 "
-typeoutTextValues: '"", "⏰ Call for Proposal now open!!", "Anywhere you like ~", "We are under the same sky ✨", "Worldwide! 100% Online", "Totally Free! Just tuned in!", "Profit will be donated to the PSF"'
+typeoutTextValues: '"", "Register your ticket now!!", "Anywhere you like ~", "We are under the same sky ✨", "Worldwide! 100% Online", "Totally Free! Just tuned in!", "Profit will be donated to the PSF"'
 typeoutFallback: "Season"
 heroButtons:
  - {permalink: "https://ti.to/pyjamas-conf/2022", text: "Register tickets for the conference"}
