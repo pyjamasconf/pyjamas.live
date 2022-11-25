@@ -76,3 +76,15 @@
     - {abbr: "", title: ""}
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/lisacooperr/"}
+
+-
+  id: 6
+  name: "Alison Orellana"
+  surname: "Rios"
+  title: "Session Host"
+  thumbnailUrl: AlisonO22.jpeg
+  team: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    
