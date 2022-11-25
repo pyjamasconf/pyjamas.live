@@ -64,3 +64,15 @@
     - {name: "github", link: "https://github.com/cmaureir"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/cmaureir/"}
     - {name: "site", link: "https://maureira.xyz"}
+
+-
+  id: 5
+  name: "Lisa"
+  surname: "LisaCooper"
+  title: "Session Host"
+  thumbnailUrl: LisaCooper.jpeg
+  team: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lisacooperr/"}
