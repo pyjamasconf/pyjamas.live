@@ -78,14 +78,22 @@
   language: en
   complexity: "Intermediate"
 -
+  # id: 007
+  # title: "The magic of type-dispatched data science"
+  # description: |
+  #   Are you forced to work with CSV files? Are Pandas and Arrow's type inference ruining your code unknowingly? In this talk, we will go over Lector, the new open-source library to fix the problems you knew you had, and some of the ones you didn't, when working with CSV files.
+  # subtype: talk
+  # speakers: [8]
+  # language: en
+  # complexity: "Intermediate"
+-
   id: 007
-  title: "The magic of type-dispatched data science"
-  description: |
-    Are you forced to work with CSV files? Are Pandas and Arrow's type inference ruining your code unknowingly? In this talk, we will go over Lector, the new open-source library to fix the problems you knew you had, and some of the ones you didn't, when working with CSV files.
+  title: "[Retro] Django with PostgreSQL superpowers"
+  description: "Django per se is a database-agnostic web framework, but real-world projects based on it are not. PostgreSQL has the richest feature set of any supported databases and we'll see how to use these superpowers in Django."
   subtype: talk
   speakers: [8]
   language: en
-  complexity: "Intermediate"
+  complexity: "Beginner"
 -
   id: 008
   title: "My first 90 days, kick starting a new team for long term success"
@@ -179,15 +187,23 @@
   speakers: [7]
   language: en
   complexity: "All"
+# -
+#   id: 017
+#   title: "We've 'REST'ed long enough -- let's have an API adventure!"
+#   description: |
+#     Many developers are familiar with consuming/designing RESTful APIs, but what about building and consuming GraphQL and gRPC APIs? What about event-driven or asynchronous APIs? What are the benefits and technical limitations of each? Let's go down the rabbit hole and explore some of these API types.
+#   subtype: talk
+#   speakers: [32]
+#   language: en
+#   complexity: "All"
 -
   id: 017
-  title: "We've 'REST'ed long enough -- let's have an API adventure!"
-  description: |
-    Many developers are familiar with consuming/designing RESTful APIs, but what about building and consuming GraphQL and gRPC APIs? What about event-driven or asynchronous APIs? What are the benefits and technical limitations of each? Let's go down the rabbit hole and explore some of these API types.
+  title: "The Magic of Self: How Python inserts self into methods."
+  description: "Python is full of abstractions that help us write clean code. By diving into one of Python's most magical abstractions, the insertion of self into methods, I want to show that we can understand those abstractions, and that we can write abstractions of our own that allow us to write better software."
   subtype: talk
   speakers: [32]
   language: en
-  complexity: "All"
+  complexity: "Intermediate"
 -
   id: 018
   title: "Graph Databases for (Monty) Python Developers"

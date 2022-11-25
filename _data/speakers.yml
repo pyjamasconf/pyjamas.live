@@ -75,11 +75,15 @@
 
 -
   id: 8
-  name: "Elena Martinez"
-  surname: "Serrano"
-  bio: |
-    Head of Data Literacy, helping companies harness the power of data. Proven track record of assisting enterprise projects to champion data-driven decisions. Ability to perform quantitative analysis of complex problems working with a team approach to deliver the best solutions. Involved with social innovation and Big Data & AI societies.
-  thumbnailUrl: speaker.png
+  # name: "Elena Martinez"
+  # surname: "Serrano"
+  # bio: |
+  #   Head of Data Literacy, helping companies harness the power of data. Proven track record of assisting enterprise projects to champion data-driven decisions. Ability to perform quantitative analysis of complex problems working with a team approach to deliver the best solutions. Involved with social innovation and Big Data & AI societies.
+  # thumbnailUrl: speaker.png
+  name: "Paolo"
+  surname: "Melchiorre"
+  bio: "I’m Paolo Melchiorre (@pauloxnet), a longtime Python 🐍 backend developer who contributes to the Django 🦄 project and gives talks at tech conferences 🗣️. I've been a GNU/Linux 🐧 user for over 20 years and I use and promote Free Software 🐃. I graduated in Software Engineering 🎓 and I'm an alumnus of the University of Bologna 🏛️, Italy 🇮🇹️. I've been working in the web 🌍 for 15 years and now I'm the CTO 👨‍💻 of 20tab, a pythonic software company, for which I work remotely 🏡. More info on my website 🔗 https://www.paulox.net 👈️"
+  thumbnailUrl: PaoloMelchiorre.jpg
 
 -
   id: 9
@@ -302,13 +306,17 @@
 
 -
   id: 32
-  name: "W. Ian"
-  surname: "Douglas"
-  bio: |
-    I am a long-time open-source developer, educator, manager and mentor. I encourage everyone around me to share their collective knowledge, and am a strong champion of diversity in the tech industry. When I'm not working, I'm live-streaming about career advancement and interview preparation, tinkering with 3D printing or IoT projects, or telling dad jokes on Twitter.
-
-    I hold dual-citizenship in Canada and USA, and fully vaccinated/boosted.
-  thumbnailUrl: WIanDouglas.png
+  # name: "W. Ian"
+  # surname: "Douglas"
+  # bio: |
+  #   I am a long-time open-source developer, educator, manager and mentor. I encourage everyone around me to share their collective knowledge, and am a strong champion of diversity in the tech industry. When I'm not working, I'm live-streaming about career advancement and interview preparation, tinkering with 3D printing or IoT projects, or telling dad jokes on Twitter.
+  #
+  #   I hold dual-citizenship in Canada and USA, and fully vaccinated/boosted.
+  # thumbnailUrl: WIanDouglas.png
+  name: "Sebastiaan"
+  surname: "Zeeff"
+  bio: "Sebastiaan is a Software Engineer for the Ordina Pythoneers and a Fellow of the Python Software Foundation. As a Python enthusiast, he loves discussing the inner workings of the language and coaching others to become better developers. In 2021, Sebastiaan gave talks at various conferences, including PyCon, EuroPython, and FOSDEM. He is also active in the Python community, as an owner of Python Discord, an open-source contributor, and as a Python educator."
+  thumbnailUrl: SebastiaanZeeff.jpg
 
 -
   id: 33
