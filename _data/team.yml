@@ -68,7 +68,7 @@
 -
   id: 5
   name: "Lisa"
-  surname: "LisaCooper"
+  surname: "Cooper"
   title: "Session Host"
   thumbnailUrl: LisaCooper.jpeg
   team: true
