@@ -70,3 +70,15 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/anthony-joseph/"}
     - {name: "github", link: "https://github.com/ajosephau"}
     - {name: "site", link: "https://ajosephau.github.io/"}
+
+-
+  id: 4
+  name: "Ceyda"
+  surname: "Düzgeç"
+  title: "Software Engineer - backend, django"
+  thumbnailUrl: CeydaDuzgec.png
+  team: true
+  ribbon:
+    - {abbr: "", title: ""}
+  social:
+    - {name: "github", link: "https://github.com/ceydaduzgec"}
