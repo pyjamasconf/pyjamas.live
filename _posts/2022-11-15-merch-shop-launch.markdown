@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Advise for New Speakers"
-date:   2022-09-10 22:00:00
+title:  "Merch shop launch"
+date:   2022-11-15 22:00:00
 isStaticPost: false
 ---
-#### Do you want to be a public speaker and don't know where to start?
+#### Do you want some cool Pyjamas Merch?
 
-I was that person: I have attended a few Python event and my first conference (It was PyData London) and I wanted to speak at a conference. I was a lucky one cause I have lots of good friends in the Python community and they encouraged me to try.
+Because of a lot of requests in the past years. We have finally launch our merch shop this year. And yes, there are Pyjamas pyjamas available to purchase. You can choose to shop at our [UK/EU shop](https://pyjamas-conf.myspreadshop.co.uk/) or our [US shop](https://pyjamas-conf.myspreadshop.com/). 
+
+Our merch shop does not put a margin on the products, meaning that we are not making profits from it. We would like to keep the price as low as possible so you can have fun buying them. Check out for occasional discounts.
