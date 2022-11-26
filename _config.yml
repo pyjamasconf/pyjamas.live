@@ -60,7 +60,8 @@ eventDate: "Saturday, November 26th, 2022 - Sunday, November 27th, 2022 "
 typeoutTextValues: '"", "Register your ticket now!!", "Anywhere you like ~", "We are under the same sky ✨", "Worldwide! 100% Online", "Totally Free! Just tuned in!", "Profit will be donated to the PSF"'
 typeoutFallback: "Season"
 heroButtons:
- - {permalink: "https://ti.to/pyjamas-conf/2022", text: "Register tickets for the conference"}
+ - {permalink: "https://bit.ly/pyjamas2022live", text: "Watch live stream on YouTube"}
+ # - {permalink: "https://ti.to/pyjamas-conf/2022", text: "Register tickets for the conference"}
  - {permalink: "https://pyjamas-conf.myspreadshop.com/", text: "Get me some Merch!!!"}
  # - {permalink: "https://forms.gle/PQRvaMpJXYPf56xV7", text: "Apply to be reviewer"}
  # - {permalink: "/schedule/", text: "Schedule"}
