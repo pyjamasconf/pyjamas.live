@@ -107,13 +107,13 @@
   complexity: "Intermediate"
 -
   id: 009
-  title: "[Español] Python in your language: code, documentation, and comunity."
+  title: "[Español] Python in your language: code, documentation, and community."
   description: |
     For many Python users, English is the second language they learn, which can be both a real benefit in our world, but also increases the barrier for people that wants to learn programming, without the burden of learning another language.
 
     Can we do something about it?
 
-    On this talk, you will learn from the experiences of some of the people from the huge Spanish speaking Python community: the participation and projects that go from modifying the Python grammar, conferences but also the documentation tanslation effort.
+    On this talk, you will learn from the experiences of some of the people from the huge Spanish speaking Python community: the participation and projects that go from modifying the Python grammar, conferences but also the documentation translation effort.
 
     This talk is focused to all the non-native English speakers that are curious but also willing to make a change within their own Language-based communities, bringing Python to even more people.
   subtype: talk
@@ -160,7 +160,7 @@
   complexity: "Beginner"
 -
   id: 014
-  title: "Python decodators: from 0 to hero"
+  title: "Python decorators: from 0 to hero"
   description: |
     New to Python? Never heard or afraid of design patterns? Then this presentation is for you!
     What are decorators? What problems do they solve? How to use them, and how to create your own from zero?
