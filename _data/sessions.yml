@@ -197,7 +197,7 @@
 #   language: en
 #   complexity: "All"
 -
-  id: 017
+  id: 027
   title: "[Retro] The Magic of Self: How Python inserts self into methods."
   description: "Python is full of abstractions that help us write clean code. By diving into one of Python's most magical abstractions, the insertion of self into methods, I want to show that we can understand those abstractions, and that we can write abstractions of our own that allow us to write better software."
   subtype: talk
