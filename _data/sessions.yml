@@ -285,15 +285,15 @@
   speakers: [21]
   language: en
   complexity: "Intermediate"
--
-  id: 027
-  title: "Let's Discover Drugs using Deep Learning"
-  description: |
-    The Drug Discovery market is poised to be estimated at $75 Billion dollars by 2025 and the recent pandemic has taught us how crucial it is to develop drugs faster. Let’s dive deep into how the Mighty Transformer is shaping up the world of cheminformatics solving this critical problem.
-  subtype: talk
-  speakers: [23]
-  language: en
-  complexity: "Beginner"
+# -
+#   id: 027
+#   title: "Let's Discover Drugs using Deep Learning"
+#   description: |
+#     The Drug Discovery market is poised to be estimated at $75 Billion dollars by 2025 and the recent pandemic has taught us how crucial it is to develop drugs faster. Let’s dive deep into how the Mighty Transformer is shaping up the world of cheminformatics solving this critical problem.
+#   subtype: talk
+#   speakers: [23]
+#   language: en
+#   complexity: "Beginner"
 -
   id: 028
   title: "Debugging Schrödinger's App"
