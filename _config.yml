@@ -57,10 +57,10 @@ navigationLinks:
 # Hero Block
 heroTitle: "Pyjamas Conf <typeout> 2022"
 eventDate: "Saturday, November 26th, 2022 - Sunday, November 27th, 2022 "
-typeoutTextValues: '"", "Register your ticket now!!", "Anywhere you like ~", "We are under the same sky ✨", "Worldwide! 100% Online", "Totally Free! Just tuned in!", "Profit will be donated to the PSF"'
+typeoutTextValues: '"", "Recording of livestream avaliable on YouTube!!", "Anywhere you like ~", "We are under the same sky ✨", "Worldwide! 100% Online", "Totally Free! Just tuned in!"'
 typeoutFallback: "Season"
 heroButtons:
- - {permalink: "https://bit.ly/pyjamas2022live", text: "Watch live stream on YouTube"}
+ - {permalink: "https://bit.ly/pyjamas2022live", text: "Recording of live stream on YouTube"}
  # - {permalink: "https://ti.to/pyjamas-conf/2022", text: "Register tickets for the conference"}
  - {permalink: "https://pyjamas-conf.myspreadshop.com/", text: "Get me some Merch!!!"}
  # - {permalink: "https://forms.gle/PQRvaMpJXYPf56xV7", text: "Apply to be reviewer"}
