@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Donation for the PSF"
+title:  "Donation to the PSF"
 date:   2023-01-09 12:00:00
 isStaticPost: false
 ---
