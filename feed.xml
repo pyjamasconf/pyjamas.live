@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pyjamas 2022</title>
+    <description>Pyjamas Conference 2022</description>
+    <link>https://pyjamas.live/</link>
+    <atom:link href="https://pyjamas.live/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Donation to the PSF</title>
+        <description>&lt;h4 id=&quot;thank-you-for-your-donation-to-pyjamas-conf-2022&quot;&gt;Thank you for your donation to Pyjamas Conf 2022&lt;/h4&gt;
+
+&lt;p&gt;Thank you for all the support to Pyjamas Conf 2022. We have gathered around USD $280 from donation and we have now donated them to &lt;a href=&quot;https://www.python.org/psf/donations/&quot;&gt;the Python Software Foundation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned to more news about Pyjamas Conf. In the mean time, you can still buy merch from &lt;a href=&quot;/blog/merch-shop-launch&quot;&gt;our merchshops&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Jan 2023 12:00:00 +0000</pubDate>
+        <link>https://pyjamas.live/blog/donate-to-psf</link>
+        <guid isPermaLink="true">https://pyjamas.live/blog/donate-to-psf</guid>
+      </item>
+    
+      <item>
+        <title>Merch shop launch</title>
+        <description>&lt;h4 id=&quot;do-you-want-some-cool-pyjamas-merch&quot;&gt;Do you want some cool Pyjamas Merch?&lt;/h4&gt;
+
+&lt;p&gt;Because of a lot of requests in the past years. We have finally launch our merch shop this year. And yes, there are Pyjamas pyjamas available to purchase. You can choose to shop at our &lt;a href=&quot;https://pyjamas-conf.myspreadshop.co.uk/&quot;&gt;UK/EU shop&lt;/a&gt; or our &lt;a href=&quot;https://pyjamas-conf.myspreadshop.com/&quot;&gt;US shop&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our merch shop does not put a margin on the products, meaning that we are not making profits from it. We would like to keep the price as low as possible so you can have fun buying them. Check out for occasional discounts.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Nov 2022 22:00:00 +0000</pubDate>
+        <link>https://pyjamas.live/blog/merch-shop-launch</link>
+        <guid isPermaLink="true">https://pyjamas.live/blog/merch-shop-launch</guid>
+      </item>
+    
+      <item>
+        <title>Pyjamas 2022</title>
+        <description>&lt;h4 id=&quot;it-has-been-3-years-now-the-4th-edition-of-pyjamas-conf-is-coming&quot;&gt;It has been 3 years! Now the 4th Edition of Pyjamas Conf is coming!!&lt;/h4&gt;
+
+&lt;p&gt;I am so glad that we are still doing it! First it was unexpected that we have this conference going and through the pandemic. As we promised, we will still be doing a online 24-hours conference when the world is opening up again.&lt;/p&gt;
+
+&lt;p&gt;Over the years, we have heard many encounrging feedbacks and that’s why we are still going. We also have a lot of great ideas coming in. We may not be able to implement them all in the past due to our limitations but we are slowly getting there and making Pyjamas Conf more fun, more inclusive and more meaningful.&lt;/p&gt;
+
+&lt;p&gt;I have heard that &lt;em&gt;you will get the conference right the 20th time you do it!&lt;/em&gt; We still have a long way to get there. Thank you for all the support that we got from the community and all of you who help shaping Pyjamas Conf to what it is today! Let’s keep doing it and it cannot be done without any of your help.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;whats-new-in-pyjamas-conf-2022&quot;&gt;What’s new in Pyjamas Conf 2022&lt;/h5&gt;
+
+&lt;p&gt;This year, we have some ideas that come to reality:&lt;/p&gt;
+
+&lt;h6 id=&quot;a-more-inclueive-multilingual-pyjamas&quot;&gt;A more inclueive, multilingual Pyjamas&lt;/h6&gt;
+
+&lt;p&gt;It has always in our mind that we want to support multiple languages in Pyjamas, but it is very hard to be done. Mainly we do not have many speakers submitting talks that are in a language other than English. May be it’s because our limitation of reaching big communities that speaks another language. It’s the short coming of the organising them in the past 2 years.&lt;/p&gt;
+
+&lt;p&gt;But we didn’t give up! This year, we will give it a try. &lt;a href=&quot;https://pyjamas.live/cfp/&quot;&gt;Speakers can submit talks&lt;/a&gt; in a language other than English, but to make it accessible to all audiences, we will have to have them recorded and subtitled in English. Thanks for the advance of technology, basic transciption and translation can be done automatically with &lt;a href=&quot;https://www.veed.io/&quot;&gt;applications&lt;/a&gt;. If the speaker is able to help polishing the subtitles, we can have many nice talks in many difference languages.&lt;/p&gt;
+
+&lt;h6 id=&quot;a-pyjamas-that-give-back-to-the-comminty&quot;&gt;A Pyjamas that give back to the comminty&lt;/h6&gt;
+
+&lt;p&gt;In the past few years, we are so lucky to get support from companies that support us finacially. Eventhough an online conference can be very flexiable in cost and the team is very good at looking for low cost solutions, having money in the bank provide us with more option in making Pyjamas better.&lt;/p&gt;
+
+&lt;p&gt;This year, we have decided that if people love us so much and if we have receive a lot of sponsorship and donation, we will give the profit back to the Python community. The money we got this year minus the cost of the confernce will be donated to the &lt;a href=&quot;https://www.python.org/psf-landing/&quot;&gt;Python Software Foundation&lt;/a&gt; to support the Python programming language and its communities.&lt;/p&gt;
+
+&lt;h6 id=&quot;a-pyjamas-that-is-fun-and-more-swags&quot;&gt;A Pyjamas that is fun and more swags&lt;/h6&gt;
+
+&lt;p&gt;In 2000 speakers and volunteers received Pyjamas socks and they love it! This is thanks to our volunteer’s effort to have them produced and mailed. Unfortunately we were not able to do it and I admit it’s a bit sad. We always wish there is a solution for people who want to have a Pyjamas swag can get it to they door.&lt;/p&gt;
+
+&lt;p&gt;Dream no more! This year, we will try launching a merch shop. With it, you can find the item that you would like to have, custommize it and have it produce and sent to you. Unfortunately it won’t be free for everyone but I think it is a more enviromentally friendly solution - get something you want rather than given a bunch of swag that you may not want to keep. Again, the profit we made will be used to support the conference and the Python community.&lt;/p&gt;
+
+&lt;p&gt;The merch shop can also help us deliver gifts for speakers and volunteers this year if we have the budget for it. It is to be confirmed.&lt;/p&gt;
+
+&lt;p&gt;Details about the merch shop is to be announced. Let’s get excited.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;dont-miss-the-call-for-proposal&quot;&gt;Don’t miss the Call for Proposal&lt;/h5&gt;
+
+&lt;p&gt;Before you go, I will have to tell you that the &lt;strong&gt;Call for Proposal is already opened&lt;/strong&gt; and will be closing in no time!! So don’t hesitate and submit any talks that you would like to give. It can be &lt;em&gt;technical or non-technical&lt;/em&gt;, as long as you think this is what people in the Python community would be interested. As before you can either give your talk &lt;em&gt;live or recorded&lt;/em&gt;, thie year you can event submit talks that is in a &lt;em&gt;language that is not English&lt;/em&gt;. All talks are 20-25 mins long, details please see &lt;a href=&quot;https://pyjamas.live/cfp/&quot;&gt;our CfP page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As always we encourage new speakers to give it a go! I always view Pyjamas a good testing ground as the community is very supportive. If you are really nervous about giving live talk in frount of a big crowd, recording a 25 mins talk seems like a less intimidating idea. This year we do not have enough capacity to give special support to less experience speakers but if you have any questions, &lt;a href=&quot;mailto:contact@pyjamas.live&quot;&gt;drop us an email&lt;/a&gt; and we will try to help you as much as we can.&lt;/p&gt;
+
+&lt;p&gt;For more experience speakers, we always welcome you back. You can use Pyjamas to test out new ideas or new talks before you next big gig, let’s have fun together.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Aug 2022 22:00:00 +0000</pubDate>
+        <link>https://pyjamas.live/blog/pyjamas-conf-2022</link>
+        <guid isPermaLink="true">https://pyjamas.live/blog/pyjamas-conf-2022</guid>
+      </item>
+    
+      <item>
+        <title>Announcing Another Lazy Python Conference!</title>
+        <description>&lt;h4 id=&quot;3-years-in-a-row-you-can-lazily-sit-at-our-coach-to-join-a-python-conference-worldwide&quot;&gt;3 years in a row, you can lazily sit at our coach to join a Python Conference worldwide!&lt;/h4&gt;
+
+&lt;p&gt;Being tired of all the conferences that happened online? Don’t worry, we are different from the other online tech conference. We are totally community-run and very chill.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://c.tenor.com/P0_30tC2ASgAAAAC/chill-relax.gif&quot; alt=&quot;chill gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The conference is free! There will be a 24 hours (almost non-stop) stream of your favourite talks by your favourite speakers about anything (that is interesting to a Pythonista). Besides, you can chat with your Python friends that you have not met in a long while, or make new Python friends that are 100 miles away.&lt;/p&gt;
+
+&lt;p&gt;Last year we have lots of fun connecting 1000+ Pythonistas worldwide drinking chocolate and showing off our favourite onesies. Check out our &lt;a href=&quot;https://twitter.com/intent/user?screen_name=PyjamasConf&quot;&gt;Twitter&lt;/a&gt; and see.&lt;/p&gt;
+
+&lt;h4 id=&quot;when-is-it-going-to-happen&quot;&gt;When is it going to happen?&lt;/h4&gt;
+&lt;p&gt;Saturday, December 4th 2021, everywhere on Earth (we will be running for 24 hours, for the exact &lt;a href=&quot;https://www.timeanddate.com/worldclock/fixedtime.html?msg=Pyjamas+Conf+2021&amp;amp;iso=20211204T07&amp;amp;ah=23&amp;amp;am=55&quot;&gt;conference starting time check here&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h4 id=&quot;cfp-is-now-open-become-a-python-speaker-today&quot;&gt;CfP is now open! Become a Python speaker today!&lt;/h4&gt;
+
+&lt;p&gt;If you want to contribute more to the conference, you are welcome to submit your proposal so we can have you and your brilliant ideas in our talk lineups! We are open to any topics that Pythonistas will be interested in and welcome speakers from all backgrounds: new speakers, speakers from minority groups.&lt;/p&gt;
+
+&lt;p&gt;Details please check out out &lt;a href=&quot;https://pyjamas.live/cfp/&quot;&gt;CfP page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We are also looking for reviewers to help review all the amazing proposals that we are receiving.&lt;/p&gt;
+
+&lt;h4 id=&quot;accessibility&quot;&gt;Accessibility&lt;/h4&gt;
+
+&lt;p&gt;Pyjamas Conf aims to include the community around the world that is not necessarily able to join physical conferences around the world due to many reasons. We are a free conference where anyone can join either to attend, volunteer and/or advocate for Python. We will broadcast the tracks on our YouTube channels for 24 hours. Everyone can join anytime, anywhere (and in their pyjamas).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media1.tenor.com/images/4bc7d5468b29849560b1c4dfec744446/tenor.gif?itemid=13767222&quot; alt=&quot;pyjamas gif&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;see-you-all-in-pyjamas-conf-2021-i-am-going-back-to-bed-now&quot;&gt;See you all in Pyjamas Conf 2021! I am going back to bed now.&lt;/h5&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://c.tenor.com/EHnzsehBZaQAAAAC/backspring-go-to-bed.gif&quot; alt=&quot;nite nite gif&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 04 Sep 2021 22:00:00 +0000</pubDate>
+        <link>https://pyjamas.live/blog/conference-launch</link>
+        <guid isPermaLink="true">https://pyjamas.live/blog/conference-launch</guid>
+      </item>
+    
+      <item>
+        <title>Tickets on sale &amp; partnership news!</title>
+        <description>&lt;h4 id=&quot;tickets-are-out&quot;&gt;Tickets are out!&lt;/h4&gt;
+
+&lt;p&gt;We are so very excited to announce that Pyjamas tickets are now on sale!&lt;/p&gt;
+
+&lt;p&gt;You can get your them here:&lt;/p&gt;
+
+&lt;!-- place this in your head tag --&gt;
+&lt;script src=&quot;https://js.tito.io/v1&quot; async=&quot;&quot;&gt;&lt;/script&gt;
+&lt;!-- place this where you want the widget to appear --&gt;
+
+&lt;tito-widget event=&quot;python-ireland/pyjamas-2020&quot;&gt;&lt;/tito-widget&gt;
+&lt;!-- for basic styles include a link to our stylesheet. --&gt;
+
+&lt;!-- fancy something more adventurous? Copy it and roll your own! --&gt;
+&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://css.tito.io/v1.1&quot; /&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;i-thought-it-was-free&quot;&gt;I thought it was free?!&lt;/h5&gt;
+
+&lt;p&gt;The conference is free for everyone, the money you see there is a &lt;strong&gt;suggested donation&lt;/strong&gt;. So you can choose to delete the value or keep it as a donation.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;microsoft-partnership&quot;&gt;Microsoft partnership&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://c.s-microsoft.com/en-us/CMSImages/ImgOne.jpg?version=D418E733-821C-244F-37F9-DC865BDEFEC0&quot; alt=&quot;Microsoft logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We are also proud to announce Microsoft as our Cashmere sponsor for Pyjamas 2020!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/7TkSKe6bpCmUBPdebX/giphy.gif&quot; alt=&quot;Win 95 celebration dance&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What got the organising team doing the Win 95 launch dance (social distancing, of course).&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;h4 id=&quot;tldr&quot;&gt;TLDR;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Buy tickets&lt;/li&gt;
+  &lt;li&gt;It’s gonna be cool&lt;/li&gt;
+  &lt;li&gt;You’re gonna see Microsoft on cashmere&lt;/li&gt;
+  &lt;li&gt;Tell everyone and invite your friends!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Finally, there will be SWAG!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/kiBcwEXegBTACmVOnE/giphy-downsized-large.gif&quot; alt=&quot;There will be swag&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;–&lt;/p&gt;
+
+&lt;p&gt;We are very excited to have you all joining us for the cosiest Python conference around the block!&lt;/p&gt;
+
+&lt;p&gt;So grab your prettiest onesie, sit tight with your teddy bears and come and join us for 24 hours of Python-fun!&lt;/p&gt;
+
+&lt;p&gt;We wait for you there!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And the call for volunteers is still going on: we need organisers and all else, Python-related or not.
+Leave a comment below if you are interested.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;If you have any questions, wish to apply for a Community Space on Pyjamas or simply wish to help with volunteering, head over to our &lt;a href=&quot;https://pyjamas.live&quot;&gt;website&lt;/a&gt; or send us DM on twitter at &lt;a href=&quot;http://twitter.com/PyjamasConf&quot;&gt;@pyjamasaconf&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 12 Nov 2020 20:00:00 +0000</pubDate>
+        <link>https://pyjamas.live/blog/tickets-on-sale</link>
+        <guid isPermaLink="true">https://pyjamas.live/blog/tickets-on-sale</guid>
+      </item>
+    
+      <item>
+        <title>CfP Workshop - Ask me anything</title>
+        <description>&lt;h5 id=&quot;lets-do-it-together&quot;&gt;Let’s do it together&lt;/h5&gt;
+
+&lt;p&gt;We know that speaking at a conference, especially for the first time, can be scary at first. But it’s a wonderful experience sharing your story to Pythonistas around the world.&lt;/p&gt;
+
+&lt;p&gt;We would like to help, we would like to make it easy for you. We also want to hear different voices in the Python community so we don’t want you, who got a great idea and a fascinating story, to turn away and not submitting because you have no idea how to write down a proposal that will make the reviews love your talk. So let us do it together, shall we?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;ok-so-whats-next&quot;&gt;Ok, so what’s next?&lt;/h5&gt;
+
+&lt;p&gt;We know that you have lots of questions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How to write a good proposal?&lt;/li&gt;
+  &lt;li&gt;What do I need to do to submit a proposal?&lt;/li&gt;
+  &lt;li&gt;Are the talks going to be live or recorded?&lt;/li&gt;
+  &lt;li&gt;How to present online?&lt;/li&gt;
+  &lt;li&gt;How does the time zone things work?&lt;/li&gt;
+  &lt;li&gt;Is my idea a good idea?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Don’t worry, we got you covered. We will have 2 &lt;strong&gt;Ask me anything&lt;/strong&gt; workshop sessions for you to attend. At the workshop, we, the organisers of Pyjamas Conf 2020, who are also experienced speakers at various conferences will answer questions from you. If you feel comfortable, we can also brainstorm ideas together.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;how-to-join-the-workshop&quot;&gt;How to join the workshop?&lt;/h5&gt;
+
+&lt;p&gt;Just sign up to the Zoom Webinar here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/webinar/register/WN_19UStPQCQveiZiVBbdwHRg&quot; class=&quot;btn-new&quot;&gt;Session 1 - 27th Aug 2020 6pm UTC&lt;/a&gt;
+&lt;a href=&quot;https://us02web.zoom.us/webinar/register/WN_BAGeJ_Z4QxaRsI6tDnNEvw&quot; class=&quot;btn-new&quot;&gt;Session 2 - 28th Aug 2020 8am UTC&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We recommend signing up for either one of those sessions. However, if you feel the need for joining 2 sessions, you can sign up to both.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;what-if-i-want-some-1-1-mentoring&quot;&gt;What if I want some 1-1 mentoring?&lt;/h5&gt;
+
+&lt;p&gt;I know discussions with everyone during the workshop may not be right for you. If you are a new speaker and if you need help submitting to Pyjamas Conf 2020, please get in touch by &lt;a href=&quot;https://twitter.com/PyjamasConf&quot;&gt;Twitter&lt;/a&gt; or &lt;a href=&quot;mailto:contact@pyjamas.live&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We cannot promise a 1-1 mentor assigned to you but the organising team will try to help as much as we can.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;what-if-i-want-to-speak-in-another-language-not-english&quot;&gt;What if I want to speak in another language, not English?&lt;/h5&gt;
+
+&lt;p&gt;You are welcome to do so! However, we would suggest you submit to the community space, where we may bundle your talk together with other speakers who would like to give a talk in the same language. We think bundling up talks in the same language will be much better for the audiences who are interested in those talks. We also welcome organisers to co-organise these talk blocks with us, just &lt;a href=&quot;https://pyjamas.live/cfp/&quot;&gt;submit a proposal to the community space&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;lets-talk-about-accessibility&quot;&gt;Let’s talk about accessibility&lt;/h5&gt;
+
+&lt;p&gt;If you have any special needs, let us know. We will try our best to not let it stops you from submitting and giving talks.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;spread-the-words&quot;&gt;Spread the words&lt;/h5&gt;
+
+&lt;p&gt;Please let your friends, family, co-workers and your local community know about Pyjamas Conf and the free CfP workshop.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;ready-to-submit&quot;&gt;Ready to Submit?&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pyjamas.live/cfp/&quot; class=&quot;btn btn-primary waves-effect waves-button waves-light waves-float&quot;&gt;See the Call for Proposals&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 Aug 2020 22:00:00 +0000</pubDate>
+        <link>https://pyjamas.live/blog/ask-me-anything</link>
+        <guid isPermaLink="true">https://pyjamas.live/blog/ask-me-anything</guid>
+      </item>
+    
+      <item>
+        <title>Community Space - what is it?</title>
+        <description>&lt;p&gt;The call for proposals for Pyjamas was launched just a few days ago and we are so excited organising everything that we decided clarify one of our favourite features about Pyjamas…&lt;/p&gt;
+&lt;h2 id=&quot;the-community-space&quot;&gt;the Community Space!&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/tyxovVLbfZdok/giphy.gif&quot; alt=&quot;Big Lebowski celebrating&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;but-what-is-a-community-space---you-might-ask&quot;&gt;But what is a Community Space? - you might ask.&lt;/h3&gt;
+
+&lt;p&gt;Great question, Padawan!&lt;/p&gt;
+
+&lt;p&gt;The aim is to have an independent track for your local community within our comfy conference. So that we encourage engagement from local/small communities everywhere.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-will-it-work&quot;&gt;How will it work?&lt;/h2&gt;
+
+&lt;p&gt;We will allocate rooms with time blocks (min. 2 hours) which will be given to community members who submit a Community Space (CS) proposal.
+The plans for the event are all based on your wishes. It will be your event after all, we will just help you with the setup, space and guidance - if it is required.&lt;/p&gt;
+
+&lt;h2 id=&quot;who-is-this-space-for-shall-i-submit-a-proposal&quot;&gt;Who is this Space for? Shall I submit a proposal?&lt;/h2&gt;
+
+&lt;p&gt;If you are part of a community and wish to gather some speakers and host a mini-conference (or host any event of your choosing) in your own main-language (or not), or maybe you wish to host informal discussions of Python-related topics… this is your chance!
+It is literally open for YOU.&lt;/p&gt;
+
+&lt;p&gt;And we hope everyone can make good use of it.&lt;/p&gt;
+
+&lt;p&gt;We want to give the small communities the chance to step forward and be part of the Global Python one. After all, we are all under the same open source.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/UZQQ0yZtq5Ihq/giphy.gif&quot; alt=&quot;Mounty Python scene&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;they-say-the-devil-is-in-the-details---proposal-submission&quot;&gt;They say the Devil is in the details - Proposal submission&lt;/h2&gt;
+&lt;h3 id=&quot;guidelines&quot;&gt;Guidelines&lt;/h3&gt;
+
+&lt;p&gt;The proposal submission for this community space is super simple. We will need:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the time (with timezone) and duration of your event;&lt;/li&gt;
+  &lt;li&gt;a basic outline describing the type of event you plan to host - please, be as detailed as possible;&lt;/li&gt;
+  &lt;li&gt;an estimate of the expected capacity (number of attendees) for your &lt;del&gt;Python-party&lt;/del&gt; serious event;&lt;/li&gt;
+  &lt;li&gt;the community you are affiliated with (e.g., PyLadies, DjangoGirls, PyData, TransCode, etc).&lt;/li&gt;
+  &lt;li&gt;any other info we should be aware about - be the judge!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As always we want to make sure everything is in agreement with our &lt;a href=&quot;https://pyjamas.live/coc/&quot;&gt;Code of Conduct&lt;/a&gt;, so make sure you have a read and behave! We love everyone and really ruins our day to be ‘nasty’ to attendees. We will if you misbehave, though.&lt;/p&gt;
+
+&lt;p&gt;The approved proposals will receive news from the organising committee with the followup details.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/WsMBa68UUh86q2SR0d/source.gif&quot; alt=&quot;join us gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We are so excited to see what you are all going to come up with! Please keep the talk proposals coming and if you want to do a little bit more, apply to be a volunteer. We need Reviewers, Organisers and all else, Python-related or not.
+Leave a comment below if you are interested.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;If you have any questions, wish to apply for a Community Space on Pyjamas or simply wish to help with volunteering, head over to our &lt;a href=&quot;https://pyjamas.live&quot;&gt;website&lt;/a&gt; or send us DM on twitter at &lt;a href=&quot;http://twitter.com/PyjamasConf&quot;&gt;@pyjamasaconf&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 06 Aug 2020 20:00:00 +0000</pubDate>
+        <link>https://pyjamas.live/blog/community-space</link>
+        <guid isPermaLink="true">https://pyjamas.live/blog/community-space</guid>
+      </item>
+    
+      <item>
+        <title>Announcing Pyjamas Conf!</title>
+        <description>&lt;h5 id=&quot;it-is-with-a-lot-of-excitement-that-we-announce-pyjamas-2020-2nd-edition-this-time-worldwide&quot;&gt;It is with a lot of excitement that we announce Pyjamas 2020 (2nd edition), this time worldwide!&lt;/h5&gt;
+
+&lt;p&gt;Before COVID-19 struck us all with lockdown-news, the idea to host an online conference with tracks with speakers from all over the world on a 24 hours-format was already consolidated. Pyjamas came from the need to bring more diversity in all fronts to the Python conference-world. The organizing committee is a joined effort of multiple nationalities, volunteering their not so free time to make it all happen.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;when-is-it-going-to-happen&quot;&gt;When is it going to happen?&lt;/h4&gt;
+&lt;p&gt;December 5th, everywhere on Earth (we will be running for 24 hours so it may be 4th or 6th for you at some time).&lt;/p&gt;
+
+&lt;h4 id=&quot;why-pyjamas---you-may-ask&quot;&gt;Why PyJamas? - you may ask.&lt;/h4&gt;
+&lt;p&gt;Rule number 1 of Pyjamas is “One shall present your talk wearing pyjamas”. The event is a 24 hours world-wide Python conference with 2 tracks hosting diverse speakers, where everyone will be wearing jammies (no matter what does it mean for you).
+Do you get it? Python + pyjamas = Pyjamas. I know… mind-blowing!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media1.tenor.com/images/f22a28d569fbdb554bf5c5fa70f09bee/tenor.gif?itemid=10279314&quot; alt=&quot;mind blown gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As general rules go, have a look at our &lt;a href=&quot;https://pyjamas.live/coc/&quot;&gt;Code of Conduct&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The conference will have 2 tracks:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Main Conference: 24 hours streaming of talks, with diverse speakers from all over the world.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Community Track: these are open space for communities to apply. They can run workshops, organize mentored sprints for minorities, lightning talks (or slide-decks karaoke?) sessions or have a 1st-time speakers-track/ non-English speaking track. The sky is the limit.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;accessibility&quot;&gt;Accessibility&lt;/h4&gt;
+
+&lt;p&gt;Pyjamas Conf aims to include the community around the world that is not necessarily able to join physical conferences around the world due to many reasons. We are a free conference where anyone can join either to attend, volunteer and/or advocate for Python. We will broadcast the tracks on our YouTube channels for 24 hours. Everyone can join anytime, anywhere (and in their pyjamas).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media1.tenor.com/images/4bc7d5468b29849560b1c4dfec744446/tenor.gif?itemid=13767222&quot; alt=&quot;pyjamas gif&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;community&quot;&gt;Community&lt;/h4&gt;
+
+&lt;p&gt;We all know that the Python community is very open and nice to people, especially beginners. Based on principles of &lt;a href=&quot;https://www.python.org/community/diversity/&quot;&gt;“on mutual respect, tolerance, and encouragement”&lt;/a&gt; the Python community wants to be even more inclusive and diverse.
+For that reason, we decided to push the diversity focus on our event. We encourage people to get involved, joining the organizing/ volunteer team no matter which part of the world you are in, no matter if you are new to Python or a senior dev.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://forms.gle/stFtrXG4QnNPz6yg6&quot; class=&quot;btn btn-primary waves-effect waves-button waves-light waves-float&quot;&gt;Join the team&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;call-for-proposals&quot;&gt;Call for Proposals&lt;/h4&gt;
+
+&lt;p&gt;Be part of Pyjamas! The &lt;a href=&quot;https://pyjamas.live/cfp/&quot;&gt;call for proposals&lt;/a&gt; will open soon. We would love to see your submissions. If you are interested in reviewing proposals, please get in touch.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pyjamas.live/cfp/&quot; class=&quot;btn btn-primary waves-effect waves-button waves-light waves-float&quot;&gt;See the Call for Proposals&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;So there you go, Pyjamas 2020!&lt;/p&gt;
+
+&lt;p&gt;All that, from the softness of your jammies and the comfiness of your sofa to the rest of the world.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Jul 2020 22:00:00 +0000</pubDate>
+        <link>https://pyjamas.live/blog/conference-launch</link>
+        <guid isPermaLink="true">https://pyjamas.live/blog/conference-launch</guid>
+      </item>
+    
+  </channel>
+</rss>
